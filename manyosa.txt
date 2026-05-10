@@ -121,3 +121,28 @@ Source: Every Noise genre maps — The Sound of Afro House, The Sound of South A
 9	"Come To The West (Chymamusique Edit) - Dub"	June Jazzin, Chymamusique	SA Soulful Deep House	open.spotify.com/track/6i1f4PZvNfwvtzk4ITvE3O
 10	"Almighty Push"	Thabo Tonick, Jazzuelle	SA Deep House	open.spotify.com/track/2ThG4Dzj9ixJ4K4tu8YWun
 
+
+--- Batch 6 — Every Noise Discovery (Soulful House, SA Deep House, SA Soulful Deep House, Afro House) ---
+Source: Every Noise genre maps — The Sound of Soulful House, The Sound of South African Deep House, The Pulse of SA Soulful Deep House, The Pulse of Afro House
+
+1	"Let Me See You (Clap Your Hands)"	Michele Chiavarini	Soulful House	open.spotify.com/track/1Rji2sKlCxwfyxuk8N8FlX
+2	"Holding On"	Sean McCabe	Soulful House	open.spotify.com/track/4obTjLqoXp7ZYHqkmJohjN
+3	"Darlin' Darlin' Baby (Sweet & Tender Love) - Spen & Thommy's Radio Mix"	Thommy Davis, Neal Conway, Randy Roberts	Soulful House	open.spotify.com/track/0LKxQrwAZoiB2PRsyy0iBU
+4	"I Don't Know Why (Manoo Remix)"	Dave Anthony, Beverlei Brown, Manoo	Soulful House	open.spotify.com/track/49VGGngHcag5scNWE2vwa5
+5	"Hyperspace"	Souldynamic	Soulful House	open.spotify.com/track/2PLHCXYbYI8hKNynmCmi0h
+6	"What A Difference (Booker T Kings Of Soul Vocal Mix)"	Earl Tutu, John Khan, Kings Of Soul, Booker T	Soulful House	open.spotify.com/track/0zs3TtBGK0mEF4lGrCLI4v
+7	"Never Fall In Love With A DJ"	Emmaculate, Carla Prather	Soulful House	open.spotify.com/track/4pNxUPVJmPGuWm0LRoOxfH
+8	"Just Sing (MuthaFunkaz Remix)"	Distant People, Patrick Chappell, The Muthafunkaz	Soulful House	open.spotify.com/track/5tpwCi92ZX4B6826kyOhSQ
+9	"Hold To His Hand (Reggie Steele & DJ Spen Original Mix)"	Reggie Steele, DJ Spen	Soulful House	open.spotify.com/track/27gm2FCWeeVejIhwws7nVr
+10	"Warning (Rhemi Main Mix)"	Rhemi, Lynn Lockamy	Soulful House	open.spotify.com/track/6xTni3zSyk6P26KH251AZF
+11	"Halleluya"	Spin Worx, 0715 Sounds	SA Deep House	open.spotify.com/track/6n0QoiTZZekcomF5LDzOlj
+12	"Sunkissed"	Beat Soul	SA Deep House	open.spotify.com/track/724OCwIxq6i9Shw8Mpr6v0
+13	"Visions Of Love (Enoo Napa Remix)"	Roque, Nontu X, Enoo Napa	SA Soulful Deep House	open.spotify.com/track/3bXwyFgXfvKqqX7QLbocCt
+14	"Mother Of The Sun"	Wade Watts, Tee Maestro	SA Soulful Deep House	open.spotify.com/track/4fzGWwLg7cd3ECUda2x9FK
+15	"My Heart As A Synth"	Thabo Tonick	SA Soulful Deep House	open.spotify.com/track/5aO4NWKwTiWGG72rTdysDU
+16	"Isambulo"	Karyendasoul	Afro House	open.spotify.com/track/5AX7Pbcyp0wwEI0rTASlFJ
+17	"After All"	Ankhoï	Afro House	open.spotify.com/track/6mQKtXxkbTVamgyRayRQLL
+18	"Yamore (Francis Mercier & André Soueid Remix)"	MoBlack, Francis Mercier, Salif Keita, Andre Soueid	Afro House	open.spotify.com/track/3E3ns7W3sEdi0AqyDq8Ovt
+19	"Boom Boom [Mixed]"	Citizen Deep, Thakzin, Atmos Blaq	Afro House	open.spotify.com/track/4ap1ChhU2OAoXDGf0p5fS9
+20	"Find Your Way (Moojo Remix)"	The Spirit Project, Starving Yet Full, Moojo	Afro House	open.spotify.com/track/5wZWmBaTX9wHEwaLwzjvpI
+
