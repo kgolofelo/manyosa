@@ -91,3 +91,18 @@ Song: Lost In Space - Enchanted Mix
 Genre: South African Deep House
 Selected from the "Edge" of the SA Deep House map. It stays true to the South African sound while pushing into more experimental, "Enchanted" territory.
 
+
+--- Batch 4 — Every Noise Discovery (Deep House, Organic House, Funky House, Nu-Disco) ---
+Source: Every Noise genre maps — Sound of Deep House, Sound of Organic House, Intro to Funky House
+
+1	"Finally"	Kings Of Tomorrow feat. Julie McKnight	Garage/Deep House	open.spotify.com/track/1BeZ3neH8aQioMKccVHdS9
+2	"Want You In My Soul"	Lovebirds feat. Stee Downes	Deep House	open.spotify.com/track/125ABiFu87TxipoWAMK8LR
+3	"Lingala"	Lee Burridge & Lost Desert feat. Junior	Organic House	open.spotify.com/track/7LUHE4hZCIOj4sum2RapRK
+4	"The Cure & The Cause"	Fish Go Deep feat. Tracey K	Deep House	open.spotify.com/album/2WPT8q2K6a24zClqn0dAWM
+5	"These Are Just Places To Me Now"	Folamour	Funky House	open.spotify.com/track/5kAwEqCAJ4yHdHmlAMSczs
+6	"Yes, No, Maybe"	Dam Swindle feat. Tom Misch & Lorenz Rhode	Funky Deep House	open.spotify.com/track/1OCyvBDbH188HXsv59Cy8I
+7	"Heartbreaker"	Crazy P	Nu-Disco / Deep House	open.spotify.com/track/4lKuJy6ozGLRMMIXTGesg4
+8	"Benediction"	Hot Natured	Deep / Tech House	open.spotify.com/track/5RJc9Ex116Dx1zHGUOZGgX
+9	"Conclusion"	Jayda G	Soulful / Disco House	open.spotify.com/track/597lyhBWvFDUBY469LjFHP
+10	"Love Somebody Else"	Jon Dasilva feat. Maceo Plex & Joi Cardwell	Progressive House	open.spotify.com/track/6NVC5lahjsuyq7e4C48NGG
+
