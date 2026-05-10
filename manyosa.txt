@@ -106,3 +106,18 @@ Source: Every Noise genre maps — Sound of Deep House, Sound of Organic House, 
 9	"Conclusion"	Jayda G	Soulful / Disco House	open.spotify.com/track/597lyhBWvFDUBY469LjFHP
 10	"Love Somebody Else"	Jon Dasilva feat. Maceo Plex & Joi Cardwell	Progressive House	open.spotify.com/track/6NVC5lahjsuyq7e4C48NGG
 
+
+--- Batch 5 — Every Noise Discovery (Afro House, SA Deep House, SA Soulful Deep House) ---
+Source: Every Noise genre maps — The Sound of Afro House, The Sound of South African Deep House, The Sound of South African Soulful Deep House
+
+1	"Toukan (Dixon Rework)"	Manoo, Mr Raoul K, Ahmed Sosso, Dixon	Afro House	open.spotify.com/track/3U39SHdh7f7rGGv5SollUp
+2	"Clareou"	MoBlack, Tato, FBC, VHOOR, Tuyo	Afro House	open.spotify.com/track/1Lg2aS1Hl1sKpfEoClcder
+3	"Beautiful (Phila De Giant Remix)"	XtetiQsoul, Cebow M, LOFT 93, Phila De Giant	Afro House	open.spotify.com/track/0fyy8qYfmfsXwEVJh9xeMZ
+4	"Softly Breaking"	Paso Doble, Cammie Robinson	Afro House	open.spotify.com/track/597ExRpn1iyMBnNHVeNeOA
+5	"Mwanangu (Enoo Napa Remix)"	Jackie Queens, VeneiGrette	Afro House	open.spotify.com/track/1mtquC4g0jKkLWMxzUqxEh
+6	"Kore (Main HT)"	HyperSOUL-X	Afro House	open.spotify.com/track/67JlR3AWddnwsNRyDJC2P0
+7	"Jahera Na (Da Africa Deep Remix)"	Native Tribe, Tina Ardor, Da Africa Deep	Afro House	open.spotify.com/track/4xK5t8A3yBO2GQWTlyvPJO
+8	"Mbokodo [Mixed]"	Leo Guardo, Tabia	Afro House	open.spotify.com/track/41l8fc7xiJWEqz9xooz3Ak
+9	"Come To The West (Chymamusique Edit) - Dub"	June Jazzin, Chymamusique	SA Soulful Deep House	open.spotify.com/track/6i1f4PZvNfwvtzk4ITvE3O
+10	"Almighty Push"	Thabo Tonick, Jazzuelle	SA Deep House	open.spotify.com/track/2ThG4Dzj9ixJ4K4tu8YWun
+
