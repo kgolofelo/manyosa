@@ -146,3 +146,28 @@ Source: Every Noise genre maps — The Sound of Soulful House, The Sound of Sout
 19	"Boom Boom [Mixed]"	Citizen Deep, Thakzin, Atmos Blaq	Afro House	open.spotify.com/track/4ap1ChhU2OAoXDGf0p5fS9
 20	"Find Your Way (Moojo Remix)"	The Spirit Project, Starving Yet Full, Moojo	Afro House	open.spotify.com/track/5wZWmBaTX9wHEwaLwzjvpI
 
+
+--- Batch 7 — Every Noise Discovery (Global House Picks) ---
+Source: Every Noise genre maps — house research and artist profiles
+
+1	"Atmosphere"	EDX	House	https://open.spotify.com/track/5xO9FcxJkoE2Atgyv3t5bB
+2	"Innerglow"	EDX	House	https://open.spotify.com/track/6JOypVHG0E5UmL59Pylp7f
+3	"Charma"	EDX	House	https://open.spotify.com/track/0K7SkpnKer4yv8gDF1t0EF
+4	"Moyo"	EDX	House	https://open.spotify.com/track/1rTsKtUvT6tGE1NDG9lONe
+5	"Cobalt"	EDX	House	https://open.spotify.com/track/1kjeJUxMwbKaPrjlqYX5DU
+6	"Longlivedad"	EDX	House	https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC
+7	"Osculate"	EDX	House	https://open.spotify.com/track/1aBqacTN1GPoMggJCShzZM
+8	"Anamnesis"	EDX	House	https://open.spotify.com/track/3lZyuf0srrtzrThRh6atJU
+9	"Setema"	EDX	House	https://open.spotify.com/track/2iUO7vbmNgtm9iQNK0Zvcx
+10	"Vividra"	EDX	House	https://open.spotify.com/track/3IXI4mPasmTfNWuYus3FuW
+11	"Freedom"	WEISS	House	https://open.spotify.com/track/3uGSipffzPJKWM0mzdWuLz
+12	"Reach"	WEISS	House	https://open.spotify.com/track/0AsbW7inBC9LLBx76fmOPi
+13	"Promises"	WEISS	House	https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi
+14	"Ain't Me Without You"	WEISS	House	https://open.spotify.com/track/6yrZy3rpbx86Vqrdgcs5gu
+15	"Funk U"	WEISS	House	https://open.spotify.com/track/0kjqtxImrebDm389F9CPCn
+16	"Where Do We Go?"	WEISS	House	https://open.spotify.com/track/3reyyWDm2gq1QHSBKGO0v1
+17	"Push It Up"	WEISS	House	https://open.spotify.com/track/3xjHnuPWmrccPPXqfpFptB
+18	"Acid Chunk"	WEISS	House	https://open.spotify.com/track/0El7eh3T5tG37M9eC1K0YL
+19	"Say It To Me"	WEISS	House	https://open.spotify.com/track/04Uw0cjvU3cYkhF0aNiL6t
+20	"Street Feet"	WEISS	House	https://open.spotify.com/track/3XQ2c4oqN7zQjZeA2Dslh2
+
