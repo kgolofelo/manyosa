@@ -171,3 +171,58 @@ Source: Every Noise genre maps — house research and artist profiles
 19	"Say It To Me"	WEISS	House	https://open.spotify.com/track/04Uw0cjvU3cYkhF0aNiL6t
 20	"Street Feet"	WEISS	House	https://open.spotify.com/track/3XQ2c4oqN7zQjZeA2Dslh2
 
+
+
+--- Batch 8 — Every Noise Discovery (SA House & Global House) ---
+Source: Every Noise genre maps — Sound of SA Soulful Deep House, Sound of SA Deep House, Sound of Afro House, Intro to Afro House, Sound of Soulful House, Sound of Organic House playlists
+
+1	"Vumani"	Dr Feel	Afro House	https://open.spotify.com/track/50EzgMX3uxJZ8T2IJm2U6R
+2	"Dark Elephants [Mixed]"	Benny T	Afro House	https://open.spotify.com/track/7gTBE4GrEbKmNmopshx9DF
+3	"Be Kind To Yourself"	WAPO Jije	SA Soulful Deep House	https://open.spotify.com/track/4PNCZLfw8BafbeX5RrMLrM
+4	"China Town"	Elvis27	SA Soulful Deep House	https://open.spotify.com/track/6opaHPfjPyB5sN8surVNox
+5	"Beauteous Sandra"	Lunga SA	SA Soulful Deep House	https://open.spotify.com/track/7xaZLyc1jHa55R5YS3l1VJ
+6	"The Gameplan"	Fynn	SA Soulful Deep House	https://open.spotify.com/track/4Fl3uu5PrliDjR8Fo4NAuJ
+7	"My Heartbeat For You"	RoneeDeep feat. Zawadi	SA Soulful Deep House	https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs
+8	"Stay"	Veesoul, Aquadeep, Martin P, A.M	SA Soulful Deep House	https://open.spotify.com/track/3DytgIZudf5WF8rbupFdSV
+9	"Love Somebody - Tribute To Roctonic Ecstatic Mix"	Merlzar	SA Soulful Deep House	https://open.spotify.com/track/6kODZbQ8dElocwxfdyz6UG
+10	"Mercy, Mercy"	DVRK Henning, C-Moody	SA Soulful Deep House	https://open.spotify.com/track/64ydksUn7430d4LmZVoyLE
+11	"I'll Find A Way"	Nestro DaProducer	SA Soulful Deep House	https://open.spotify.com/track/1qn04uMI9cndYgvlxXcdHl
+12	"Hidden Agender"	Vince deDJ	SA Deep House	https://open.spotify.com/track/7z7OJUZ7CIuS5sYEANwWoK
+13	"Upendo"	AndileAndy	SA Soulful Deep House	https://open.spotify.com/track/24I2BxIlYhkJrxTG9j1UH0
+14	"Perseverance - Nostalgic dub"	NUF DeE	SA Soulful Deep House	https://open.spotify.com/track/5rItoUUKpOQ3f3JK6e0n0j
+15	"At the Club"	Timmy Regisford	Soulful House	https://open.spotify.com/track/6cBAUOASCcklnDYqSyMqBp
+16	"The Way - RBL Edit"	Wipe The Needle feat. Syren Rivers	Soulful House	https://open.spotify.com/track/14lAZzxyO8VhjZLBLmzSv6
+17	"Ring for Rhemi"	Neil Pierce	Soulful House	https://open.spotify.com/track/1fjDUwlyeVgOfM1breMTFI
+18	"Love Therapy"	Tahir Jones, Chronical Deep	SA Deep House	https://open.spotify.com/track/4dxvkZOUlQYl16PVqpeA9O
+19	"Get Down"	Gary Cooper SA	SA Deep House	https://open.spotify.com/track/6yatQ1aQSn4VlXTdWyJyWk
+20	"Love & Stuff"	Trevor G	SA Deep House	https://open.spotify.com/track/2fv3Rj38javieXNGid576v
+21	"Nostalgic City"	Aquadeep, Veesoul	SA Deep House	https://open.spotify.com/track/0eYpiMSzmH7tZf40ClUTx4
+22	"Le Fleur - (Chronical Deep 'Claps Back' remix)"	KVRVBO, Chronical Deep	SA Deep House	https://open.spotify.com/track/52g9VHQIJZ3zwdCp4v7CtO
+23	"Push To Open"	M.K Clive	SA Deep House	https://open.spotify.com/track/17k2F5CSWvZViTbjIRfcQM
+24	"Feel Free"	Frank Ru	SA Deep House	https://open.spotify.com/track/7EZiSXV5d0JnHo3dL159Rs
+25	"Deep & Wide - Goove Mix"	ShortBass	SA Deep House	https://open.spotify.com/track/04bZdLfPwr3FT16VBVGevX
+26	"I've Made the Bed for You - Baham Remix"	Gab Rhome, Baham	Organic House	https://open.spotify.com/track/4KduBNgVeGyiRZFm562WXK
+27	"Aldebaran - Original"	Armen Miran, Hraach	Organic House	https://open.spotify.com/track/6T6prTkN0PgnGPdW7lZ7Jv
+28	"Se Llama Cali"	Raw Main	Organic House	https://open.spotify.com/track/4J0Vv0dxrE7pHGcmrSi2Wz
+29	"Gorah"	Nitefreak, Emmanuel Jal	Afro House	https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj
+30	"Disappear"	THEMBA, Nico de Andrea, Tasan	Afro House	https://open.spotify.com/track/69C0Z5f1fMUvX9GTnt6yxj
+31	"Mbali - Jonathan Kaspar Remix"	Blanka Mazimela	Afro House	https://open.spotify.com/track/4CZNzgXEoSQV0xxXfbSOfi
+32	"Richa"	AMÉMÉ, Avi Snow, Idd Aziz	Afro House	https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf
+33	"One Sound"	Zepherin Saint	Soulful House	https://open.spotify.com/track/1Se5mBjsDwlvnT8Zze1a8I
+34	"For The Culture - Sean McCabe & Black Sonix Remix Edit"	The Journey Men, Mike City	Soulful House	https://open.spotify.com/track/7HOZfuZ9OzOtfHfOW3XNaK
+35	"When I Luv"	Mike City, Faith Evans	Soulful House	https://open.spotify.com/track/5VrsX64xJclp3WJMo5QGRv
+36	"Sexy Things - V. Lavender Sophisticado Black Soul Main Mix"	Vick Lavender	Soulful House	https://open.spotify.com/track/2lOsIrvpK6EgemrhstxI2E
+37	"Libre"	Cee ElAssaad, Sparrow & Barbossa	Afro House	https://open.spotify.com/track/0zbHkxwUT6WHC8xrjZ2Hn3
+38	"It's Not Right - Radio Edit"	Gianni Romano, Emanuele Esposito, Helen Tesfazghi	Afro House	https://open.spotify.com/track/4W3eLpTRL18ulWgCXMFbNm
+39	"Yababa - Tunisian Mix"	Pablo Fierro	Afro House	https://open.spotify.com/track/2RzpXFHgXybMjFCxHtOOnv
+40	"Every Breath You Take"	Simone Vitullo, Seraphiel	Afro House	https://open.spotify.com/track/7vVvsrRjGtEkKHaLxSG8Pn
+41	"Ese Soy Yo - FNX Omar Remix"	Hallex M, Floyd Lavine, Afrosideral, FNX Omar	Soulful House	https://open.spotify.com/track/6X3OOJNZtxhDFh956b2OsN
+42	"Let Me - Deep Soul Syndicate Remix"	DJ Beloved, Storm, Deep Soul Syndicate	Soulful House	https://open.spotify.com/track/14PgtRvDV7wFL2f6bMkBnr
+43	"Deep Within"	Tebza De SouL	SA Soulful Deep House	https://open.spotify.com/track/0voE1Kh5SUOiTUiSq4XbYS
+44	"The Question"	Yooks, Tasha LaRae	Soulful House	https://open.spotify.com/track/3b9jrQ66LhzaFKsPP0FhqF
+45	"Ukukhanya"	Roctonic SA, Bongani Mehlomakhulu	SA Deep House	https://open.spotify.com/track/5HdY3OmDbwD8lw2f93mhOv
+46	"Fades Away In The Thoughts"	Erdi Irmak	Organic House	https://open.spotify.com/track/7AabS2LhurFVGR3hUkU5v0
+47	"Kala"	Roy Rosenfeld	Organic House	https://open.spotify.com/track/3g1jQEYJMHrJO9MWc6EBj9
+48	"Hate It Or Love It"	Moojo, Bun Xapa	Afro House	https://open.spotify.com/track/7CTBE7KWgRWRxrjNVf8Iom
+49	"Wish I Didn't Miss You - John Morales M+M Vocal Mix"	Tasha LaRae, DJ Spen, John Morales	Soulful House	https://open.spotify.com/track/0E0hcu2pbhAWEp73N8XfZ2
+50	"Don't Lose Yourself (Extended Version)"	Thabang Phaleng, TimAdeep, trust sa	SA Soulful Deep House	https://open.spotify.com/track/0QieupD0VrgM3ChK3YN1Jp
