@@ -280,3 +280,57 @@ Source: Every Noise genre maps — afro house, SA deep house, soulful house, dee
 48	"Spicy"	SuperSkunk	Funky House	https://www.youtube.com/watch?v=goHWlc2P2YE
 49	"Padam Padam"	Kylie Minogue	Dance Pop	https://www.youtube.com/watch?v=p6Cnazi_Fi0
 50	"Surrender"	Desiree	Soulful House	https://www.youtube.com/watch?v=dq15i9UpQxQ
+
+--- Batch 10 — SA Deep House, Soulful House & Deep House Discovery ---
+Source: Every Noise genre maps — Sound of SA Deep House, Sound of SA Soulful Deep House, Sound of Soulful House, Sound of Deep House
+
+1	"The Rhythm Of Dancing"	&lez	SA Deep House	https://open.spotify.com/track/2hEsIVUsJM8m10GL5tLQSb
+2	"We Into Deep - STI T's Soul Touch"	Sir Vee The Great, STI T's Soul	SA Deep House	https://open.spotify.com/track/4T2iLg4cqreL4MghJCijiS
+3	"11pm At The Hive - Original Mix"	Young Molz	SA Deep House	https://open.spotify.com/track/0fkkxAPuTN3cQx0lEo54yL
+4	"Zorora - Fatso 98 Remix"	RamsTeque, Kosha ZA, TshegoTmm, Vencer Cafe, Fatso 98	SA Deep House	https://open.spotify.com/track/4RjD4MKH08ItzQ7wmIk1O3
+5	"Thank You - Healthy Mix"	Dustinho	SA Deep House	https://open.spotify.com/track/2RuAtbHIJrZ7oASkuWC14M
+6	"Return Of The Zulu Gangsta"	Radic The Myth	SA Deep House	https://open.spotify.com/track/1CXsFpUBsXteakxGRtiIA2
+7	"Spectrum"	Z.E.N	SA Deep House	https://open.spotify.com/track/50inTlRpFmPlM0NvwGYOho
+8	"I Love Life"	Thabang Baloyi	SA Deep House	https://open.spotify.com/track/1yCSoNndV7jqJ9xbdBQF3K
+9	"Don't Touch My Synth - Original mix"	Deep Sort 95	SA Deep House	https://open.spotify.com/track/6dWd1VidaMANjwwqZI2dgB
+10	"Life"	STI T's Soul	SA Deep House	https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD
+11	"Joker"	Ed-Ward	SA Deep House	https://open.spotify.com/track/7iIE5iJjyQ5STT7kFSY1fX
+12	"Don't Go - Chronical Deep Remix"	Lloyd BW, Kali Mija, Chronical Deep	SA Deep House	https://open.spotify.com/track/41cX7a79KlvuBHDtdRvh8B
+13	"Stay - Original Mix"	Academic Deep	SA Deep House	https://open.spotify.com/track/5KTtAMw7xgYxkweZOsSMSl
+14	"Hlala Nami"	DJExpo Sa, Nokulunga Vilakazi	SA Soulful Deep House	https://open.spotify.com/track/4972XPytN7Krx7TBOipSaZ
+15	"Catch Me"	Yogilocco	SA Deep House	https://open.spotify.com/track/1HNISE9pfcipsapyKFilSC
+16	"Go Back2Love"	Trust SA	SA Deep House	https://open.spotify.com/track/2XOgXryuRx2wglbatj0LPz
+17	"Sunset Ritual - Tribe Vocal"	Nathan Adams	Soulful House	https://open.spotify.com/track/0mvRLFS5iLFCPbPYF1USBc
+18	"Whatcha Gonna Do With My Lovin - Radio Edit"	Spencer Morales, Phebe Edwards	Soulful House	https://open.spotify.com/track/5279njrxsVJXMf8V9Kh8y6
+19	"Your Body - Louie Vega Radio Mix"	Josh Milan	Soulful House	https://open.spotify.com/track/0g6VYjxMxjAgHuiT8k6FlE
+20	"Favorite Thing to Do"	Terry Hunter, Raheem DeVaughn	Soulful House	https://open.spotify.com/track/2CvrLqKWl77sjcg608A1xW
+21	"You Will Know - SoulLab Spiritual Vocal Mix"	Wez Whynt, Earl W. Green, Jason Nicholson-Porter, Nickson, SoulLab	Soulful House	https://open.spotify.com/track/6nB7lrPuqB7EyFTIdklbHc
+22	"I Need Your Lovin' - Opolopo Remix"	Spencer Morales, Tasha LaRae, Opolopo	Soulful House	https://open.spotify.com/track/2OeMEw0rnQ1amNxBUSX8wa
+23	"Josephine - Eric Kupper Extended Vocal Mix"	Antonello Ferrari, Aldo Bergamasco, Marc Evans, Eric Kupper	Soulful House	https://open.spotify.com/track/1JcC25bzrN5pk6ibEBuXHx
+24	"Sittin' On Top Of The World - Radio Edit"	Beat Rivals, Phoebe One	Soulful House	https://open.spotify.com/track/4Iim9l0ukIAWyLHtdeX4jd
+25	"Love Rain Down (Bring Me Joy) - Kenny Carpenter Comfort Zone Radio Edit"	Soulful Session, Selina Campbell, Kenny Carpenter	Soulful House	https://open.spotify.com/track/1Jph0BbXZ0OwojrH8YmAzH
+26	"Family"	Ten City, Marshall Jefferson	Soulful House	https://open.spotify.com/track/6QRNt3xXG6AE7TeBQ5Q5iU
+27	"Colouration"	Glenn Underground	Deep House	https://open.spotify.com/track/5R0O1izXn9jy0PQn1Ki2Lt
+28	"Long Way Home - Mixed"	Fred Everything	Deep House	https://open.spotify.com/track/36XfWNQScTh7v0TYSL2WGO
+29	"Can't Get Away From You (Blaze Shrine Vocal Mix)"	Mood II Swing	Deep House	https://open.spotify.com/track/5ELxN0N7523AkPSBhu0voJ
+30	"My Joy"	Quentin Harris	Deep House	https://open.spotify.com/track/6aaro20kA8AVLzsOOrPWio
+31	"L.O.V.E. - Radio Edit"	Motor City Drum Ensemble	Deep House	https://open.spotify.com/track/51ipMo7yJOJordyG44gGLh
+32	"Born To Flow - Shane D Remix"	Groove Junkies, Baskerville Jones, Shane D	Deep House	https://open.spotify.com/track/2qiF7cPBBf1UUbEUabAnqN
+33	"Babarabatiri - David Penn Remix"	Todd Terry, Gypsymen, David Penn	Deep House	https://open.spotify.com/track/4sIQFhWHMgE4oZzEhKj5Sk
+34	"Try A Little Tenderness"	Sandy Rivera	Deep House	https://open.spotify.com/track/02PSzrkZRhk5uzwZX5nWdp
+35	"Flos Potentia (Sugar, Cotton, Tabacco)"	Ron Trent, Khruangbin	Deep House	https://open.spotify.com/track/1GnJW3lwWbUKmiGHbA1dvr
+36	"Can't Fake The Feeling - John Morales M+M Main Mix"	Reel People, Navasha Daya, John Morales	Deep House	https://open.spotify.com/track/6jo2LzMs17y1uAeK8tpMWI
+37	"Let It Go (with Marc E. Bassy) - Vintage Culture Remix"	Louie Vega, The Martinez Brothers, Vintage Culture, Marc E. Bassy	Deep House	https://open.spotify.com/track/2Rzr9nzXM1yX3NB8CwHWQg
+38	"The Passion - Atjazz Remix"	Jimpster, Atjazz, KingCrowney	Deep House	https://open.spotify.com/track/3XhMUmTFJSCB5YfNP0YZ6E
+39	"Hey Hey - Jack Back Remix"	Dennis Ferrer, Jack Back, David Guetta	Deep House	https://open.spotify.com/track/1MLxfMNuBOYnCbZDMhb1Zl
+40	"Undone - Dave Lee's Disco Blend"	Dave Lee, Raquel Rodriguez	Deep House	https://open.spotify.com/track/2SQgYflaRNfKAXg5TZQGhr
+41	"I Can't Kick This Feeling When It Hits"	Moodymann	Deep House	https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX
+42	"Storm - Mixed"	Atjazz	Deep House	https://open.spotify.com/track/6yGH0z9yHfxkBnHifEU1B5
+43	"Must Be the Music - Joey Negro 2am Disco Reprise"	Joey Negro, Dave Lee	Deep House	https://open.spotify.com/track/2aGep6UyE6RWmfbMmMBBkg
+44	"Love 4 Love - Joey Negro Extended Mix"	Change, Dave Lee	Deep House	https://open.spotify.com/track/0sUs3HZJk6it82pxdcCa0Y
+45	"Everybody Get Up"	HP Vince, Dave Leatherman	Deep House	https://open.spotify.com/track/30PH3tgZvlPj9IfS1xgwEm
+46	"Love's Been Right Here - DJ Spen & Gary Hudgins Remix"	Stephanie Cooke, Kenny Bobien, DJ Spen, Gary Hudgins	Soulful House	https://open.spotify.com/track/5ahoFlt7XAlw4uDjwaSp3c
+47	"Don't Be Afraid"	DJ Spen, Ziggy Funk, Gary Hudgins	Soulful House	https://open.spotify.com/track/5WUFHsHalXJth7oBEZ3pPl
+48	"Wonderland - Broken Down Mix"	Frankie Feliciano	Soulful House	https://open.spotify.com/track/445vsJsAltHtrfWdTXZisy
+49	"Devoted - Radio Edit"	Cafe 432, Antoinette Roberson	Soulful House	https://open.spotify.com/track/56xcZxA3xqOm1dSjwLNfOk
+50	"Love Hangover - Micky More & Andy Tee Classic Disco Blend"	Joey Negro, Dave Lee, Micky More & Andy Tee	Deep House	https://open.spotify.com/track/2n4PFX7zby4RS8BzmaG2e9
