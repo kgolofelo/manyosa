@@ -226,3 +226,57 @@ Source: Every Noise genre maps — Sound of SA Soulful Deep House, Sound of SA D
 48	"Hate It Or Love It"	Moojo, Bun Xapa	Afro House	https://open.spotify.com/track/7CTBE7KWgRWRxrjNVf8Iom
 49	"Wish I Didn't Miss You - John Morales M+M Vocal Mix"	Tasha LaRae, DJ Spen, John Morales	Soulful House	https://open.spotify.com/track/0E0hcu2pbhAWEp73N8XfZ2
 50	"Don't Lose Yourself (Extended Version)"	Thabang Phaleng, TimAdeep, trust sa	SA Soulful Deep House	https://open.spotify.com/track/0QieupD0VrgM3ChK3YN1Jp
+
+--- Batch 9 — Every Noise Discovery (Afro House, SA Deep House, Soulful House, Deep House, Organic House, Funky House) ---
+Source: Every Noise genre maps — afro house, SA deep house, soulful house, deep house, organic house, funky house
+
+1	"Dear Ancestors"	Caiiro	Afro House	https://www.youtube.com/watch?v=F3U1kwdppVM
+2	"Sondela"	Oscar Mbo	SA Deep House	https://www.youtube.com/watch?v=6xE2WRxw1Wk
+3	"Gotta Keep Moving"	Ralf Gum	Soulful House	https://www.youtube.com/watch?v=TpzyuL8_IdY
+4	"Xaman"	PAAX Tulum	Organic House	https://www.youtube.com/watch?v=_dNqCkxkSxI
+5	"Tropical Soul"	Moon Rocket	Funky House	https://www.youtube.com/watch?v=VOmkUm4Agxs
+6	"Real Freak"	Jafunk	Funky House	https://www.youtube.com/watch?v=T-HxnSvxOS4
+7	"Trumpet Thing"	David Penn	Funky House	https://www.youtube.com/watch?v=9seTXdfNS2Y
+8	"Close Your Eyes"	Oliver Koletzki	Organic House	https://www.youtube.com/watch?v=OAUx74-Ni50
+9	"Souffle"	Massane	Organic House	https://www.youtube.com/watch?v=LyOqMMQskU4
+10	"Lovelee Dae"	Blaze	Soulful House	https://www.youtube.com/watch?v=cjcqfJlYPd4
+11	"The Buckey Song"	Kenny Dope	Deep House	https://www.youtube.com/watch?v=R3anhbqlZ_A
+12	"Tsa Mapantsula"	Senior Oat	SA Deep House	https://www.youtube.com/watch?v=kkKJHDi_dLQ
+13	"Timing"	Guy Gerber	Organic House	https://www.youtube.com/watch?v=XlBJR7ZELAM
+14	"I Need Your Love"	Louie Vega	Soulful House	https://www.youtube.com/watch?v=O7Ya-lDEOO0
+15	"Turn Me Out"	Kathy Brown	Soulful House	https://www.youtube.com/watch?v=1ucwtXynl2Y
+16	"Dopamine"	Purple Disco Machine	Deep House	https://www.youtube.com/watch?v=EGGXBbst5Lo
+17	"Coma Cat"	Tensnake	Deep House	https://www.youtube.com/watch?v=uZSO6qQqpqc
+18	"Luv2Luv"	Angelo Ferreri	Funky House	https://www.youtube.com/watch?v=pSYElMdIdiU
+19	"Horizon"	Tunnelvisions	Organic House	https://www.youtube.com/watch?v=I2J-dGY2UXI
+20	"Baobab"	Rodriguez Jr	Organic House	https://www.youtube.com/watch?v=DSbEWBjOkMM
+21	"Nirvana"	Beyhude	Organic House	https://www.youtube.com/watch?v=HszhH5_jKC0
+22	"Sugar"	Robin Schulz	Deep House	https://www.youtube.com/watch?v=bvC_0foemLY
+23	"You Don't Know Me"	Armand Van Helden	Deep House	https://www.youtube.com/watch?v=-bsONE-kZwI
+24	"Come With Me"	Nora En Pure	Deep House	https://www.youtube.com/watch?v=MyNfuquQKJI
+25	"Rush"	Deepend	Deep House	https://www.youtube.com/watch?v=5tC3TbcrSN4
+26	"Jubel"	Klingande	Deep House	https://www.youtube.com/watch?v=b6vSf0cA9qY
+27	"Superman"	Black Coffee	Afro House	https://www.youtube.com/watch?v=w6-tR3PKCHA
+28	"Freedom"	Themba	Afro House	https://www.youtube.com/watch?v=6YGg8QPStng
+29	"Kumbukumbu"	Joezi	Afro House	https://www.youtube.com/watch?v=ewK6tn2aQWU
+30	"Remember Me"	Frank Aguera	Afro House	https://www.youtube.com/watch?v=vYyyYuQyh80
+31	"Broken Promises"	Dj Satelite	Afro House	https://www.youtube.com/watch?v=cN6wYnoxLBg
+32	"One More Time"	Bucie	SA Deep House	https://www.youtube.com/watch?v=f2aTCClgI10
+33	"Your Body"	Jamie Jones	Deep House	https://www.youtube.com/watch?v=lK7KiUQ0zYM
+34	"Bring The House Down"	Martin Ikin	Funky House	https://www.youtube.com/watch?v=qBRXiWPRPLg
+35	"All That Matters"	Kolsch	Organic House	https://www.youtube.com/watch?v=iosaSwiYp4E
+36	"Sternenhagel"	Innellea	Organic House	https://www.youtube.com/watch?v=v21jKSUmSoU
+37	"Flamingo"	Adriatique	Organic House	https://www.youtube.com/watch?v=w4LRUBFy3pc
+38	"I Am"	Tube Berger	Organic House	https://www.youtube.com/watch?v=o2q7bKVUNKU
+39	"Mind Games"	Miss Monique	Organic House	https://www.youtube.com/watch?v=ahQAOxuiG-Q
+40	"Orchestra"	Worakls	Organic House	https://www.youtube.com/watch?v=QRQwZDWz1Pw
+41	"Sundown"	Luttrell	Organic House	https://www.youtube.com/watch?v=0thPPN3qYuI
+42	"Omen"	16BL	Organic House	https://www.youtube.com/watch?v=KU3FDJ6uyvg
+43	"Customer Is King"	Solomun	Deep House	https://www.youtube.com/watch?v=7BZY_aA9u4s
+44	"Wanted"	Never Dull	Funky House	https://www.youtube.com/watch?v=Bs8CM8Me9Kw
+45	"WTF"	HUGEL	Deep House	https://www.youtube.com/watch?v=1CptfMEEC8g
+46	"Paradise"	Gianni Romano	Afro House	https://www.youtube.com/watch?v=GMdrmydbTfk
+47	"Coco"	Da Leh	Afro House	https://www.youtube.com/watch?v=PxraNbizQ1E
+48	"Spicy"	SuperSkunk	Funky House	https://www.youtube.com/watch?v=goHWlc2P2YE
+49	"Padam Padam"	Kylie Minogue	Dance Pop	https://www.youtube.com/watch?v=p6Cnazi_Fi0
+50	"Surrender"	Desiree	Soulful House	https://www.youtube.com/watch?v=dq15i9UpQxQ
