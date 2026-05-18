@@ -334,3 +334,111 @@ Source: Every Noise genre maps — Sound of SA Deep House, Sound of SA Soulful D
 48	"Wonderland - Broken Down Mix"	Frankie Feliciano	Soulful House	https://open.spotify.com/track/445vsJsAltHtrfWdTXZisy
 49	"Devoted - Radio Edit"	Cafe 432, Antoinette Roberson	Soulful House	https://open.spotify.com/track/56xcZxA3xqOm1dSjwLNfOk
 50	"Love Hangover - Micky More & Andy Tee Classic Disco Blend"	Joey Negro, Dave Lee, Micky More & Andy Tee	Deep House	https://open.spotify.com/track/2n4PFX7zby4RS8BzmaG2e9
+
+--- Batch 11 — Every Noise SA House & Afro House Discovery ---
+Source: Every Noise genre maps — Intro to South African House (73tRCw80ZM7BuGFXPBXN8i), The Pulse of South African House (3BBeQnDvz1ExWakGUsWAzh), Intro to Afro House (6RYOaJHG8Ld3pnNNvsz3fM)
+
+1	"Drive (feat. Delilah Montagu) - Edit"	Black Coffee, David Guetta, Delilah Montagu	SA House	https://open.spotify.com/track/5cOJ2APoxJfaGjEC7CYc0K
+2	"Horns In The Sun - Thakzin Remix"	DJ Kent, Thakzin, Brenden Praise, Mo-T, MÖRDA	SA House	https://open.spotify.com/track/3LfXImvXHkHzz0qqdFAol4
+3	"Takala"	Black Motion, Afrikan Roots, DJ Buckz, MÖRDA	SA House	https://open.spotify.com/track/5OQcbWcLEBIuH1Tnh8V1S3
+4	"Emazulwini"	DJ Ganyani, Nomcebo	SA House	https://open.spotify.com/track/3up4OUugnQEaoe1hOvTuOV
+5	"Pluto (Remember You)"	DJ Clock, Beatenberg	SA House	https://open.spotify.com/track/3rl0m4eV5brBp1ER1uHUhN
+6	"Ulele"	Heavy-K, Samthing Soweto, Thakzin, Professor	SA House	https://open.spotify.com/track/2znV6ccKYPJOLh1GzKM3zE
+7	"City Rains"	Mobi Dixon, Mque	SA House	https://open.spotify.com/track/5qJIOxMh7nLmOSUurcCuVV
+8	"Fairytale"	Liquideep	SA House	https://open.spotify.com/track/7zncVVnJFQgqpQh0zwX3MR
+9	"Awung'fanele"	DJ Bongz, Nomfundo Moh, Deep Ink, Khani	SA House	https://open.spotify.com/track/3KedYo5vsOxxH3YEuvpqFo
+10	"Count Your Blessings"	Rabs Vhafuwi, Mizz	SA House	https://open.spotify.com/track/66siGgQg9telpLrEUSeCaf
+11	"Shay'inumber"	Malumz on Decks, Gino Brown, Mr Vince	SA House	https://open.spotify.com/track/7ab2fMQu1ougUrXM1SGGQI
+12	"Darling (with Aloe Blacc)"	Shimza, Aloe Blacc	SA House	https://open.spotify.com/track/6sR3MHv7kJ0k3C8JDTASSv
+13	"Pure Surprise - UPZ House Mix"	UPZ, Dkp	SA House	https://open.spotify.com/track/46xWTvI46yCsYUQfUW29Hz
+14	"Busa"	Euphonik, Bo Beezy, Mpumi	SA House	https://open.spotify.com/track/1h3WGNhZS9P6XCy9Hrxzkc
+15	"Tong Po"	DJ Cleo, King Zeph, K Sugah	SA House	https://open.spotify.com/track/0vHeAq4KElneV1ICabcvyr
+16	"The Soul Cafe"	Kaylow	SA House	https://open.spotify.com/track/355rlP0pD78zKUeoJ9Ix5n
+17	"These Tears - Est8 Piano Mix"	Spiritchaser, Est8	SA House	https://open.spotify.com/track/63NuWPDaj9WVTn9H8sQ2eq
+18	"Feeling"	Miza, Noluthando Meje	SA House	https://open.spotify.com/track/0Vut1LGPKNfNq2tQoGIhm0
+19	"Osama"	Zakes Bantwini, Kasango	SA House	https://open.spotify.com/track/0T0FIfA0AI3ELwNVBSZNS3
+20	"Remember When It Rained"	DJ Sbu	SA House	https://open.spotify.com/track/3ew5AMfjHy1b7knOFmmXtM
+21	"Areyeng"	Darque, Jnr SA, Musa Keys, Leandra.Vert	SA House	https://open.spotify.com/track/1SSLX3PqGJe0Y7yDHayAJc
+22	"I'm Free"	Fistaz Mixwell, DJ Hloni, Mellow Soul	SA House	https://open.spotify.com/track/0KLsSuqMnVDWZLuNO6Ep8o
+23	"Kuzolunga"	SUPTA, Thalitha, Bongane Sax	SA House	https://open.spotify.com/track/0jxg3fpP4EAjYKs9o9aVVz
+24	"Fetch Your Life"	Prince Kaybee, Msaki	SA House	https://open.spotify.com/track/1CuLDXJZw8JuP6wCJw90Ko
+25	"Sacred (feat. Kenton Lee)"	Da Gifto, Kenton Lee	SA House	https://open.spotify.com/track/2YltYsRQPu1Qoiji4LZes9
+26	"Stimela Re-Visited Mashed-Up"	C-Blak, Coolkruger, Chief Mpostoli	SA House	https://open.spotify.com/track/7rviKFZKGFvs7wMi776Yol
+27	"Stepping (feat. Kabza De Small)"	Artwork Sounds, MÖRDA, Sponge 101, Kabza De Small	SA House	https://open.spotify.com/track/6c1ZMbg1RVcTjwjssGX7wz
+28	"Sithandiwe (feat. Omit ST)"	Nia Pearl, Omit ST	SA House	https://open.spotify.com/track/6MMigIfEY7NISnfUzKwBsr
+29	"Why Do You (feat. Brandon Dhludhlu & Nia Pearl)"	Kelvin Momo, Brandon Dhludhlu, Nia Pearl	SA House	https://open.spotify.com/track/6JIbjGfWt9av2OV1Sy64Y6
+30	"My Home My Nostalgia - Nostalgic Mix"	The Godfathers Of Deep House SA	SA House	https://open.spotify.com/track/0zhYeEWqqIoUBMKpO4rbc4
+31	"Thixo"	Stem Deep, Mick Man, Major MusiQ	SA House	https://open.spotify.com/track/1sNvMJLee0p9C4aIfFKxye
+32	"Buya"	Sipho Magudulela, Russell Zuma, Omit ST, Sino Msolo, Lioness Ratang	SA House	https://open.spotify.com/track/0RelpA3B3EpaxAA0PY4Sra
+33	"Hold On"	Lukamusic, Griffith Malo	SA House	https://open.spotify.com/track/0Jnqo2lhzywjHepZsL3cjg
+34	"Uthe Uzobuya"	Vpianist, DJ Bullet, French August	SA House	https://open.spotify.com/track/1gwBjdOTa08pIWk4mBwIEq
+35	"Emazweni"	Cnethemba Gonelo, Nontokozo Mkhize, Chronical Deep, Dj Deeraid	SA House	https://open.spotify.com/track/1jaA8A3ODdOxnBhFQXo7ol
+36	"Mfana"	Bhubesi, Mthunzi	SA House	https://open.spotify.com/track/3LzrerbkyqE1Xv1OWYpZU1
+37	"My Love"	Deep London, Zee_nhle, Sobzeen	SA House	https://open.spotify.com/track/3anMX1a2Y9esxMVwteLYWY
+38	"Izegbe"	Darksidevinyl	Afro House	https://open.spotify.com/track/6ljQPw3QcfwNishetIByR6
+39	"Sweet Disposition"	SAFAR, neverwaves	Afro House	https://open.spotify.com/track/6pPJBTWWK5vtdPRBnHqaMV
+40	"Sala Papa Ye"	Soulroots, Soul Star	Afro House	https://open.spotify.com/track/4GR1QJeCTvLWdfhTG0ABE3
+41	"Does It Matter - Ajna (BE) Remix"	Samm (BE), Ajna (BE)	Afro House	https://open.spotify.com/track/6yD4nL8def39R3QplxYGo5
+42	"Namaqua"	Daniel Rateuke	Afro House	https://open.spotify.com/track/1xSGLxethOHtOO6LKfMXpN
+43	"Dare Your Move"	MAXI MERAKI	Afro House	https://open.spotify.com/track/1rakaaEKMNAvqBjRJwRnx9
+44	"Mano Mano - Notre Dame Remix"	Thee Suka, Notre Dame	Afro House	https://open.spotify.com/track/1jAx40KV2Azdq3ACzqWEmt
+45	"Save a Prayer - DJ CHUS Rework"	Kasango, Jordan Grace, Leo Guardo, DJ Chus	Afro House	https://open.spotify.com/track/0bZKdZHwn81qo9YAU1gM6Y
+46	"Ancestral Praise feat. Reine Mash"	Stones & Bones, Cameron Jack, Reine Mash	Afro House	https://open.spotify.com/track/01gX89MGXHrc6pReWy2jBJ
+47	"Messiah"	DJ Tomer, Ricardo, Cisco De Sol, Zipho Thusi	Afro House	https://open.spotify.com/track/7y7rapup0WvtynVvkBa4dA
+48	"Missing"	Emanuele Esposito, Bass Fly, Kate Yvorra	Afro House	https://open.spotify.com/track/75WqikxuauMp0htqRbDaqE
+49	"Kibe"	Rancido, AfroTura, Bun Xapa, Idd Aziz	Afro House	https://open.spotify.com/track/060BS9l7ElcJ05jsnQ7F6t
+50	"San Juan - Band&Dos Remix"	Calussa, Sebastian Rivero, Band&dos	Afro House	https://open.spotify.com/track/0ygBH3av9v8hPFPdfdIpgu
+
+--- Batch 12 — Every Noise Discovery (SA House, SA Soulful Deep House, SA Deep House, Deep Groove House, Vocal House, UK House, Jazz House, Funky House, Latin House) ---
+Source: Every Noise genre maps — Sound of South African House (6I1LKsxUEASQ3EkgmkCEry), Sound of SA Soulful Deep House (4CgnLs5P0WWC60Ja8a60qO), Sound of SA Deep House (11IIVaqPY3mfMjbjJbrp2l), The Sound of Deep Groove House (7FAkb5HaFNBqFFVVGFvMTE), The Sound of Vocal House (5r4gdnighI2ujQqfCwtHlU), The Sound of UK House (6MylRBnwQpJ7KlEnCQgSpd), The Sound of Jazz House (4L9GKyeqZOi5rHUoqDZd6z), The Sound of Funky House (1ZwOZItEvdtWZuTVFQfwJs), The Sound of Latin House (4RAw5T49Kgd7BdsFsWe4qS)
+
+1	"Amen for 8 Years Prayer"	House Victimz	SA House	https://open.spotify.com/track/0ftA73FDoU70sss4OWaK5c
+2	"Umbovukazi"	Da Capo	SA House	https://open.spotify.com/track/4ok4NiGs5EmP9T04AEDBA9
+3	"In The Crowd"	Fka Mash	SA House	https://open.spotify.com/track/06S1wlkIltEgHHZoY0Dl9z
+4	"Hold On - Webstah Remix"	Chymamusique	SA House	https://open.spotify.com/track/30AgZN1MTsZnT85dMC830J
+5	"Speak Lord - Chymamusique Retro Remix"	Sculptured Music	SA House	https://open.spotify.com/track/3T5VoGsYXDxmytHPhPC63N
+6	"Tamba"	Cuebur	SA House	https://open.spotify.com/track/0bFYGyhEKTpH53HKOAGY4P
+7	"Gods Will"	ZuluMafia	SA House	https://open.spotify.com/track/55pPLcLrlQB1nNcPWMXyGB
+8	"Cure"	Pierre Johnson	SA House	https://open.spotify.com/track/26zclerR01nvW0dT10IktR
+9	"Shake Shake"	LaTique	SA House	https://open.spotify.com/track/1M5whQvrU1oOfvJSB9LSNv
+10	"BroCode"	DJ Merlon	SA House	https://open.spotify.com/track/5rxK4yQgpnw4v97HqLCF8x
+11	"Mbuso's Revenge"	DJ Mbuso	SA House	https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2
+12	"Dtjoh (feat. Jessica LM)"	Citizen Deep	SA House	https://open.spotify.com/track/0lPCN4BRRcdiEdVN9Cvduc
+13	"The Promise"	Nutty Nys	SA House	https://open.spotify.com/track/6Zqg3N9PilNF5gc3fPRUEL
+14	"Soul Excursion - Main Mix"	Problem Child Ten83	SA House	https://open.spotify.com/track/0fpes1nUZ1jIgoKdtlYcKi
+15	"Forget You"	Lemon & Herb	SA House	https://open.spotify.com/track/5aFD0QPy4BQqUq39l0o5HD
+16	"Paso"	SGVO	SA House	https://open.spotify.com/track/3cL831purjIEBLVfCeo7wZ
+17	"Uphezu - Original Mix"	Da Vynalist	SA House	https://open.spotify.com/track/2Npu4kZQRukrhQnF4DJcwa
+18	"Feel The Love"	Da Africa Deep	SA House	https://open.spotify.com/track/0tUHrlmSlxtHXkBdVnSunD
+19	"One Woman - 89Soul Keys Remix"	Msindo De Serenade	SA Soulful Deep House	https://open.spotify.com/track/0mOCewBv8QeCEoYc401p5X
+20	"La Bruja (The Witch) - Acidrops Mix"	Nicky Deep	SA Soulful Deep House	https://open.spotify.com/track/1rjxrsnum14lDsJFZfxzxp
+21	"Save Us (feat. June Jazzin)"	Griffith Malo	SA Deep House	https://open.spotify.com/track/2Z7pQxfYG1NoSLVVY0i0Rv
+22	"Show Me"	Ryan Blyth	Deep Groove House	https://open.spotify.com/track/2RzLCfWMkXVWWquwf9wY4K
+23	"Ride On Time - Club Edit"	Garreth Maher	Deep Groove House	https://open.spotify.com/track/7u1J2BfSzxJcwZNZegENhV
+24	"Joy - Radio Edit"	Otis Hajo	Deep Groove House	https://open.spotify.com/track/5AcUgqPY9xGZENqO9fr45W
+25	"What You've Done - Kesh Remix"	Maff Boothroyd	Deep Groove House	https://open.spotify.com/track/0f3hZzIwuylhZIeJ3kICqD
+26	"Be There - Original Mix"	Morrt	Deep Groove House	https://open.spotify.com/track/5yxeoHEj69QRxcwkDp7w4m
+27	"Never Ending Feeling"	Nikki Amber	Deep Groove House	https://open.spotify.com/track/4RPonn1MOmwENNu1mRy2xQ
+28	"You Are"	NVOY	Deep Groove House	https://open.spotify.com/track/0j8GZEycgQVnEcIIeTXkxq
+29	"Could You Love Me?"	Black Saint	Deep Groove House	https://open.spotify.com/track/1w191mxEGK17BcYVbI3HmR
+30	"Free (Mood II Swing Radio Edit)"	Ultra Naté	Vocal House	https://open.spotify.com/track/2mkdZTHKimOJ86Hg0RWSKc
+31	"Lola's Theme - Radio Edit"	The Shapeshifters	Vocal House	https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0
+32	"Make Luv - Live Room"	Room 5	Vocal House	https://open.spotify.com/track/3UZK9yD18Mtzb6MgYBmuLW
+33	"Strings Of Life - Danny Krivit Re Edit [Mixed]"	Soul Central	Vocal House	https://open.spotify.com/track/5GndQG5t6KAvQQ0o6y3LUg
+34	"This Is Your Night"	Amber	Vocal House	https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV
+35	"Put 'Em High - StoneBridge & JJ Radio"	StoneBridge	Vocal House	https://open.spotify.com/track/6Pvuy7Lsp3Oqh2HUw7406K
+36	"Hideaway - Deep Dish Radio Edit"	De'Lacy	Vocal House	https://open.spotify.com/track/2bpmisazTQ49QpLMGZGp1X
+37	"Feel My Needs"	WEISS	UK House	https://open.spotify.com/track/7nionv2ijjqUlg9m5iWPTc
+38	"Looking For Me"	Paul Woolford	UK House	https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt
+39	"The Bomb"	Big Miz	UK House	https://open.spotify.com/track/6cnA5RLORugKvIWuOhinth
+40	"Muleña"	Hammer	UK House	https://open.spotify.com/track/0XvadChUHOs6jVJH7XN0Ra
+41	"Get Down"	Bontan	UK House	https://open.spotify.com/track/3sFkO2PDRIiZhqR0ZtRzuw
+42	"It's Just (House Of Dupree)"	Leon Vynehall	UK House	https://open.spotify.com/track/79jKTDfyou6tApSs8RLnob
+43	"Always Needed (feat. MOYA)"	Adelphi Music Factory	UK House	https://open.spotify.com/track/2DnIPaJA1Y5fIOQn0gwvT5
+44	"Floating on Silence"	Tour-Maubourg	Jazz House	https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp
+45	"The Semimodular Bird of Jazz"	Felipe Gordon	Jazz House	https://open.spotify.com/track/30w0Ow2tuaZL26ep5pEn2M
+46	"78 To Stanley Bay"	Chaos In The CBD	Jazz House	https://open.spotify.com/track/74LRqSi9vqy4vnxCLInNAw
+47	"This must be illegal"	Leo Pol	Jazz House	https://open.spotify.com/track/53VT3g4fsGYCh4vjcU6Xx3
+48	"Welcome To The Disco"	Sartorial	Funky House	https://open.spotify.com/track/1XkAB9uB2mHzqpSXtCmjWT
+49	"Vintage Wine"	Funkatron	Funky House	https://open.spotify.com/track/6IJlErsvCZe2VmVNXtYAJ7
+50	"Magalenha (feat. Sergio Mendes)"	Simon Fava	Latin House	https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg
