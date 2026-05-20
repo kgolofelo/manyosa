@@ -442,3 +442,57 @@ Source: Every Noise genre maps — Sound of South African House (6I1LKsxUEASQ3Ek
 48	"Welcome To The Disco"	Sartorial	Funky House	https://open.spotify.com/track/1XkAB9uB2mHzqpSXtCmjWT
 49	"Vintage Wine"	Funkatron	Funky House	https://open.spotify.com/track/6IJlErsvCZe2VmVNXtYAJ7
 50	"Magalenha (feat. Sergio Mendes)"	Simon Fava	Latin House	https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg
+
+--- Batch 13 — Every Noise Discovery (Microhouse, Tech House, Disco House, Jackin' House, Bolobedu House, Italo House, Garage House, Detroit House, Piano House, Chicago House, Tribal House, Deep Tech House, Deep Soul House, Classic House, Afro House Angolano, Brazilian House) ---
+Source: Every Noise genre maps — Sound of Microhouse, Sound of Tech House, Sound of Disco House, Sound of Jackin' House, Sound of Bolobedu House, Sound of Italo House, Sound of Garage House, Sound of Detroit House, Sound of Piano House, Sound of Chicago House, Sound of Tribal House, Sound of Deep Tech House, Sound of Deep Soul House, Sound of Classic House, Sound of Afro House Angolano, Sound of Brazilian House
+
+1	"Dikuku (feat. Makhadzi)"	DJ Call Me, Makhadzi	Bolobedu House	https://open.spotify.com/track/1Zo27Tf5KiYqO4QWgvohnb
+2	"Ba Melomu"	Lil Meri	Bolobedu House	https://open.spotify.com/track/69u2TRV57RIxo2CKmQ1ZUf
+3	"Moshomo"	Mr Brown, Kabza De Small	Bolobedu House	https://open.spotify.com/track/5AOkmYoHBc1lI5NOMms5EV
+4	"Modhifo Wa Gona (feat. Peace Maker)"	Master Chuza, Mr Six21 DJ, Peace Maker	Bolobedu House	https://open.spotify.com/track/6uZ2fWsvYaMbHcogsWsHKB
+5	"Cenere"	Double Trouble	Bolobedu House	https://open.spotify.com/track/0gurxZjJdgeV8X2iElNKWY
+6	"Nastra Com Poster"	Brazucas	Afro House Angolano	https://open.spotify.com/track/3uH73ilms3QTlOuXHb3JLg
+7	"Toda Vitaminada"	Eman Chabas, Geri Geri	Afro House Angolano	https://open.spotify.com/track/2cRI2kMsn8wLWrf2XqNDFf
+8	"Mete a Bunda no Chão"	Aizzy Beatz, Éapolícia, Brazucas	Afro House Angolano	https://open.spotify.com/track/2y3flPhvIsEa4TGJIBG61E
+9	"Nastra"	Dj Johnny By, Dalmo no Beat	Afro House Angolano	https://open.spotify.com/track/1ChHTeDXL3woDuBREijsV1
+10	"Houston We Have a Problem"	Genius Of Time	Deep Soul House	https://open.spotify.com/track/3MXmUXRFXn4ydAVrYPV0N2
+11	"I Got Something"	Alex Agore	Deep Soul House	https://open.spotify.com/track/0SEXLf0XmN8KbN5ZCV7jP3
+12	"He's so Crazy - Mixed"	Wbeeza	Deep Soul House	https://open.spotify.com/track/7JKvXOcH6vKkOr6MLhxXlA
+13	"Sundials"	Brawther, Nathan Haines	Deep Soul House	https://open.spotify.com/track/6fwIywo8F6JE8Y6GRYQlgM
+14	"Let's Dence"	Isolée	Microhouse	https://open.spotify.com/track/6gER6E2sJXk9zqXdQ8c6Ew
+15	"The Honest Man"	John Tejada	Microhouse	https://open.spotify.com/track/0bV4ZfNGGFXRQnUeeEpxgA
+16	"Asha"	Pantha Du Prince	Microhouse	https://open.spotify.com/track/1rUI48b5rFq46VvWDyEgjB
+17	"Get This Party Started"	Westend	Tech House	https://open.spotify.com/track/3aBNMuz8S7wZguV8xuwLem
+18	"Up N' Down"	Deeper Purpose, BRN, JmNPR	Tech House	https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi
+19	"Push To Start (feat. No/Me)"	Noizu, Westend, No/Me	Tech House	https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R
+20	"My Feeling - Daddy's Prime Time Edit"	Junior Jack	Disco House	https://open.spotify.com/track/1HkPj9fZFpjAoAUigBAmJS
+21	"At Night - Purple Disco Machine Remix"	Shakedown, Purple Disco Machine	Disco House	https://open.spotify.com/track/4tTpmg8AGcChIUnuio4CtR
+22	"Another Chance - Radio Edit"	Roger Sanchez	Disco House	https://open.spotify.com/track/0EoGXXi91KSqAIY7SSgizW
+23	"All I Want - Edit"	Sammy Deuce	Jackin' House	https://open.spotify.com/track/0DcyKoeIQNDCeZfbVmqaOW
+24	"Get Into The Groove - Radio Edit"	Makito	Jackin' House	https://open.spotify.com/track/5ZIhfoLDSsSqpz9SLCaWIp
+25	"Get Tha Funk Down - Radio Edit"	Da Funk Junkies, Mike Chenery	Jackin' House	https://open.spotify.com/track/07tWNwxh3GT60ZJLJlLvyy
+26	"Everything..."	Montego Bay	Italo House	https://open.spotify.com/track/3tprAOyxMmz8pgTwGmNB94
+27	"Anamaria"	Key Tronics Ensemble	Italo House	https://open.spotify.com/track/3dv9xBJUj8NWRopMaSpZ4N
+28	"Antares"	Omniverse	Italo House	https://open.spotify.com/track/2vpIRmZGbcj441GmQClEtv
+29	"Beautiful People - Obskür Remix"	Barbara Tucker, Obskür	Garage House	https://open.spotify.com/track/4xqtuTUaJMrzRv2NCJ7X72
+30	"Let Yourself Go - Let Yourself Go Mix"	95 North	Garage House	https://open.spotify.com/track/5f3UehDxed89KyQUIo5qrq
+31	"You Are In My System - Faster Horses Sport Mix"	Kerri Chandler, Dennis Quin, Troy Denari, Faster Horses	Garage House	https://open.spotify.com/track/4cxpgHXbVh4sGwb1C7TAG2
+32	"Can You Feel It - MK New York Dub Extended"	Chez Damier, MK	Detroit House	https://open.spotify.com/track/2EZCkNmmQBHyJootJZx4Du
+33	"The Detroit Upright - Mixed"	Patrice Scott	Detroit House	https://open.spotify.com/track/4OZaFdwuwrjS2eLZqBFpzP
+34	"Somethin’ Here - Original Mix"	Terrence Parker	Detroit House	https://open.spotify.com/track/0GjNbT5RmUXtPUNTjtPt5C
+35	"Anthem"	N Joi	Piano House	https://open.spotify.com/track/0fSjXF4ZHDoXYQ9woNCHqP
+36	"Don't Go - Original Mix"	Awesome 3	Piano House	https://open.spotify.com/track/5BFeBBeBYigrM2l4njlYvA
+37	"Rich in Paradise - Vocal Remix"	FPI Project	Piano House	https://open.spotify.com/track/5iNmyOwaqZzotdnLGAesc6
+38	"Move Your Body"	Marshall Jefferson, Solardo	Chicago House	https://open.spotify.com/track/3OrcEhLzxv1YX597jGjEI7
+39	"Mystery of Love"	Mr. Fingers	Chicago House	https://open.spotify.com/track/1E8hMeQvfgvQPjN3BZ2viF
+40	"100% Of Disin' You"	Armando	Chicago House	https://open.spotify.com/track/5yKrEZp45eOSH30SN6igG8
+41	"Music Is The Answer (Dancin' & Prancin')"	Danny Tenaglia, Celeda	Tribal House	https://open.spotify.com/track/0scnE7Y7YLjKyEfCmDXvSZ
+42	"Phobia"	Victor Calderone	Tribal House	https://open.spotify.com/track/5M688FTI4grQt1pVRwD9rX
+43	"Freak - Rod Carrillo and Cody Williams Club Mix"	Rosabel, Tamara Wallace, Rod Carrillo, Cody Williams	Tribal House	https://open.spotify.com/track/2t8j3Ty5q44IkSNDuilTPB
+44	"Cola"	CamelPhat, Elderbrook	Deep Tech House	https://open.spotify.com/track/1HrMWH5GUdK6Yi94rbANJA
+45	"Oslo Museum"	Ron Costa	Deep Tech House	https://open.spotify.com/track/6WElCTW50s6dCxUIkBcyLK
+46	"Sink 'Em Low"	Maximiljan, Bessie Jones	Deep Tech House	https://open.spotify.com/track/5re6stExPq71qUlHr3N4Tr
+47	"Your Only Friend"	Phuture	Classic House	https://open.spotify.com/track/05uAMqcfn3ctWPkFNPzQ3a
+48	"Jack Your Body - 1986 Club Mix"	Steve "Silk" Hurley	Classic House	https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6
+49	"Nothing Change"	Future Class, RADIØMATIK	Brazilian House	https://open.spotify.com/track/4c3KyAgVtSjsWlhCegDHBy
+50	"Vem Quente Que Eu Estou Fervendo"	Rivas (BR), DANNE, Breno Miranda	Brazilian House	https://open.spotify.com/track/0x41pd5WxxZE9fKtoKcNON
