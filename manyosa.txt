@@ -548,3 +548,55 @@ Source: Every Noise genre maps — Sound of Microhouse, Sound of Tech House, Sou
 48	"The Ghetto (featuring CeCe Rogers and Fred Wesley)"	Jestofunk	Italo House	https://open.spotify.com/track/4ulMqOuI6um9mZJptXLJtT
 49	"What's the Move"	Jafunk	Funky House	https://open.spotify.com/track/6WWwsE0oge62N2STOFOnvh
 50	"Pick Up"	DJ Koze	Microhouse	https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ
+
+=== BATCH 15 - Float House, Diva House, Filter House, Deep Progressive House, SA Deep House & SA Soulful Deep House ===
+1	"Na Ku Rhandza (I Love You)"	C-Blak	SA Deep House	https://open.spotify.com/track/5qoRWIt1xwaueRolqtDGQO
+2	"Beautiful Things (Cruel World)"	Gabbana	SA Deep House	https://open.spotify.com/track/0h7BdNcK87XjVRIyH7ZFQ4
+3	"Be With You"	Ladi Adiosoul, MusiQ Monks, Brian Moshesh	SA Deep House	https://open.spotify.com/track/3UzgIPm8LUwPVZ0g5Oqdx6
+4	"Let Me Breathe"	Yogilocco, Dj Mankind SA, Manando	SA Deep House	https://open.spotify.com/track/5OlTkNecBnzbDO9H5v5Brh
+5	"Toxic Love - K.G Sunset Remix"	June Jazzin, K.G Sunset	SA Deep House	https://open.spotify.com/track/7ujKsepLQoX4r6IeiN6i4d
+6	"Divine Timing - Groove Mix"	Bhutlish, Citizen Sthee	SA Deep House	https://open.spotify.com/track/18VtXEXZY50beEY1Lt29o0
+7	"Jesus Knows - Original Mix"	Echo Deep	SA Deep House	https://open.spotify.com/track/3UmwJuWbnAqgY1FjaQKWW8
+8	"Sabir"	Roque	SA Deep House	https://open.spotify.com/track/5Ljui63CjVwCiLgiwF6aDf
+9	"Ko Mafifing"	Slaga, Spin Worx, Tiyani	SA Deep House	https://open.spotify.com/track/46iR1U52EKPyrakvl8IzeS
+10	"The Long Night"	Sir Rizio, Wade Watts	SA Deep House	https://open.spotify.com/track/7eFYETKhmEL69UcT7s2TAE
+11	"Heartache Symphony"	Da Gifto, Knight SA, Systematic Soulz	SA Soulful Deep House	https://open.spotify.com/track/6MbElusAnj2kFh7nlfGESr
+12	"Chaotic City - Nostalgic Mix"	The Godfathers Of Deep House SA, Flexy Da King	SA Soulful Deep House	https://open.spotify.com/track/4z4HhAeC5iVKDI4ASA0yVR
+13	"Love Choices"	DVRK Henning	SA Deep House	https://open.spotify.com/track/4lBZJNLSHLfOjvZ5kpkggb
+14	"Saga of the Seven Suns"	TSSRCT Dubs, Neil CB, Wade Watts	SA Soulful Deep House	https://open.spotify.com/track/5FNyHOyoYqP2n79elIh0o0
+15	"Apollo 13 - Groove Mix"	ShortBass	SA Deep House	https://open.spotify.com/track/6ouOu1wjrAOaG21NPzy7dz
+16	"Space & Time"	Beat Soul	SA Deep House	https://open.spotify.com/track/3T8GpmZtFvDQHWmsDpnXrU
+17	"King Of Time"	Pando G	SA Soulful Deep House	https://open.spotify.com/track/302BVapLjiUhQ6AVgb3VGh
+18	"Joy - Authentic Mix"	Chief Joint, Phill SA	SA Soulful Deep House	https://open.spotify.com/track/7nJjemEtxVdADK9VDGAwoo
+19	"My Life In Your Hands"	Avenue DJ, Dav Risen	SA Soulful Deep House	https://open.spotify.com/track/7xbsQ7Z920avJrh8wta8CP
+20	"Rendezvous Deluxe - DJ Tears PLK Remix"	Tennessee Tina, DJ Tears PLK	SA Soulful Deep House	https://open.spotify.com/track/6KhHuLv1hNgLg7OHZSWYni
+21	"Njinmah"	AYOUBYME	Afro House	https://open.spotify.com/track/5sCsSQXYi6T5EhhgRKPCwK
+22	"Euphoria"	Shimza, Jnr SA	Afro House	https://open.spotify.com/track/0eFZEN5Iv1QuN6ixlBMfqj
+23	"Stockholm"	Bun Xapa	Afro House	https://open.spotify.com/track/0WgK4eOF58SZmFRvMboxXp
+24	"Dangalua"	Tayllor, NSI, Idd Aziz	Afro House	https://open.spotify.com/track/2ozDVt4RIwunG78HL7tS2a
+25	"Tena Kesho - Atmospheric Mix"	Atmos Blaq, Maline Aura	Afro House	https://open.spotify.com/track/137qv1R5wa0kMhnjAMXP8E
+26	"Soul Free"	Fiona Kraft, Angelos, Robert Owens	Afro House	https://open.spotify.com/track/0OXdNjbJDb327pgi6RC6Hp
+27	"Milango"	Dan Bay, Nes Mburu	Afro House	https://open.spotify.com/track/5wtmxNYOG8subxqeEW9BBb
+28	"Thuma Mina (feat. Mazet SA) - Radio Edit"	Valexx, Aaron Sevilla, Mazet SA	Afro House	https://open.spotify.com/track/0ZEM9shEfsfqIKn5zrEadh
+29	"My Everything - BOHEMIAN Remix"	Nico de Andrea, BOHEMIAN, Darla Jade	Afro House	https://open.spotify.com/track/7JIaQbqfmsLIVhhgNcOsOq
+30	"Meroh"	BRUNN, Tato	Afro House	https://open.spotify.com/track/1ZYCa71XEYOUIPwWJu65pu
+31	"Make It Stay (Gerd Janson Remix)"	Lauer, Dena, Gerd Janson	Float House	https://open.spotify.com/track/3CDcPx2e1fWeZpLMmkMCdf
+32	"Secrets & Lies"	Fort Romeau	Float House	https://open.spotify.com/track/6xUWo0j2fFn4k4zg4qACJm
+33	"Can You See Me?"	Octo Octa	Float House	https://open.spotify.com/track/4jbxZxReqWBaiTbQOXNVW6
+34	"Astrology Poisoning"	Avalon Emerson	Float House	https://open.spotify.com/track/2dM1rq6xGHlip9nrZXWlWP
+35	"Final Credits"	Midland	Float House	https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O
+36	"Everybody's Free (To Feel Good)"	Rozalla	Diva House	https://open.spotify.com/track/1PrlCxehcEi0KvIwKzJuOl
+37	"Where Love Lives"	Alison Limerick, Frankie Knuckles, David Morales	Diva House	https://open.spotify.com/track/0qLFmEmZclvTfxEIMo8J2C
+38	"Ride on Time"	Black Box	Diva House	https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN
+39	"Good Life"	Inner City	Diva House	https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5
+40	"Needin' U (I Needed U) - Radio Mix"	David Morales, The Face, Juliet Roberts	Diva House	https://open.spotify.com/track/7GCdYWykXhqB91Wnnjvqhu
+41	"The Key, The Secret"	Urban Cookie Collective	Diva House	https://open.spotify.com/track/67Gkahkd0wXdUJpmRcWxpm
+42	"Peace"	Sabrina Johnston	Diva House	https://open.spotify.com/track/1sZq0voF6m1oliOaEw4fBF
+43	"Lady - Hear Me Tonight"	Modjo	Filter House	https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6
+44	"Baby I'm Yours"	Breakbot, Irfane	Filter House	https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV
+45	"Nightcall"	Kavinsky	Filter House	https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j
+46	"Toop Toop"	Cassius	Filter House	https://open.spotify.com/track/7cHhpJV9fC2AqgdiLvq1AO
+47	"Shelter of Hearts"	GMJ, Matter	Deep Progressive House	https://open.spotify.com/track/59tv27hHZZMiBsXfVuwrMA
+48	"Season"	Monojoke	Deep Progressive House	https://open.spotify.com/track/6plrjFbPuHZIUXZdh1bavs
+49	"Deep Sleep in Tokyo"	Deep Sector	Deep Deep House	https://open.spotify.com/track/0upBXA90JAjMfT1xhZBQR9
+50	"Good Memories - Radio Edit"	Krummstoff	Deep Deep House	https://open.spotify.com/track/61JXDHmBLrG6ptSlMkyPow
