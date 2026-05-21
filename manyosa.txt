@@ -496,3 +496,55 @@ Source: Every Noise genre maps — Sound of Microhouse, Sound of Tech House, Sou
 48	"Jack Your Body - 1986 Club Mix"	Steve "Silk" Hurley	Classic House	https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6
 49	"Nothing Change"	Future Class, RADIØMATIK	Brazilian House	https://open.spotify.com/track/4c3KyAgVtSjsWlhCegDHBy
 50	"Vem Quente Que Eu Estou Fervendo"	Rivas (BR), DANNE, Breno Miranda	Brazilian House	https://open.spotify.com/track/0x41pd5WxxZE9fKtoKcNON
+
+--- Batch 14 — Every Noise Discovery (Afro House, SA House, Bolobedu House, Amapiano, Soulful House, Deep House, Organic House, Jazz House, Italo House, Funky House, Microhouse) ---
+1	"Yumi - Tiësto Remix"	Notre Dame	Afro House	https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi
+2	"Riziki"	Idd Aziz	Afro House	https://open.spotify.com/track/5zHVMLUVPIobwse53eF0RE
+3	"Your Voice - Enoo Napa Remix"	AWEN	Afro House	https://open.spotify.com/track/2kCZ8eOCU6nMnXp3FzyhUE
+4	"Solitude"	Kasango	Afro House	https://open.spotify.com/track/0UT2ita1i2C7nt8gQMcQXD
+5	"Somebody - Edit"	Fahlberg	Afro House	https://open.spotify.com/track/6sGmDThWXd16RUqAI4VRFz
+6	"Mend It - Stimming Remix"	Lazarusman	Afro House	https://open.spotify.com/track/3Auy3Rv9bSYzj3sSMwNFAq
+7	"The Same"	Kashovski	Afro House	https://open.spotify.com/track/1jwqWgNvKjfre2QiFcWN1y
+8	"iMali (Ft. Nana Atta)"	Karyendasoul	Afro House	https://open.spotify.com/track/280MTeg7bZYCHaHxhaAtPq
+9	"Wemilere"	Da Le (Havana)	Afro House	https://open.spotify.com/track/4LTUd0vpDURYoaPvHX9aly
+10	"Tawada - Saint Evo Remix"	Mr. ID	Afro House	https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO
+11	"Aqui Se Baila - Afro Latin Mix"	Mijangos	Afro House	https://open.spotify.com/track/6jo8xMFaWUqRzqb9WisxAS
+12	"Esperanza"	Demayä	Afro House	https://open.spotify.com/track/2PpArVl5jVng9A7nZM4Sm3
+13	"Jerusalema (feat. Nomcebo Zikode)"	Master KG	South African House	https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi
+14	"Bazoyenza"	Busiswa	South African House	https://open.spotify.com/track/63IWfYxsjuB4stnCZq8S3g
+15	"Possessed"	Thakzin	South African House	https://open.spotify.com/track/1DcNtYSP4pTARn2tYGJmv9
+16	"Mohigan Sun"	MÖRDA	South African House	https://open.spotify.com/track/5U6zQqXCVZokE7UH4kdAB1
+17	"Uzungandishiyi"	Sino Msolo	South African House	https://open.spotify.com/track/4uVJP9HxCgiLPyfFBSxkE8
+18	"Horns In The Sun - Thakzin Remix"	DJ Kent	South African House	https://open.spotify.com/track/2V2K1hzCtgj9xAnga9WUTy
+19	"Chucks"	Mi Casa	South African House	https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6
+20	"Feza"	Babalwa M	South African House	https://open.spotify.com/track/7jhSKxMnknrkyu01BlOtYe
+21	"Ven Pa Ka - Black Motion Rework"	Black Motion	South African House	https://open.spotify.com/track/24WCTSU9zrsQxBE1NIhBPM
+22	"Ngizimisele"	OSKIDO	South African House	https://open.spotify.com/track/1JNwwjY47VOvEYwL4TGQid
+23	"Ngilimele (feat. Deep Sen, KingTalkzin, Mthunzi)"	MaWhoo	Bolobedu House	https://open.spotify.com/track/6lrKA1DMAihPI490Oj0twC
+24	"AYE KUWA (feat. CK THE DJ)"	King Monada	Bolobedu House	https://open.spotify.com/track/2nws7wwvjHpP512xuDAn10
+25	"Ntyilo Ntyilo"	Rethabile Khumalo	Bolobedu House	https://open.spotify.com/track/6c5QMGLY5awO4CbiTpdnAX
+26	"Weh Mama (feat. Kabza De Small)"	DJ Maphorisa	Amapiano	https://open.spotify.com/track/5gyjz42adFHRu6BxW0WZHJ
+27	"Imithandazo (feat. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi Kush)"	Kabza De Small	Amapiano	https://open.spotify.com/track/6Kijtp0DB6VwcoJIw7PJ9W
+28	"Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)"	Tyler ICU	Amapiano	https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy
+29	"The Bomb! (These Sounds Fall Into My Mind) - Massivedrum Radio Edit"	Kenny Dope	Soulful House	https://open.spotify.com/track/1srwe8YVaL1UlnRaBag7qI
+30	"Just Say"	Coco & Breezy	Soulful House	https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO
+31	"Most Precious Love (feat. Barbara Tucker) [DF Future 3000 Mix]"	Blaze	Soulful House	https://open.spotify.com/track/2j9SJw90JRGoxqWyJKAwSp
+32	"Get Another Love - Warren Clarke Club Mix"	Kathy Brown	Soulful House	https://open.spotify.com/track/6Dy5yeZsyzwCEDCkqkoPwf
+33	"Be Funky (Dutchican Soul Remix)"	Dutchican Soul	Soulful House	https://open.spotify.com/track/4s7BBVOSImap6SFCEW4I1y
+34	"Somethin' Here - Original Mix"	Terrence Parker	Soulful House	https://open.spotify.com/track/6dQdvxqOiLemHzrEUXQ4zz
+35	"Wings (I Won't Let You Down)"	Armand Van Helden	Deep House	https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd
+36	"Woke up in Bangkok (feat. Martin Gallop)"	Deepend	Deep House	https://open.spotify.com/track/1NlOSxa3qk4wnbdSfLRXr3
+37	"Lose My Mind"	Jamie Jones	Deep House	https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS
+38	"Antibodies - LP Giobbi Remix"	Tensnake	Deep House	https://open.spotify.com/track/6a8LfgC5aAaHNhsQcGQY1r
+39	"Spiritual but Not Religious"	Oliver Koletzki	Organic House	https://open.spotify.com/track/6fxq63aKjMmi1WMI9iKX5w
+40	"Summer's End"	Massane	Organic House	https://open.spotify.com/track/0ad22SFsPKkHtI22ghecQe
+41	"Epico"	PAAX (Tulum)	Organic House	https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE
+42	"Guava"	Tunnelvisions	Organic House	https://open.spotify.com/track/3F2tjxAH9CpVamPajbYmTx
+43	"What Is Real"	Rodriguez Jr.	Organic House	https://open.spotify.com/track/6G40wvmUlCrx5KqGFN5H4X
+44	"Hot Hands"	Darius	Jazz House	https://open.spotify.com/track/5yfHDmZHjMw2gLjbghG90V
+45	"Wil"	Joss Moog	Jazz House	https://open.spotify.com/track/5sAOjAI3z8vBdyWMAZS3N4
+46	"It's All Good Man"	Felipe Gordon	Jazz House	https://open.spotify.com/track/0JTvUlDFNgbrHoouTyHVQx
+47	"Don't Give Me Your Life - Classic Edit"	Alex Party	Italo House	https://open.spotify.com/track/3QesIw3zWZKPmp8C9yVCzD
+48	"The Ghetto (featuring CeCe Rogers and Fred Wesley)"	Jestofunk	Italo House	https://open.spotify.com/track/4ulMqOuI6um9mZJptXLJtT
+49	"What's the Move"	Jafunk	Funky House	https://open.spotify.com/track/6WWwsE0oge62N2STOFOnvh
+50	"Pick Up"	DJ Koze	Microhouse	https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ
