@@ -182,6 +182,8 @@
     const statusEl = document.getElementById('discover-status');
     const statusText = statusEl.querySelector('.text');
     let pollTimer = null;
+    let tickTimer = null;
+    let lastSnap = null;
     let lastSeenRunId = null;
 
     function fmtAgo(iso) {
@@ -249,16 +251,21 @@
             .then(snap => {
                 const latest = snap.latest;
                 const wasRunning = !!pollTimer;
+                lastSnap = snap;
                 renderStatus(snap);
                 if (latest && latest.status === 'running') {
                     lastSeenRunId = latest.id;
                     if (!pollTimer) pollTimer = setInterval(() => fetchStatus(), 3000);
+                    // While running, the ticker isn't needed — stop it.
+                    if (tickTimer) { clearInterval(tickTimer); tickTimer = null; }
                 } else {
                     if (pollTimer) { clearInterval(pollTimer); pollTimer = null; }
                     // If we just transitioned out of 'running', refresh the song list.
                     if (wasRunning && latest && latest.status === 'success') {
                         refreshSongList();
                     }
+                    // Keep the relative-time display fresh without re-fetching.
+                    if (!tickTimer) tickTimer = setInterval(() => { if (lastSnap) renderStatus(lastSnap); }, 30000);
                 }
             })
             .catch(err => console.error('Status fetch failed', err));
@@ -276,6 +283,7 @@
         .then(({ ok, status, body }) => {
             if (!ok && status !== 409) console.error('Trigger failed', body);
             // Either way, re-render with the snapshot the server returned.
+            lastSnap = body;
             renderStatus(body);
             if (body.latest && body.latest.status === 'running') {
                 lastSeenRunId = body.latest.id;
