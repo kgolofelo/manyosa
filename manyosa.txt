@@ -600,3 +600,55 @@ Source: Every Noise genre maps — Sound of Microhouse, Sound of Tech House, Sou
 48	"Season"	Monojoke	Deep Progressive House	https://open.spotify.com/track/6plrjFbPuHZIUXZdh1bavs
 49	"Deep Sleep in Tokyo"	Deep Sector	Deep Deep House	https://open.spotify.com/track/0upBXA90JAjMfT1xhZBQR9
 50	"Good Memories - Radio Edit"	Krummstoff	Deep Deep House	https://open.spotify.com/track/61JXDHmBLrG6ptSlMkyPow
+
+=== BATCH 16 - Afro House, SA Deep House, SA Soulful Deep House, Organic House, Soulful House ===
+1	"Thunder - Radio Edit"	Gianni Romano	Afro House	https://open.spotify.com/track/17xaIPykg44pH1MqeJHjLD
+2	"Eyes Don't Lie"	AFRONOM	Afro House	https://open.spotify.com/track/29MSZijEcJJcUzBbJWzQVZ
+3	"My Love"	Jamek Ortega	Afro House	https://open.spotify.com/track/0AOCzQBXwlToVx0fpsixY6
+4	"Ayeela"	MuTT_Official	Afro House	https://open.spotify.com/track/4cpbN6uUTujSrbBXdOvUK3
+5	"Like Dat"	Danidane	Afro House	https://open.spotify.com/track/4t5WudB0FFZ7fNx6LrXTkA
+6	"The Stockholm Syndrome - Vidojean X Oliver Loenn Remix"	CLMD	Afro House	https://open.spotify.com/track/2I14DtGvTlRsuHJ0aGQuFN
+7	"Alor (feat. Emma El Shir)"	Adam Ten	Afro House	https://open.spotify.com/track/3mvVuPcQQE8MESknXb04SQ
+8	"U&I"	KEKURA	Afro House	https://open.spotify.com/track/6ZtCimwqbB91ejGTNRzDe7
+9	"Wonderful Life - JOSEPH Remix"	Badbwoy	Afro House	https://open.spotify.com/track/6OxIJz7VmPSDCtrQrmRNHe
+10	"Erro Pt II"	BADBOX	Afro House	https://open.spotify.com/track/1KLQ4j2Krqvebva7FUnBv3
+11	"Sirkustelt"	Meera (NO)	Afro House	https://open.spotify.com/track/41dJJdsHliSeDzHJ234bLR
+12	"Kidz"	Arodes	Afro House	https://open.spotify.com/track/3FMrfozd7RBxApXp4unYL8
+13	"Over Used"	sone.	Afro House	https://open.spotify.com/track/6bfvNCO6bucf2Lbbe5qPRg
+14	"Nomad"	GROSSOMODDO	Afro House	https://open.spotify.com/track/7gY3ckTODKZECb8WDSIJvi
+15	"Our Craft"	LaDeepsoulz	SA Deep House	https://open.spotify.com/track/2ijH56rSUuTccXX5sDzfGM
+16	"Lament"	Louis Anima	SA Deep House	https://open.spotify.com/track/161bBGqtTF6V02xyNXgfvK
+17	"Hamba Nam (feat. Nvcho & Aion)"	Kelvin Momo	SA Deep House	https://open.spotify.com/track/00FYYqajoQmOlsGqyXn9az
+18	"Casablanca - Addictive Mix"	Da Real Emkay	SA Deep House	https://open.spotify.com/track/2cFukSsSLfvUWuL613RiRX
+19	"Vula Inhliziyo (feat. ThandoNje & Smilo)"	Baby S.O.N	SA Deep House	https://open.spotify.com/track/2grBysomGrWVdFUYZKpigi
+20	"Phenduka - Beat Soul Rework"	AdhesiveTwins	SA Deep House	https://open.spotify.com/track/48RQVBUGn6CWtXtVp2htxS
+21	"Naked Insurance"	Dj DIHNO	SA Soulful Deep House	https://open.spotify.com/track/7j4sTFAhbCemcf0olh0XwP
+22	"You Are Chosen - Radio Edit"	Martin Psa	SA Deep House	https://open.spotify.com/track/4gfrubD0BhWU9PxvU2NGWd
+23	"Peace Green"	thds	Organic House	https://open.spotify.com/track/2E5Rl8A8UexeWU7raWR3Sa
+24	"Dle Yaman - 116 Deep Mix"	Hraach	Organic House	https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt
+25	"Louna"	Sam Shure	Organic House	https://open.spotify.com/track/2Ms9rXvqIqCzn9BYkhVoYA
+26	"Feather - Iorie & Madmotormiquel Remix"	Nhii	Organic House	https://open.spotify.com/track/5cPkKWedtNGlXW4sUdAgvz
+27	"Can You See What I See"	El Mundo	Organic House	https://open.spotify.com/track/1HRKQf25EU09i3IvNuJRd4
+28	"Ountera - Geju Remix"	HAFT	Organic House	https://open.spotify.com/track/2UfYix7uG6hWIj05pGnw6R
+29	"Limba La"	Somelee	Organic House	https://open.spotify.com/track/0DbzOtR6qoqGcgcaznOGS0
+30	"Gilgamesh"	Elfenberg	Organic House	https://open.spotify.com/track/04AfApxqQAGKm2QcBpHmR2
+31	"The Smooth Gardens - Radio Edit"	Parallelle	Organic House	https://open.spotify.com/track/2N3ESerxSL9HEAgwDPs6GP
+32	"Quiero - Radio Edit"	Dandara	Organic House	https://open.spotify.com/track/60MvW5eHV1a7iyQk3Ne2le
+33	"Mi Pena"	Birds of Mind	Organic House	https://open.spotify.com/track/4H1WX8N0IRyPn2kG1TrJEI
+34	"Neunivai"	Volen Sentir	Organic House	https://open.spotify.com/track/7HStZcjzsLpTX3U0uLdVzb
+35	"Vayu"	Kora (CA)	Organic House	https://open.spotify.com/track/7vRkDcug1oYaAHG4tLNOHz
+36	"Trip To The Lonely Planet"	Mark Alow	Organic House	https://open.spotify.com/track/3AoPhInlcd98u7Z1vmwHdk
+37	"Cielo Azul"	Coss	Organic House	https://open.spotify.com/track/4CjDf8BfmMq9LbvYLc8vLK
+38	"Panko Day"	Sébastien Léger	Organic House	https://open.spotify.com/track/7uTnU6npz09UgqCYA29bnK
+39	"Tab Leh - Hobta Remix"	Hrag Mikkel	Organic House	https://open.spotify.com/track/44L6rnxwrEvb5BbJjtCOo2
+40	"Nabia"	Be Svendsen	Organic House	https://open.spotify.com/track/1W2eqS5HYJXHIhn7T8lWDZ
+41	"Petra"	Bedouin	Organic House	https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r
+42	"Kaleidoscope"	Gorje Hewek	Organic House	https://open.spotify.com/track/20tsqOUnmxpTtWP5SWehfq
+43	"Moss"	Tim Green	Organic House	https://open.spotify.com/track/7CWPISyLM8VcTvXgQ9bDnb
+44	"Sunday Glide"	Kermesse	Organic House	https://open.spotify.com/track/72Qac2FQd9e21XCibSOhfY
+45	"Oriental Tales"	Rapossa	Organic House	https://open.spotify.com/track/1ljBBK6uIhjuxmL7etHP39
+46	"The Feeling"	Franck Roger	Soulful House	https://open.spotify.com/track/3d2O7F9OR0mAWaTa8YTEuL
+47	"Don't Make Me Beg"	Marc Cotterell	Soulful House	https://open.spotify.com/track/3eOky6PqabYcYHWb02xHkc
+48	"Home For Sunset"	Andy Compton	Soulful House	https://open.spotify.com/track/50X4hL7pGAXV1RUbTL4gim
+49	"Back To The One - Original Mix"	Rhemi	Soulful House	https://open.spotify.com/track/4fLyA94IMl1TTWIHgOk7Yu
+50	"Stand for Love - Extended Mix"	Ezel	Soulful House	https://open.spotify.com/track/6BqCv4kyApfnpXn5akhLIZ
