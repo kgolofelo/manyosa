@@ -61,6 +61,18 @@
 
         .empty { text-align: center; color: var(--muted); padding: 60px 20px; }
 
+        .discover-bar { display: flex; align-items: center; gap: 10px; margin-bottom: 18px; flex-wrap: wrap; }
+        .btn { font-family: inherit; font-size: 13px; padding: 7px 14px; border-radius: 6px; border: 1px solid var(--border); background: var(--panel); color: var(--text); cursor: pointer; transition: background 0.15s ease, border-color 0.15s ease; }
+        .btn:hover:not(:disabled) { background: var(--panel-2); border-color: var(--accent); }
+        .btn:disabled { opacity: 0.55; cursor: not-allowed; }
+        .btn.primary { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+        .discover-status { color: var(--muted); font-size: 12px; display: flex; align-items: center; gap: 8px; }
+        .discover-status .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--muted); }
+        .discover-status.running .dot { background: var(--accent); animation: pulse 1.2s ease-in-out infinite; }
+        .discover-status.success .dot { background: var(--accent); }
+        .discover-status.failed  .dot { background: #e85a5a; }
+        @keyframes pulse { 0%,100% { opacity: 0.4; } 50% { opacity: 1; } }
+
         footer { margin-top: 32px; text-align: center; color: var(--muted); font-size: 11px; }
     </style>
 </head>
@@ -77,6 +89,11 @@
             <span class="pill"><strong id="count-closed">{{ $counts['closed'] }}</strong>closed</span>
         </div>
     </header>
+
+    <div class="discover-bar">
+        <button type="button" class="btn primary" id="discover-btn">Find more songs</button>
+        <div class="discover-status" id="discover-status"><span class="dot"></span><span class="text">Loading…</span></div>
+    </div>
 
     <ul class="list" id="list">
         @forelse ($songs as $song)
@@ -159,6 +176,120 @@
         })
         .catch(err => console.error('Review failed', err));
     });
+
+    // ---------- Discovery trigger & status polling --------------------
+    const btn = document.getElementById('discover-btn');
+    const statusEl = document.getElementById('discover-status');
+    const statusText = statusEl.querySelector('.text');
+    let pollTimer = null;
+    let lastSeenRunId = null;
+
+    function fmtAgo(iso) {
+        if (!iso) return 'never';
+        const then = new Date(iso).getTime();
+        const secs = Math.max(0, Math.round((Date.now() - then) / 1000));
+        if (secs < 60) return `${secs}s ago`;
+        if (secs < 3600) return `${Math.round(secs/60)}m ago`;
+        if (secs < 86400) return `${Math.round(secs/3600)}h ago`;
+        return `${Math.round(secs/86400)}d ago`;
+    }
+
+    function renderStatus(snap) {
+        const latest = snap.latest;
+        statusEl.classList.remove('running', 'success', 'failed');
+        if (!latest) {
+            statusText.textContent = `No runs yet — ${snap.today_success}/${snap.daily_target} today`;
+            btn.disabled = false;
+            btn.textContent = 'Find more songs';
+            return;
+        }
+        statusEl.classList.add(latest.status === 'running' ? 'running' : latest.status);
+        if (latest.status === 'running') {
+            btn.disabled = true;
+            btn.textContent = 'Discovering…';
+            statusText.textContent = `Run #${latest.id} (${latest.source}) running…`;
+        } else {
+            btn.disabled = false;
+            btn.textContent = 'Find more songs';
+            const delta = latest.new_count != null ? ` · +${latest.new_count} new` : '';
+            const when = fmtAgo(latest.finished_at || latest.started_at);
+            statusText.textContent = `Last: ${latest.status} ${when}${delta} · ${snap.today_success}/${snap.daily_target} today`;
+        }
+    }
+
+    function refreshSongList() {
+        fetch('/songs', { headers: { 'Accept': 'application/json' }, credentials: 'same-origin' })
+            .then(r => r.ok ? r.json() : Promise.reject(r))
+            .then(data => {
+                if (data.counts) updateCounts(data.counts);
+                // Re-render the list to surface freshly discovered songs.
+                if (Array.isArray(data.songs)) {
+                    const list = document.getElementById('list');
+                    list.innerHTML = data.songs.map(s => `
+                        <li class="row ${s.status}" data-id="${s.id}" data-status="${s.status}">
+                            <div class="num">${s.sort_order}</div>
+                            <div class="meta">
+                                <div class="title"><a href="${s.spotify_url}" target="_blank" rel="noopener noreferrer">${escapeHtml(s.title)}</a></div>
+                                <div class="sub-meta">${s.artist ? `<span>${escapeHtml(s.artist)}</span>` : ''}${s.genre ? `<span class="genre">${escapeHtml(s.genre)}</span>` : ''}</div>
+                            </div>
+                            <div class="status">${s.status}</div>
+                        </li>`).join('');
+                }
+            })
+            .catch(err => console.error('Refresh failed', err));
+    }
+
+    function escapeHtml(s) {
+        return String(s ?? '').replace(/[&<>"']/g, c => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
+    }
+
+    function fetchStatus(initial = false) {
+        return fetch('/discovery/status', { headers: { 'Accept': 'application/json' }, credentials: 'same-origin' })
+            .then(r => r.json())
+            .then(snap => {
+                const latest = snap.latest;
+                const wasRunning = !!pollTimer;
+                renderStatus(snap);
+                if (latest && latest.status === 'running') {
+                    lastSeenRunId = latest.id;
+                    if (!pollTimer) pollTimer = setInterval(() => fetchStatus(), 3000);
+                } else {
+                    if (pollTimer) { clearInterval(pollTimer); pollTimer = null; }
+                    // If we just transitioned out of 'running', refresh the song list.
+                    if (wasRunning && latest && latest.status === 'success') {
+                        refreshSongList();
+                    }
+                }
+            })
+            .catch(err => console.error('Status fetch failed', err));
+    }
+
+    btn.addEventListener('click', function () {
+        btn.disabled = true;
+        btn.textContent = 'Starting…';
+        fetch('/discovery/run', {
+            method: 'POST',
+            headers: { 'X-CSRF-TOKEN': csrf, 'Accept': 'application/json' },
+            credentials: 'same-origin',
+        })
+        .then(r => r.json().then(body => ({ ok: r.ok, status: r.status, body })))
+        .then(({ ok, status, body }) => {
+            if (!ok && status !== 409) console.error('Trigger failed', body);
+            // Either way, re-render with the snapshot the server returned.
+            renderStatus(body);
+            if (body.latest && body.latest.status === 'running') {
+                lastSeenRunId = body.latest.id;
+                if (!pollTimer) pollTimer = setInterval(() => fetchStatus(), 3000);
+            }
+        })
+        .catch(err => {
+            console.error('Trigger failed', err);
+            btn.disabled = false;
+            btn.textContent = 'Find more songs';
+        });
+    });
+
+    fetchStatus(true);
 })();
 </script>
 </body>

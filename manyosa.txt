@@ -704,3 +704,107 @@ Source: Every Noise genre maps — Sound of Microhouse, Sound of Tech House, Sou
 48	"Uyankenteza (Enoo Napa Vocal Remix)"	Afro Warriors, Toshi	Afro House	https://open.spotify.com/track/06F8hp1fOZBMzkkXEE0svn
 49	"Now Or Never - Gregor Salto Radio Edit"	Boddhi Satva, Erin Kimberly, Gregor Salto	Afro House	https://open.spotify.com/track/6SKfEQtJtub7opGLeMSd0m
 50	"Hunting KS [Mixed]"	Eltonnick	Afro House	https://open.spotify.com/track/2A282OkNWzYmj4qL2eW3mo
+
+=== BATCH 18 - Auto-discovered (2026-05-24 09:16) ===
+1	"Mabudede (Kususa Remix)"	De Cave Man, TonicVolts, Kususa, Toshi	Afro House	https://open.spotify.com/track/7s6BlGZDTjTP6SzrH3I0ca
+2	"Hook - Original mix"	Native P., Savage & SHē	Afro House	https://open.spotify.com/track/5RZdT4FUTOe5YKCleLHr8n
+3	"Messiah (feat. Zipho Thusi)"	DJ Tomer, Ricardo, Cisco De Sol, Zipho Thusi	Afro House	https://open.spotify.com/track/32s4M923qOhi5hWRbNqE80
+4	"Malayou"	Da Mike, Kawtar Sadik	Afro House	https://open.spotify.com/track/0hT1vHRFdU5pcqs9D4cTjk
+5	"Mabudede - Kususa Remix"	De Cave Man & TonicVolts, Toshi, Kususa	Afro House	https://open.spotify.com/track/0Ypesv8VK0jGIGjcT063gX
+6	"Suka (feat. Madala Kunene and 104 BPM)"	DJ Kabila, 104 BPM, Madala Kunene	Afro House	https://open.spotify.com/track/2eXdwG8NeWzlCVe1pJ0IIa
+7	"Muziki Wangu"	Tekniq	Afro House	https://open.spotify.com/track/32sNebPZCDwAiZQfhBlL33
+8	"Filtered African Blues - FNX Omar Remix"	Oscar P, FNX OMAR	Afro House	https://open.spotify.com/track/7zLm8NfYfn4IRd3GF35N3O
+9	"Love"	Mpho.Wav, Azana	Afro House	https://open.spotify.com/track/1lnWRq7XGgUzO6LD8aLH2j
+10	"Owesono"	NuroGroove, Bukeka	Afro House	https://open.spotify.com/track/33b6oR8GUHLeg2B02Und7W
+11	"The Place"	FNX OMAR, Mr. V	Afro House	https://open.spotify.com/track/61e9tvSRRGsfonz9AjKzpv
+12	"African Mermaid - Mixed"	Aimo	Afro House	https://open.spotify.com/track/5atWhmIA0OWyKFp2IKjXxs
+13	"Malembe"	Wilson Kentura, Afro Warriors	Afro House	https://open.spotify.com/track/2gsK0dw72G4rLkRG5RAsPm
+14	"Yebba's Heartbreak (Show My Love) - Drega & Skyewanda Cover"	Drega, Skye Wanda	Afro House	https://open.spotify.com/track/1MzGuAepLBx5EnlsIm0jLe
+15	"Abantu Betshe"	Crescent Von Croon, Saint Evo	Afro House	https://open.spotify.com/track/3jLfe5EL1NIJwO0RvLTrUG
+16	"Wushi"	Deep Narratives, NAAK	Afro House	https://open.spotify.com/track/3vwzfEqoVXDMJpml4TTj0A
+17	"Bailando De Too"	Peppe Citarella, Mijangos, Manybeat	Afro House	https://open.spotify.com/track/7JuMuW7JIpQa3P9wZxaHIQ
+18	"La Cuba"	Pippi Ciez	Afro House	https://open.spotify.com/track/3eDcpSqQhGGaI8hdTHfcdt
+19	"Touch Of Insanity - Original"	Thab De Soul	Afro House	https://open.spotify.com/track/2TDK9wbb1vOekvwuuHXsqI
+20	"People Of Wakanda"	Mr Joe	Afro House	https://open.spotify.com/track/0CayT7yqlJOVWyFByeSDsb
+21	"Weche - Radio Edit"	Punk Mbedzi, Euggy, Akoth Jumadi	Afro House	https://open.spotify.com/track/1Auk0gMNtlgOlw6MiI5u6m
+22	"Baby Powda - Tedd Patterson Edit"	Doug Gomez, Tedd Patterson	Afro House	https://open.spotify.com/track/13YEcrWctpu3Spl3URMfoz
+23	"Baakoya - Armonica Remix"	Mabiisi, Armonica	Afro House	https://open.spotify.com/track/04TgUvkJs2eKB2eKh4ro6f
+24	"Surrender"	Angelos, Jaidene Veda	Afro House	https://open.spotify.com/track/1o5ZPbk5NxzAODTs698XTz
+25	"Linda"	Dj Beekay, Thandi Draai	Afro House	https://open.spotify.com/track/33lXSQ3eUkjYCldOpN1Oii
+26	"Weeper"	Toshi, Eltonick	Afro House	https://open.spotify.com/track/21GUdSQDu8qriydcnXWGxw
+27	"With You - Extended Version"	G-Wash10, The Siege DJ	Afro House	https://open.spotify.com/track/549Rbj1H0DJKlp7zUnMvvl
+28	"Like That"	AMÉMÉ, Baron (FR)	Afro House	https://open.spotify.com/track/7MJY6QjGV2Rf4LbGt4hxEV
+29	"Fela Sa Moya - Original MIx"	Dee Cee	Afro House	https://open.spotify.com/track/0bSMQljSa68tbDdXmebojJ
+30	"Think About Me"	MusiQ Monks	SA Deep House	https://open.spotify.com/track/0zOk2yXGBuJuDZ4esvsmaj
+31	"Funa Wena"	Hypaphonik	SA Deep House	https://open.spotify.com/track/2KgIaj7G3kJkQ5oLcPf9B3
+32	"Trust In Me"	Deep Essentials	SA Deep House	https://open.spotify.com/track/36s7PKQKGVaShDdqDnR18M
+33	"Let It Be"	BlaQ Afro-Kay, Laps Rsa, Ceega Wa Meropa, French August	SA Deep House	https://open.spotify.com/track/1Z6rA3CR5O1n4j2vMOx1V5
+34	"Imizi YoBaba"	Soulfreakah, MaWhoo	SA Deep House	https://open.spotify.com/track/0TaQCJsB8uS5oUjUkPMMa3
+35	"Feelings"	Mr Milk Dee, Deep Sen, Lannie	SA Deep House	https://open.spotify.com/track/1kbXapN3LAyy6z5V2eQ6iH
+36	"Love Portion"	DysFonik, BlaQ Afro-Kay, Home-Mad Djz, 18v40	SA Deep House	https://open.spotify.com/track/5eJOOCFAnCadnIAZUENgv7
+37	"Expect the Unexpected"	TimAdeep, Trust SA	SA Deep House	https://open.spotify.com/track/5SMOtYOUKz8qM4J65Pj7hK
+38	"Azumpapa"	June Jazzin	SA Deep House	https://open.spotify.com/track/5v62OsBW8W3rC5ESWFDno9
+39	"Make Me Feel"	SONIDO	SA Deep House	https://open.spotify.com/track/3Q4S8PgiNjYDbmhmuknE8i
+40	"Just Above Me"	Dunn's SA, Vince deDJ	SA Deep House	https://open.spotify.com/track/6ocgx3lKaPoI95mHcGicKB
+41	"Malini"	Besta Evo	SA Deep House	https://open.spotify.com/track/42mOXcaiMEkTu9lXDvU3io
+42	"Solala"	Ezra, Suluman	SA Deep House	https://open.spotify.com/track/6zWqj8qmGybBY6N24PcjwY
+43	"Sinday - Original Mix"	The Jargons, ZuluMafia	SA Deep House	https://open.spotify.com/track/51mPtummskyU7MZuiI9ssi
+44	"Watchu Want Interlude - Phase 2"	Home-Mad Djz	SA Deep House	https://open.spotify.com/track/0e0yRVmWzjtoxnGqgL9bob
+45	"Ngifuna Wena (Amalobolo)"	Fatso 98, Brandon Dhludhlu	SA Deep House	https://open.spotify.com/track/6ewh3pmuRykYH8RMGoCb7M
+46	"Great Life"	Knowxzman	SA Deep House	https://open.spotify.com/track/7BTocAF9irNboY3FsW1BES
+47	"Conversations"	KDY 97	SA Deep House	https://open.spotify.com/track/4AP4UZifZlXSKpvbuUWlGo
+48	"Here We Are"	Mega BT, LebtoniQ	SA Deep House	https://open.spotify.com/track/2wzMoDGHzuEBi2XPTwPoI9
+49	"In The Forest"	La Four SA	SA Deep House	https://open.spotify.com/track/2ABG0IBNl1TyAKiHZYlFsw
+50	"Be With You (feat. Katso) - Chronical Deep Remix"	Mpyatona, Katso, Chronical Deep	SA Deep House	https://open.spotify.com/track/62QokcmkpNxw0nv33mi0Gw
+
+=== BATCH 19 - Auto-discovered (2026-05-24 09:17) ===
+1	"Winning"	Oddxperienc	SA Deep House	https://open.spotify.com/track/60YyeRDI1z1iX5PGBtqoYv
+2	"Let it Go"	UMngomezulu, Brandon Dhludhlu	SA Deep House	https://open.spotify.com/track/4p2WB9RTDj9xUI2VBXiPGG
+3	"House 5th"	Prince Ivyson	SA Deep House	https://open.spotify.com/track/36dD7kztKmimMOTobzG5KX
+4	"Mina Nawe"	Edsoul, Nutownsoul, Afrotraction	SA Deep House	https://open.spotify.com/track/6pQLUbvZ384xTbQtWbqB1q
+5	"Forever"	Jazzuelle	SA Deep House	https://open.spotify.com/track/6j2jUoPVIXkF4AzWxDvLVe
+6	"Schrodinger's Cat"	Graham Deep	SA Deep House	https://open.spotify.com/track/3ZstPpaQAuqzQDf5I59Fpl
+7	"Angels Of Ziguinchor - Just Bee U Mix"	Bee-Bar	SA Deep House	https://open.spotify.com/track/1E6U8MLyNy3WqEtRa0Oohc
+8	"God Listen"	LebtoniQ, Mega BT, Oscar Mbo	SA Deep House	https://open.spotify.com/track/0s6U9cinqJHiLSOKjbHZVn
+9	"Fermentation - Original Mix"	Brewed Souls	SA Deep House	https://open.spotify.com/track/4hyc07mQMlwVcWtemIpSCc
+10	"Magenta's Room"	Boet Quality	SA Deep House	https://open.spotify.com/track/4BPKg9WHS3rtV9crnuTAG6
+11	"Story"	The AquaBlendz	SA Deep House	https://open.spotify.com/track/2UfbQI5TTr935FcAeEAoE2
+12	"House My Love"	Bongani Mehlomakhulu, SpheraQ	SA Deep House	https://open.spotify.com/track/116HsfmSpNBek2ADIJsUaG
+13	"Phenduka - Deep Sen, King Talkzin & Knight Sa's Future Mix"	AdhesiveTwins, Cezwear, Russell, Deep Sen, KingTalkzin, Knight SA	SA Deep House	https://open.spotify.com/track/4DPZac1b1yZj9hs2T7hIzr
+14	"Arabian Night - Dub Mix"	Da Real Emkay	SA Deep House	https://open.spotify.com/track/75rvfYTQVEbMRKZeItyKpC
+15	"Nades"	Bones, TimAdeep	SA Deep House	https://open.spotify.com/track/1vprwSxdNiClJ0a8Vj5WpF
+16	"Never Thought"	Devine Maestro, Thap Soul, NexVocals, Massive R	SA Deep House	https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN
+17	"A New Day - Thorne Miller Remix"	Synth-O-Ven, Thorne Miller	SA Deep House	https://open.spotify.com/track/05YSOOVL6CswevXc4Cc2eD
+18	"Life Without You"	Pushguy	SA Deep House	https://open.spotify.com/track/0sLdCO2Xrn1CVpO0Y7ayzr
+19	"Lost in Space"	Groove Govnor	SA Deep House	https://open.spotify.com/track/78WXf7NcJyafoYYYLKghwk
+20	"We R 1"	China Charmeleon, Hypaphonik	SA Deep House	https://open.spotify.com/track/4hzWPoEtYbNEMyaSmx6NPt
+21	"This Is House"	Groovechild, Pando G	SA Deep House	https://open.spotify.com/track/4d2RAMDpRHMiBCTWRF6fnA
+22	"I Have Decided (feat. Enosoul, Artwork Sounds)"	Earful Soul, Kabza De Small, Stakev, Artwork Sounds, Enosoul	SA Deep House	https://open.spotify.com/track/786xyCtKLgUw08Vg9e5tZx
+23	"Dusty Streets"	Eddvin	SA Deep House	https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q
+24	"House music will never die"	NutownSoul, Dj Terance	SA Deep House	https://open.spotify.com/track/0IgnATf2jK8VUXAzNs0bzi
+25	"Good Summer Lovin"	Gabbana	SA Deep House	https://open.spotify.com/track/461DgcD6kx3MxHLB92GYnL
+26	"Overstappen"	Fred Monk	SA Deep House	https://open.spotify.com/track/7E2IEBzwJmaOrvcJyqdmJc
+27	"4th Generation"	Phill SA, ChiefJoint	SA Deep House	https://open.spotify.com/track/2RGnMyNDJ81QOXTGNJGFzU
+28	"Spirit of Ubuntu"	SpheraQ, Bongani Mehlomakhulu	SA Soulful Deep House	https://open.spotify.com/track/2XjLygDOXgJNUhPTgLY5Cl
+29	"Monde"	Tee Maestro	SA Soulful Deep House	https://open.spotify.com/track/6LbkeD6EEWaLK2rwDqlE13
+30	"Wa Utlwa!"	Sware	SA Soulful Deep House	https://open.spotify.com/track/377O0g3VuDLVTS45w5ixXD
+31	"Got Me For Life (feat. Artwork Sounds, NOMFLEEK)"	Shazmicsoul, Artwork Sounds, NOMFLEEK	SA Soulful Deep House	https://open.spotify.com/track/442JP3rGtJr9AZeXeubSQg
+32	"Eyesolation"	!Sooks	SA Soulful Deep House	https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg
+33	"Let's Be One - Original Mix"	BusyExplore, KoptjieSA	SA Soulful Deep House	https://open.spotify.com/track/37PpM8Gqy1dzYFq2nPd02G
+34	"Shine"	Slaga, Buddynice	SA Soulful Deep House	https://open.spotify.com/track/0EEp9wTQWVAxdmBPAomvZL
+35	"Distance"	Rudi'Kastic	SA Soulful Deep House	https://open.spotify.com/track/2xRvmGpOfbR9YpGOFRfOr7
+36	"Waiting"	Kotonova, Jas Artchild	SA Soulful Deep House	https://open.spotify.com/track/29jDNK2MdZfoRQXpHa3j7a
+37	"You've Been Missing Me"	Nastic Groove	SA Soulful Deep House	https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx
+38	"Let's Talk It Out"	Dark Horse, Poizen, Colbert, Tshego AMG	SA Soulful Deep House	https://open.spotify.com/track/6cAVBAl4PvLLF1XvWvg9ri
+39	"Good Times"	Efkay Da Shiqwan	SA Soulful Deep House	https://open.spotify.com/track/4mWfms9boU8HZS3Kx4uu4p
+40	"In My House - Soulfull Mix"	Deep75	SA Soulful Deep House	https://open.spotify.com/track/0tpvI6PaQcXqxBQHBo26G8
+41	"Comfort Zone"	Random Fact	SA Soulful Deep House	https://open.spotify.com/track/21qSBv70gNtq2PymggHmGX
+42	"Invitation To Dance 2"	Status Quo SA	SA Soulful Deep House	https://open.spotify.com/track/0A8UzM9DezwZwZcFdKbQ6C
+43	"This Love"	Lilac Jeans, Sio Blackwidow	SA Soulful Deep House	https://open.spotify.com/track/3jTazB6m3jgeaDerKqyfF7
+44	"Absolute Sadness Valentine Special"	DJ Tears PLK	SA Soulful Deep House	https://open.spotify.com/track/7DxrPiO7KhAXFFf7WYb8AN
+45	"Sing My Song"	V.Tone, Avenue Deep	SA Soulful Deep House	https://open.spotify.com/track/2o7NJYvdGAtFXZ0X7M0NaM
+46	"My Brothers Records"	Tumi R.E	SA Soulful Deep House	https://open.spotify.com/track/55ImdR1IoLBV5gGmbY3wXA
+47	"Cry - Original Mix"	Siz, Nombuso	SA Soulful Deep House	https://open.spotify.com/track/1mrddZ2f3ZtnZRDYZUAaE7
+48	"Civil Barbarian - Soul Minority Remix"	Secret Souls, Soul Minority	SA Soulful Deep House	https://open.spotify.com/track/0BQQDFs8TKOBwVB4NbBSo6
+49	"Sanctified - Edit"	Slotta	SA Soulful Deep House	https://open.spotify.com/track/7iIZxcpeV8uR6D00Xgm5JI
+50	"Orefile Bophelo"	Mogomotsi Chosen, Zico SA, Da ish	SA Soulful Deep House	https://open.spotify.com/track/4h2UCvKcRzJiX6ky6y486t
