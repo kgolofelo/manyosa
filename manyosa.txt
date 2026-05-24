@@ -652,3 +652,55 @@ Source: Every Noise genre maps — Sound of Microhouse, Sound of Tech House, Sou
 48	"Home For Sunset"	Andy Compton	Soulful House	https://open.spotify.com/track/50X4hL7pGAXV1RUbTL4gim
 49	"Back To The One - Original Mix"	Rhemi	Soulful House	https://open.spotify.com/track/4fLyA94IMl1TTWIHgOk7Yu
 50	"Stand for Love - Extended Mix"	Ezel	Soulful House	https://open.spotify.com/track/6BqCv4kyApfnpXn5akhLIZ
+
+=== BATCH 17 - Auto-discovered (2026-05-24 08:53) ===
+1	"I Adore You (feat. Daecolm)"	HUGEL, Topic, Arash, Daecolm	Afro House	https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7
+2	"Bounce to the Beat - Chris Stussy Remix - Edit"	Todd Terry, Sound Design, Chris Stussy	Afro House	https://open.spotify.com/track/2TaePDvV47Eaju3cSi5TFz
+3	"Like A Fool"	Crazy P	Afro House	https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ
+4	"You Are In My System - Club Mix"	Kerri Chandler, Dennis Quin, Troy Denari	Afro House	https://open.spotify.com/track/63IgbFgnPSWCQWzyH3ipAs
+5	"Want You In My Soul - Radio Edit"	Lovebirds, Stee Downes	Afro House	https://open.spotify.com/track/0qGrGaA27FZlEAbR4RgZ4X
+6	"My My My"	Armand Van Helden	Afro House	https://open.spotify.com/track/653rxW1E7V52QWh6a7oIdS
+7	"Coma Cat - Purple Disco Machine Re-Work"	Tensnake, Purple Disco Machine	Afro House	https://open.spotify.com/track/1BMFet4vUoOgpLYIl3kVMQ
+8	"The Cure & The Cause - Radio Edit"	Fish Go Deep, Tracey K, Dennis Ferrer	Afro House	https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm
+9	"Most Really Pretty Girls Have Pretty Ugly Feet"	HNNY	Afro House	https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG
+10	"Sugar (feat. Francesco Yates)"	Robin Schulz, Francesco Yates	Afro House	https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w
+11	"Come with Me - Radio Mix"	Nora En Pure	Afro House	https://open.spotify.com/track/2FxwTax2LGVybNIrreiwXv
+12	"Deep in the Bottom - of Africa"	Monique Bingham, Black Coffee	Afro House	https://open.spotify.com/track/4okxc2Ues75eVebvEzs1ff
+13	"That's Right - Edit"	Dam Swindle	Afro House	https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo
+14	"Like It Is - Mixed"	Coeo	Afro House	https://open.spotify.com/track/5ReLOUboXvaOVariwEJnl3
+15	"Jubel - Radio Edit"	Klingande	Afro House	https://open.spotify.com/track/1d4xcg24qQlM8xQmBUC4XT
+16	"If I Can't Get Down - Mousse T.'s Funky Shizzle Mix"	Mike Dunn, Mousse T.	Afro House	https://open.spotify.com/track/3bX36CK7B1HCckuLzqIGkG
+17	"Your Love"	Frankie Knuckles	Afro House	https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw
+18	"Can't You See"	Rick Wade	Afro House	https://open.spotify.com/track/0QHgoeTQNQmyA1bNoUhZD3
+19	"Momma's Groove (Jimpster's Hip Replacement Mix)"	Osunlade, Jimpster	Afro House	https://open.spotify.com/track/3SYFuQxFvEVrOD54vW0Hu7
+20	"This Is The Sound"	Riva Starr, Todd Terry	Afro House	https://open.spotify.com/track/5JsIQ66sNFViii1ECZvtUp
+21	"Most Precious Love - DF's Future 3000 Extended Mix"	Blaze, UDAUFL, Barbara Tucker, Dennis Ferrer	Afro House	https://open.spotify.com/track/318oRZ92qOsP0rpQtSZRDA
+22	"It's Yours (feat. E-Man) - Distant Music Mix"	Jon Cutler, E-Man	Afro House	https://open.spotify.com/track/1PrrP9oAtJTmNJDHWrctY5
+23	"Misunderstood - Stripped & Salty Vocal"	Miguel Migs, Coco Bonne	Afro House	https://open.spotify.com/track/4ssMGbh1uwZNfz9dnTi6dO
+24	"Good Intentions - LP Mix"	Session Victim	Afro House	https://open.spotify.com/track/1MLEgLIn8xJelIAAJTcmgc
+25	"What They Say"	Maya Jane Coles	Afro House	https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r
+26	"Careless"	Dusky	Afro House	https://open.spotify.com/track/7iHIbOhn3N0AZF5Tky6DhM
+27	"Feel It"	Floorplan	Afro House	https://open.spotify.com/track/1HFhFHvTiBKVJx8zF1kgrA
+28	"Gabriel - Live Garage Mix"	Roy Davis Jr., Peven Everett	Afro House	https://open.spotify.com/track/6fSdR81YvNG8Wo6i2ytLPR
+29	"Simpatico"	DJ Fudge, Hallex M, Omar	Afro House	https://open.spotify.com/track/2c1lZ3KdyPhDVW0wOLXyj4
+30	"Take Me to My Love"	Ralf Gum, Monique Bingham	Afro House	https://open.spotify.com/track/5oYZAxG1ZVy8lwVduEKYxe
+31	"Sky's the Limit - Edit"	Full Intention	Afro House	https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP
+32	"I Can See It - Miguel Migs Salted Vocal Mix"	Lisa Shaw	Afro House	https://open.spotify.com/track/5xSye8AptRQJ2lGdIC0kq9
+33	"You Rock Me - Long Version"	Larry Heard, Mr White	Afro House	https://open.spotify.com/track/4706xUPwNxD438vIJ3ELxq
+34	"Wahyu"	Saint Evo	Afro House	https://open.spotify.com/track/7u8m9omhQ2a8gUqVErnKK3
+35	"WELE WELE"	Vanco, Una Rams, Pablo Fierro	Afro House	https://open.spotify.com/track/7h2XSRLTwmgiCdYAwWmsEi
+36	"Kwa Mama"	Atmos Blaq	Afro House	https://open.spotify.com/track/0WGUkcTM1u5ssKcdqFtCJn
+37	"Ezizweni (Nitefreak Remix)"	Hyenah, Nitefreak, DJ Tira, Luke Ntombela	Afro House	https://open.spotify.com/track/7HewQPen9NTYZdWdCbE6j3
+38	"Yaze Yamnandi"	Argento Dust, Deep Narratives, Okmalumkoolkat	Afro House	https://open.spotify.com/track/1KvukmWKoW88NnECROFg2y
+39	"Asanda"	Kususa, Argento Dust, Zakes Bantwini	Afro House	https://open.spotify.com/track/4iq6mQd3Hkj1BUYC09t3rP
+40	"High in Your Love"	Enoo Napa, Zipho	Afro House	https://open.spotify.com/track/04ni9uDZBahWz9A1l0BJ9D
+41	"Difficult - Sparrow & Barbossa Remix"	DJEFF, Josh Milan, Sparrow & Barbossa	Afro House	https://open.spotify.com/track/6xbvwwMSIQVz3p29cFrI38
+42	"Kudala"	Masšh, Yolanda Fyrus	Afro House	https://open.spotify.com/track/5Fpey8B0yaVJk6pK3Ava5m
+43	"Ntu Energy"	Shredder SA, Chrisoul Inactive, DUCHESS	Afro House	https://open.spotify.com/track/2IcOqoZ60WfHXMdxdD2GSc
+44	"Secret ID"	Moojo, Da Capo	Afro House	https://open.spotify.com/track/3DFuT29Zjg3UR2mXmim5Y9
+45	"Bluebird"	LevyM	Afro House	https://open.spotify.com/track/4hOtltEa5A88cPkHvnu1S4
+46	"Thula"	Blanka Mazimela, Khonaye	Afro House	https://open.spotify.com/track/2oGJRoKav60Mddy3c6RKZG
+47	"Inshonalanga"	Kgzoo, Tabia	Afro House	https://open.spotify.com/track/4LPMKbpN6nOcymOtWPB9cv
+48	"Uyankenteza (Enoo Napa Vocal Remix)"	Afro Warriors, Toshi	Afro House	https://open.spotify.com/track/06F8hp1fOZBMzkkXEE0svn
+49	"Now Or Never - Gregor Salto Radio Edit"	Boddhi Satva, Erin Kimberly, Gregor Salto	Afro House	https://open.spotify.com/track/6SKfEQtJtub7opGLeMSd0m
+50	"Hunting KS [Mixed]"	Eltonnick	Afro House	https://open.spotify.com/track/2A282OkNWzYmj4qL2eW3mo

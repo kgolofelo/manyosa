@@ -25,3 +25,8 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Discovery pipeline
+/scripts/.venv
+/storage/discovery/*.log
+/storage/discovery/test-run.log

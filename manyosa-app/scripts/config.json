@@ -1,0 +1,32 @@
+{
+  "user_playlists": [
+    "1Ld2mfWAYIpZs02sxjyVTy",
+    "7zjRGO8eWue9j1nW6ICDIZ",
+    "1HVZAtxwVrKr00ikqNejxX",
+    "1fjOV68ZPx1wxS0HNhX1Hz",
+    "64J2K2onSZmNlWPeIeqS2z",
+    "5jC2m0YHnoDBkJD10UnMxz",
+    "0IcxSM4eAVsrLVWCBnk0Er",
+    "6xv8fJiNJ7Dggassgj6F7H"
+  ],
+  "source_playlists": [
+    {"id": "39i3vuBVVgC3SR3Pvbdqq2", "name": "The Sound of Afro House",                 "genre": "Afro House"},
+    {"id": "6JBXZSjISi9ugN1Q0Ku9cN", "name": "The Pulse of Afro House",                 "genre": "Afro House"},
+    {"id": "11IIVaqPY3mfMjbjJbrp2l", "name": "The Sound of South African Deep House",   "genre": "SA Deep House"},
+    {"id": "4CgnLs5P0WWC60Ja8a60qO", "name": "The Sound of SA Soulful Deep House",      "genre": "SA Soulful Deep House"},
+    {"id": "3V8W6hFJ1VbXNLf1mI0AIG", "name": "The Pulse of Soulful House",              "genre": "Soulful House"},
+    {"id": "5KloWVVDflJ495FWRbh0QE", "name": "The Sound of Soulful House",              "genre": "Soulful House"},
+    {"id": "3KX5g2QcLMsehtf4jAqwSs", "name": "The Sound of Organic House",              "genre": "Organic House"},
+    {"id": "3fjZqKeBRkA8gA8NJv5D9s", "name": "The Sound of Deep House",                 "genre": "Deep House"},
+    {"id": "1dy4JX211m5yoDFp3IYWbT", "name": "The Sound of Funky House",                "genre": "Funky House"},
+    {"id": "0WATfxS5Z63txtvWMgh5pW", "name": "The Sound of South African House",        "genre": "SA House"},
+    {"id": "5r4gdnighI2ujQqfCwtHlU", "name": "The Sound of Vocal House",                "genre": "Vocal House"},
+    {"id": "6MylRBnwQpJ7KlEnCQgSpd", "name": "The Sound of UK House",                   "genre": "UK House"},
+    {"id": "4L9GKyeqZOi5rHUoqDZd6z", "name": "The Sound of Jazz House",                 "genre": "Jazz House"},
+    {"id": "7FAkb5HaFNBqFFVVGFvMTE", "name": "The Sound of Deep Groove House",          "genre": "Deep Groove House"},
+    {"id": "6I1LKsxUEASQ3EkgmkCEry", "name": "The Sound of SA House",                   "genre": "SA House"},
+    {"id": "4RAw5T49Kgd7BdsFsWe4qS", "name": "The Sound of Latin House",                "genre": "Latin House"}
+  ],
+  "target_new_songs": 50,
+  "max_tracks_per_source": 80
+}
