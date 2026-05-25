@@ -808,3 +808,107 @@ Source: Every Noise genre maps — Sound of Microhouse, Sound of Tech House, Sou
 48	"Civil Barbarian - Soul Minority Remix"	Secret Souls, Soul Minority	SA Soulful Deep House	https://open.spotify.com/track/0BQQDFs8TKOBwVB4NbBSo6
 49	"Sanctified - Edit"	Slotta	SA Soulful Deep House	https://open.spotify.com/track/7iIZxcpeV8uR6D00Xgm5JI
 50	"Orefile Bophelo"	Mogomotsi Chosen, Zico SA, Da ish	SA Soulful Deep House	https://open.spotify.com/track/4h2UCvKcRzJiX6ky6y486t
+
+=== BATCH 20 - Auto-discovered (2026-05-25 10:00) ===
+1	"Me Again"	Ntate Tshego, Dearson	SA Soulful Deep House	https://open.spotify.com/track/4ff6Khk3cUlB65llz88653
+2	"Thats Why We Pray"	Nutownsoul	SA Soulful Deep House	https://open.spotify.com/track/0NYn4C2aOzQPexvLDRkPJZ
+3	"Lazy Land Of Stoners And Loners"	Troyder	SA Soulful Deep House	https://open.spotify.com/track/2CK2HthVlMrA2JMh0OXSbP
+4	"Subatomic Particles"	Sir Rizio	SA Soulful Deep House	https://open.spotify.com/track/5gFVsbTSCNqd5ZxA5XofkZ
+5	"Spirit"	Dearson, Uncle-R	SA Soulful Deep House	https://open.spotify.com/track/3HNzuNQt61at1Ncw71c1cR
+6	"Quid Pro Quo"	Black Assertion	SA Soulful Deep House	https://open.spotify.com/track/2M7X0MzCRIXq8Jk4OPCSiZ
+7	"African Bossa"	El Payo, Freddy da Stupid	SA Soulful Deep House	https://open.spotify.com/track/2aKJpUPUNxKGXffBndpYnM
+8	"Me Before You - Chymamusique Remix"	Buddynice, Chymamusique	SA Soulful Deep House	https://open.spotify.com/track/3WVA9yyn2YPcJvrQnXY7Pf
+9	"The Whole Thing"	Black Villain, !Sooks, Lunga SA	SA Soulful Deep House	https://open.spotify.com/track/7mqUZHdBzKmUQfDkmnltu6
+10	"Uzobuyela Kum - Comfort'Deep & Knight SA Motiv Mix"	Room 806, Bukeka, Comfort Deep, Knight SA	SA Soulful Deep House	https://open.spotify.com/track/43PvC2hIlc7GWtmfJ3ZK4c
+11	"No Compromise"	pM.Mp	SA Soulful Deep House	https://open.spotify.com/track/6Cv6go4k17jv3HNnvR3juK
+12	"Find a Way"	Enosoul, Rhey Osborne	SA Soulful Deep House	https://open.spotify.com/track/6kgw0t0frCjEjeZE0WIZE5
+13	"The Day We Met - Main Dub Mix"	Thabza The Deep, Dunn's SA	SA Soulful Deep House	https://open.spotify.com/track/4wjjS1Y8RUQbknJxpEDSo8
+14	"Forbidden - Slow Motion Remix"	Dwson, Slow Motion, Sio	SA Soulful Deep House	https://open.spotify.com/track/5vNJk2RAvE8UV6TF6gZqDq
+15	"Seeking"	Buder Prince, Ruthes Ma	SA Soulful Deep House	https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4
+16	"Liberation - Dub Mix"	Thap Soul	SA Soulful Deep House	https://open.spotify.com/track/5BWJkdzLdrkaXnY3Ht91ld
+17	"Better (feat. Kabomo)"	George Lesley, Kabomo	SA Soulful Deep House	https://open.spotify.com/track/2TSGHbbwqTHoeKA6Cf12at
+18	"Virtue"	Czwe	SA Soulful Deep House	https://open.spotify.com/track/5E9io8TQhLpP6dFOhnBYT5
+19	"Digital Love For Analog"	MusiQuality	SA Soulful Deep House	https://open.spotify.com/track/0pPQsO30d46e38Ap4NJnPA
+20	"The Question (Club Dub)"	Yooks, Tasha LaRae	Soulful House	https://open.spotify.com/track/0XKx5mUuXhDsNPdHAKZVv2
+21	"Let Me Love You"	Demarkus Lewis	Soulful House	https://open.spotify.com/track/4WMISfDuVpNmJ5nCcsZamx
+22	"Believe In A Brighter Day (feat. P.Y. Anderson) - Micky More & Andy Tee Extended Remix"	Platinum Doll, P.Y. Anderson, Micky More & Andy Tee	Soulful House	https://open.spotify.com/track/3boBXWhEfDTb0DvQBgcrZz
+23	"Can't Get Enough - Qwestlife Boogie Vocal Mix"	Alexis Victoria Hall, Yam Who?	Soulful House	https://open.spotify.com/track/29cEoiTnl09zlJEPN1sjbi
+24	"He's Got It - Richard Earnshaw Radio Remix"	Shawn Christopher, Richard Earnshaw	Soulful House	https://open.spotify.com/track/7xCIckUSaJlTsn8FYkcbpR
+25	"She's On The Floor - Risk Assessment Disco Soul Mix"	Risk Assessment	Soulful House	https://open.spotify.com/track/2ioKzCbvgsJh7XkBPxGyjH
+26	"U Got Me Dancing - Radio Edit"	Music P, Liah Barrett	Soulful House	https://open.spotify.com/track/3Ve725pdNmdrS2IYb1zSLk
+27	"5 Days"	Ken@Work	Soulful House	https://open.spotify.com/track/2A68xNNfoSsQj8rYrPI4qb
+28	"Touch Me - Extended Sugarsoul Mix"	Richard Earnshaw	Soulful House	https://open.spotify.com/track/2J8EL4TGjyaSDtnADBx7GK
+29	"Glory - Atjazz Galaxy Aart Remix"	Halo, Atjazz, Maiya	Soulful House	https://open.spotify.com/track/3dEpZ2owGuJexcpOYkQMNs
+30	"Peace of Mind - Philly Radio Mix"	Bobby & Steve, Lifford	Soulful House	https://open.spotify.com/track/7ciF1V8E7R0EZurvWTT6pp
+31	"Let's Get Down"	Abc of Funk, Seb Skalski	Soulful House	https://open.spotify.com/track/13HzKJ2OsaEauU9Fh9KqQp
+32	"Jack Did It - Original Mix"	Raffaele Ciavolino	Soulful House	https://open.spotify.com/track/0AmvdlmNJ5flo6i5pVsOCf
+33	"We Will Never End - Dr Packer Radio Edit"	Vladimir Cetkar, Dr Packer	Soulful House	https://open.spotify.com/track/6gNoB7oihZNX1TeIze2Ao8
+34	"Talk to Me"	Adri Block	Soulful House	https://open.spotify.com/track/4bMVv3ST6K1SJgGQoB8oxz
+35	"In The Soul Of Love"	Kry (IT)	Soulful House	https://open.spotify.com/track/7huDFwVUt4tJOFBMNVFJiZ
+36	"Loving At First Sight - Vocal Mix Edit"	Fouk, Debórah Bond	Soulful House	https://open.spotify.com/track/3Hbsj0J6L5S6cT0CgZxUvX
+37	"Bring Me Love"	Din Jay	Soulful House	https://open.spotify.com/track/0VC7SeQ63m6oVAtjC413Cb
+38	"Warm"	D.P.V.	Soulful House	https://open.spotify.com/track/49rprvNq26D1E1bqsKKRRG
+39	"About Love"	Groove Assassin	Soulful House	https://open.spotify.com/track/6qrfhGdF1TGkHXdvLP9VoT
+40	"The One For Me"	Peter Brown	Soulful House	https://open.spotify.com/track/0nNrBjvl8RerLRBA6xQe9N
+41	"Tell Me Something - Crackazat Remix"	Gareth Donkin, Crackazat	Soulful House	https://open.spotify.com/track/39JHqw7TkS6glDAONPcJqD
+42	"Make It Feel More - Edit"	Corrado Alunni	Soulful House	https://open.spotify.com/track/53Ls2DlARowdR08S6v1SSA
+43	"Jazz At The Lighthouse"	Dave Anthony	Soulful House	https://open.spotify.com/track/2i58VDuxEhqMyp285OWBiY
+44	"Higher - Original Mix"	Alton Miller	Soulful House	https://open.spotify.com/track/51vgRKfreKh6miWbvKPfqM
+45	"Make a Better Life"	Zepherin Saint, Sonny Harrelson	Soulful House	https://open.spotify.com/track/5WZPdKQDvgS2mNDJSXcmKk
+46	"Rise - Black Sonix & Sean McCabe Extended Mix"	The Matsiko World Orphan Choir, Black Sonix, Sean McCabe	Soulful House	https://open.spotify.com/track/11vyZ0xTFL565gaCMfYlxM
+47	"Vibe - Extended Mix"	Soulista, Karmina Dai	Soulful House	https://open.spotify.com/track/16x3CWGCXQgORxaPhjj4Dm
+48	"Who’s Gonna Save The World - Vocal Mix"	DJ Fudge, Chinua Hawk	Soulful House	https://open.spotify.com/track/3LcPp2kiKA4r8ZGNISFV56
+49	"The Pain - Edit"	Gabriel Deb, Lee Wilson	Soulful House	https://open.spotify.com/track/26pl4znkn2oS8mZ0ssKJPF
+50	"Got To Be - House Mix"	Brian Power, Roachford	Soulful House	https://open.spotify.com/track/2aj8vFhMehk69nBwBrlQFl
+
+=== BATCH 21 - Auto-discovered (2026-05-25 16:30) ===
+1	"On My Mind - Radio Edit"	Cafe 432, Nina-Jayne	Soulful House	https://open.spotify.com/track/16zKnUolAV2CRSuohnN2jd
+2	"High Compression - Radio Edit"	Jo Paciello	Soulful House	https://open.spotify.com/track/3U38VmsS3KCi2rfqA5VrLj
+3	"Bad Luck - Eric Kupper Remix"	The Philly All Stars, Eric Kupper	Soulful House	https://open.spotify.com/track/2KLeCvu0J6RsbB76TJM2v9
+4	"Never Give Up - Luis Radio Remix"	Walter G, Luis Radio	Soulful House	https://open.spotify.com/track/2JLYsHB4vAavG7fCDHfa3m
+5	"The Power Of Music - Radio"	Da Funk Junkies	Soulful House	https://open.spotify.com/track/5J7cdZGheWjvpPZLcj4rRi
+6	"Dan Dance"	Alexny	Soulful House	https://open.spotify.com/track/2QL8olUXUTGWXPdRb7nHnt
+7	"That's The Groove"	Julius Papp	Soulful House	https://open.spotify.com/track/3THlJDt9evFRkqGqPHeB0N
+8	"I Know You - Booker T Radio Mix"	Prefix One, Jaelee Small, Booker T	Soulful House	https://open.spotify.com/track/525s7RAQ8R7NCQnDkoWdaD
+9	"Act Like You Know"	DJ Pope	Soulful House	https://open.spotify.com/track/5aJolgnSFg45tZ9kIIBMB5
+10	"She Speaks"	Hallex M, Mike City	Soulful House	https://open.spotify.com/track/0LtS81HO0KcGup8STpVF2O
+11	"Betcha Wouldn't Hurt Me (Vocal Mix)"	Teddy Douglas, Sharon Brown Adams	Soulful House	https://open.spotify.com/track/1bZKtZDLahZfdvPleIoCmZ
+12	"Love Is Thicker Than Water"	Peven Everett	Soulful House	https://open.spotify.com/track/2Fbj43wsh3tODQtrS5gZxI
+13	"Sending You My Love"	Nathan Adams	Soulful House	https://open.spotify.com/track/5Fx1dSj3soavYnOE2bmgyH
+14	"On Time"	Wipe The Needle, Sacha Williamson	Soulful House	https://open.spotify.com/track/39fqLCqzvqWyG8cJQHwhH2
+15	"Mental Dog - Original Mix"	Luis Radio, Pietro Nicosia	Soulful House	https://open.spotify.com/track/7fjnzxhv0QyLWr98nZXJe9
+16	"To The Sky"	Two Lee, Michelle Weeks	Soulful House	https://open.spotify.com/track/3Bf0qsaR6nrQNi0LnbQtEV
+17	"Turn It Around - Radio Mix"	Steven Stone, Tasita D'Mour	Soulful House	https://open.spotify.com/track/2rO2QABiQHKoS0PYw0dTT0
+18	"Come Get Me"	Lup Ino	Soulful House	https://open.spotify.com/track/2RPPHCmSgqO1uVg1WsaE1O
+19	"Lovely Day"	Mirko & Meex	Soulful House	https://open.spotify.com/track/5ZbPczN9tL4JtUeSNheyY7
+20	"Together"	Hotmood	Soulful House	https://open.spotify.com/track/5AKQ1ak9ySZXTwpT8MGVUN
+21	"Remedy - Funkatomic Mix"	Funkatomic, Francis Hylton, Karmina Dai	Soulful House	https://open.spotify.com/track/5ozBGk1NjiGsyPzCptiP5a
+22	"Crazy Life - (Radio Edit)"	F3LIX A.	Soulful House	https://open.spotify.com/track/0wlCAQTgtPw38KGuX4eQ5j
+23	"Your Body Doesn't Lie - Atjazz Love Soul Remix"	Tortured Soul, Atjazz	Soulful House	https://open.spotify.com/track/2kDsyuOJ4n6iLLsIalvekj
+24	"There Is a Place"	Souldynamic, Debórah Bond	Soulful House	https://open.spotify.com/track/07Peb6Gi4iBYgqDNB6qTvm
+25	"Answers - Soulmekanikz Radio Edit"	Chiffon Zoo, Rona Ray, Soulmekanikz	Soulful House	https://open.spotify.com/track/0i6v0y3wVqzjgPIyDFGUzD
+26	"Everybody Loves"	Jet Boot Jack	Soulful House	https://open.spotify.com/track/1zORMyda9Db5uxyCsyjQ3g
+27	"Keep It Burning Hot"	Sentinel Groove	Soulful House	https://open.spotify.com/track/25DrimKk8PaAu5CfdoMcTK
+28	"My Joy - DJ Beloved & Reggie Steele Remix Vocal"	Frankie Feliciano, Kenny Bobien	Soulful House	https://open.spotify.com/track/1Nblgxqhj82fdNDwvj9sDn
+29	"I Found You"	Seb Skalski, Nick Sinckler	Soulful House	https://open.spotify.com/track/7zis0Pm5CdwZDlEA3GH7uk
+30	"This Place - Original Mix"	Harold Matthews Jr, Sean McCabe	Soulful House	https://open.spotify.com/track/6soneaEi5KIUCVOxqIre8F
+31	"My Heart Remembers - DJ Spen Re-Edit"	Marc Evans, N'Dinga Gaba	Soulful House	https://open.spotify.com/track/4vgoQx02TctyifLInM5W77
+32	"Pusherman - Sean Mccabe Remix"	Situation, Maurice Smith, Sean McCabe	Soulful House	https://open.spotify.com/track/2YHPpaK97tcfDulBk0aujE
+33	"Feeling High - Re-Grooved by Juan Laya & Jorge Montiel"	Los Charly's Orchestra, Juan Laya, Jorge Montiel	Soulful House	https://open.spotify.com/track/6KRNYRVA9CMJY2koVi8Bas
+34	"Longing For You"	Ross Couch	Soulful House	https://open.spotify.com/track/25pRH3k4PNyBFeabtJSEcB
+35	"Never - Cosmic Dub"	Fred Everything, Robert Owens	Soulful House	https://open.spotify.com/track/13EZXAOLs6sMFZwoMycgij
+36	"If Luvin You Is Wrong - Main Mix"	Arnaud D, Earl W. Green	Soulful House	https://open.spotify.com/track/5lxa9N28yb0cZQipbdk43x
+37	"Stronger Together - K.G Sunset Remix"	Mr. Eclectic, MissFly, K.G Sunset	Soulful House	https://open.spotify.com/track/4OAFADPXJUbyhGyj4Dldz4
+38	"The Player"	Dee Dee Simon	Soulful House	https://open.spotify.com/track/29rnR4ISf0HSWY0DvBg9X8
+39	"You Are My Light - Bonus Track Tom Glide's Secret Vault"	Tom Glide, Funmilayo Ngozi	Soulful House	https://open.spotify.com/track/2yL3rVDG2bEDqd4v4CmArd
+40	"It Seems To Hang On - Groove N' Soul Classic Radio Mix"	Reelsoul, Groove Junkes	Soulful House	https://open.spotify.com/track/2tW3WYEKQ9RHeNmX2f6P6H
+41	"Steppin To It - Sunset Mix"	John Khan, Paul Lyons	Soulful House	https://open.spotify.com/track/3C8giOLctiVg9Wk3b01tQ1
+42	"Agua Bendita - Radio Edit"	Mark Di Meo, Diana Delgado, Mathieu Ruz	Soulful House	https://open.spotify.com/track/2v65QYLGP0GtC0RCCS3qR4
+43	"Got Me Feeling Free"	Soulbridge, Ms Lil	Soulful House	https://open.spotify.com/track/0D18Y5VhkYqGUmaBGr0WMH
+44	"The Bass That Don't Stop (Tribute to Phil Asher)"	Mark Francis	Soulful House	https://open.spotify.com/track/6VmaCZnLa8khL4EuMONiry
+45	"Whatcha Gonna Do (feat. Margaret Grace) - Claude Monnet & Torre Main Mix"	Teddy Douglas, Margaret Grace	Soulful House	https://open.spotify.com/track/2pniCMBiLEzkSGCqjZ7Keo
+46	"Lovin' You - Radio Edit"	Hannah Khemoh, The Journey Men	Soulful House	https://open.spotify.com/track/7GAEt31l1lB1Y9v9ag7pxX
+47	"Like Nobody Else - Radio Edit"	Soulista, Tracy Hamlin	Soulful House	https://open.spotify.com/track/1eWt7Xmzlae0ZGEREr0m8M
+48	"Come Get My Love - BPM Experience Remix"	Sheree Hicks, DJ Beloved, Reggie Steele	Soulful House	https://open.spotify.com/track/1mAY8X7uFAiGZiAsvx48Fj
+49	"Just One (Kiss Away) - Alt Live Drum Mix"	Steal Vybe, Kim Beacham	Soulful House	https://open.spotify.com/track/4qu4SaA87HAfjwqzv0ML9V
+50	"History Repeating"	Ezel, Rona Ray	Soulful House	https://open.spotify.com/track/5PVZSiUu7ODHWfbfWgqhqR

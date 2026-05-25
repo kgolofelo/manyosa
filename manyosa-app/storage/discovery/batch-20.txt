@@ -1,0 +1,52 @@
+
+=== BATCH 20 - Auto-discovered (2026-05-25 10:00) ===
+1	"Me Again"	Ntate Tshego, Dearson	SA Soulful Deep House	https://open.spotify.com/track/4ff6Khk3cUlB65llz88653
+2	"Thats Why We Pray"	Nutownsoul	SA Soulful Deep House	https://open.spotify.com/track/0NYn4C2aOzQPexvLDRkPJZ
+3	"Lazy Land Of Stoners And Loners"	Troyder	SA Soulful Deep House	https://open.spotify.com/track/2CK2HthVlMrA2JMh0OXSbP
+4	"Subatomic Particles"	Sir Rizio	SA Soulful Deep House	https://open.spotify.com/track/5gFVsbTSCNqd5ZxA5XofkZ
+5	"Spirit"	Dearson, Uncle-R	SA Soulful Deep House	https://open.spotify.com/track/3HNzuNQt61at1Ncw71c1cR
+6	"Quid Pro Quo"	Black Assertion	SA Soulful Deep House	https://open.spotify.com/track/2M7X0MzCRIXq8Jk4OPCSiZ
+7	"African Bossa"	El Payo, Freddy da Stupid	SA Soulful Deep House	https://open.spotify.com/track/2aKJpUPUNxKGXffBndpYnM
+8	"Me Before You - Chymamusique Remix"	Buddynice, Chymamusique	SA Soulful Deep House	https://open.spotify.com/track/3WVA9yyn2YPcJvrQnXY7Pf
+9	"The Whole Thing"	Black Villain, !Sooks, Lunga SA	SA Soulful Deep House	https://open.spotify.com/track/7mqUZHdBzKmUQfDkmnltu6
+10	"Uzobuyela Kum - Comfort'Deep & Knight SA Motiv Mix"	Room 806, Bukeka, Comfort Deep, Knight SA	SA Soulful Deep House	https://open.spotify.com/track/43PvC2hIlc7GWtmfJ3ZK4c
+11	"No Compromise"	pM.Mp	SA Soulful Deep House	https://open.spotify.com/track/6Cv6go4k17jv3HNnvR3juK
+12	"Find a Way"	Enosoul, Rhey Osborne	SA Soulful Deep House	https://open.spotify.com/track/6kgw0t0frCjEjeZE0WIZE5
+13	"The Day We Met - Main Dub Mix"	Thabza The Deep, Dunn's SA	SA Soulful Deep House	https://open.spotify.com/track/4wjjS1Y8RUQbknJxpEDSo8
+14	"Forbidden - Slow Motion Remix"	Dwson, Slow Motion, Sio	SA Soulful Deep House	https://open.spotify.com/track/5vNJk2RAvE8UV6TF6gZqDq
+15	"Seeking"	Buder Prince, Ruthes Ma	SA Soulful Deep House	https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4
+16	"Liberation - Dub Mix"	Thap Soul	SA Soulful Deep House	https://open.spotify.com/track/5BWJkdzLdrkaXnY3Ht91ld
+17	"Better (feat. Kabomo)"	George Lesley, Kabomo	SA Soulful Deep House	https://open.spotify.com/track/2TSGHbbwqTHoeKA6Cf12at
+18	"Virtue"	Czwe	SA Soulful Deep House	https://open.spotify.com/track/5E9io8TQhLpP6dFOhnBYT5
+19	"Digital Love For Analog"	MusiQuality	SA Soulful Deep House	https://open.spotify.com/track/0pPQsO30d46e38Ap4NJnPA
+20	"The Question (Club Dub)"	Yooks, Tasha LaRae	Soulful House	https://open.spotify.com/track/0XKx5mUuXhDsNPdHAKZVv2
+21	"Let Me Love You"	Demarkus Lewis	Soulful House	https://open.spotify.com/track/4WMISfDuVpNmJ5nCcsZamx
+22	"Believe In A Brighter Day (feat. P.Y. Anderson) - Micky More & Andy Tee Extended Remix"	Platinum Doll, P.Y. Anderson, Micky More & Andy Tee	Soulful House	https://open.spotify.com/track/3boBXWhEfDTb0DvQBgcrZz
+23	"Can't Get Enough - Qwestlife Boogie Vocal Mix"	Alexis Victoria Hall, Yam Who?	Soulful House	https://open.spotify.com/track/29cEoiTnl09zlJEPN1sjbi
+24	"He's Got It - Richard Earnshaw Radio Remix"	Shawn Christopher, Richard Earnshaw	Soulful House	https://open.spotify.com/track/7xCIckUSaJlTsn8FYkcbpR
+25	"She's On The Floor - Risk Assessment Disco Soul Mix"	Risk Assessment	Soulful House	https://open.spotify.com/track/2ioKzCbvgsJh7XkBPxGyjH
+26	"U Got Me Dancing - Radio Edit"	Music P, Liah Barrett	Soulful House	https://open.spotify.com/track/3Ve725pdNmdrS2IYb1zSLk
+27	"5 Days"	Ken@Work	Soulful House	https://open.spotify.com/track/2A68xNNfoSsQj8rYrPI4qb
+28	"Touch Me - Extended Sugarsoul Mix"	Richard Earnshaw	Soulful House	https://open.spotify.com/track/2J8EL4TGjyaSDtnADBx7GK
+29	"Glory - Atjazz Galaxy Aart Remix"	Halo, Atjazz, Maiya	Soulful House	https://open.spotify.com/track/3dEpZ2owGuJexcpOYkQMNs
+30	"Peace of Mind - Philly Radio Mix"	Bobby & Steve, Lifford	Soulful House	https://open.spotify.com/track/7ciF1V8E7R0EZurvWTT6pp
+31	"Let's Get Down"	Abc of Funk, Seb Skalski	Soulful House	https://open.spotify.com/track/13HzKJ2OsaEauU9Fh9KqQp
+32	"Jack Did It - Original Mix"	Raffaele Ciavolino	Soulful House	https://open.spotify.com/track/0AmvdlmNJ5flo6i5pVsOCf
+33	"We Will Never End - Dr Packer Radio Edit"	Vladimir Cetkar, Dr Packer	Soulful House	https://open.spotify.com/track/6gNoB7oihZNX1TeIze2Ao8
+34	"Talk to Me"	Adri Block	Soulful House	https://open.spotify.com/track/4bMVv3ST6K1SJgGQoB8oxz
+35	"In The Soul Of Love"	Kry (IT)	Soulful House	https://open.spotify.com/track/7huDFwVUt4tJOFBMNVFJiZ
+36	"Loving At First Sight - Vocal Mix Edit"	Fouk, Debórah Bond	Soulful House	https://open.spotify.com/track/3Hbsj0J6L5S6cT0CgZxUvX
+37	"Bring Me Love"	Din Jay	Soulful House	https://open.spotify.com/track/0VC7SeQ63m6oVAtjC413Cb
+38	"Warm"	D.P.V.	Soulful House	https://open.spotify.com/track/49rprvNq26D1E1bqsKKRRG
+39	"About Love"	Groove Assassin	Soulful House	https://open.spotify.com/track/6qrfhGdF1TGkHXdvLP9VoT
+40	"The One For Me"	Peter Brown	Soulful House	https://open.spotify.com/track/0nNrBjvl8RerLRBA6xQe9N
+41	"Tell Me Something - Crackazat Remix"	Gareth Donkin, Crackazat	Soulful House	https://open.spotify.com/track/39JHqw7TkS6glDAONPcJqD
+42	"Make It Feel More - Edit"	Corrado Alunni	Soulful House	https://open.spotify.com/track/53Ls2DlARowdR08S6v1SSA
+43	"Jazz At The Lighthouse"	Dave Anthony	Soulful House	https://open.spotify.com/track/2i58VDuxEhqMyp285OWBiY
+44	"Higher - Original Mix"	Alton Miller	Soulful House	https://open.spotify.com/track/51vgRKfreKh6miWbvKPfqM
+45	"Make a Better Life"	Zepherin Saint, Sonny Harrelson	Soulful House	https://open.spotify.com/track/5WZPdKQDvgS2mNDJSXcmKk
+46	"Rise - Black Sonix & Sean McCabe Extended Mix"	The Matsiko World Orphan Choir, Black Sonix, Sean McCabe	Soulful House	https://open.spotify.com/track/11vyZ0xTFL565gaCMfYlxM
+47	"Vibe - Extended Mix"	Soulista, Karmina Dai	Soulful House	https://open.spotify.com/track/16x3CWGCXQgORxaPhjj4Dm
+48	"Who’s Gonna Save The World - Vocal Mix"	DJ Fudge, Chinua Hawk	Soulful House	https://open.spotify.com/track/3LcPp2kiKA4r8ZGNISFV56
+49	"The Pain - Edit"	Gabriel Deb, Lee Wilson	Soulful House	https://open.spotify.com/track/26pl4znkn2oS8mZ0ssKJPF
+50	"Got To Be - House Mix"	Brian Power, Roachford	Soulful House	https://open.spotify.com/track/2aj8vFhMehk69nBwBrlQFl

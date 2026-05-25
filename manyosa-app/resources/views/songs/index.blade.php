@@ -74,6 +74,15 @@
         @keyframes pulse { 0%,100% { opacity: 0.4; } 50% { opacity: 1; } }
 
         footer { margin-top: 32px; text-align: center; color: var(--muted); font-size: 11px; }
+
+        .btn-close {
+            font-family: inherit; font-size: 11px; padding: 3px 8px; border-radius: 999px;
+            border: 1px solid var(--border); background: transparent; color: var(--muted);
+            cursor: pointer; transition: border-color 0.15s ease, color 0.15s ease;
+            flex-shrink: 0;
+        }
+        .btn-close:hover { border-color: #e85a5a; color: #e85a5a; }
+        .row.closed .btn-close { display: none; }
     </style>
 </head>
 <body>
@@ -109,6 +118,7 @@
                     </div>
                 </div>
                 <div class="status">{{ $song->status }}</div>
+                <button class="btn-close" data-id="{{ $song->id }}" title="Close">close</button>
             </li>
         @empty
             <li class="empty">No songs to review. Run <code>php artisan songs:import</code>.</li>
@@ -146,6 +156,25 @@
     }
 
     document.getElementById('list').addEventListener('click', function (e) {
+        // Close button
+        const closeBtn = e.target.closest('.btn-close');
+        if (closeBtn) {
+            e.preventDefault();
+            const id = closeBtn.dataset.id;
+            fetch(`/songs/${id}/close`, {
+                method: 'POST',
+                headers: { 'X-CSRF-TOKEN': csrf, 'Accept': 'application/json' },
+                credentials: 'same-origin',
+            })
+            .then(r => r.ok ? r.json() : Promise.reject(r))
+            .then(data => {
+                removeRow(id);
+                if (data.counts) updateCounts(data.counts);
+            })
+            .catch(err => console.error('Close failed', err));
+            return;
+        }
+
         const link = e.target.closest('.title a');
         if (!link) return;
 
@@ -235,6 +264,7 @@
                                 <div class="sub-meta">${s.artist ? `<span>${escapeHtml(s.artist)}</span>` : ''}${s.genre ? `<span class="genre">${escapeHtml(s.genre)}</span>` : ''}</div>
                             </div>
                             <div class="status">${s.status}</div>
+                            <button class="btn-close" data-id="${s.id}" title="Close">close</button>
                         </li>`).join('');
                 }
             })

@@ -70,6 +70,21 @@ class SongController extends Controller
         ]);
     }
 
+    public function close(Song $song): JsonResponse
+    {
+        if ($song->status !== 'closed') {
+            $song->update([
+                'status'    => 'closed',
+                'closed_at' => now(),
+            ]);
+        }
+
+        return response()->json([
+            'song'   => $song->fresh(),
+            'counts' => $this->counts(),
+        ]);
+    }
+
     /** @return array{new:int,reviewed:int,closed:int,total:int} */
     private function counts(): array
     {
