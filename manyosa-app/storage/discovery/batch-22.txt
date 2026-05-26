@@ -1,0 +1,52 @@
+
+=== BATCH 22 - Auto-discovered (2026-05-26 08:00) ===
+1	"Rise"	Richard Earnshaw, Ursula Rucker, Roy Ayers	Soulful House	https://open.spotify.com/track/0MaQuFkyOav01SbKFARhQF
+2	"So Special - Micky More & Andy Tee Edit"	Reverendos Of Soul, Micky More & Andy Tee	Soulful House	https://open.spotify.com/track/2PKUQkvvRbzysFOT4942mv
+3	"I Need You Now - Original Radio Edit"	Aaron K. Gray	Soulful House	https://open.spotify.com/track/2F01n2Vun1CDXLbTo3oIa0
+4	"Harmony (My Name Is Sheila) - Kiko's Funk Explosion Mix"	Sheila Ford, Kiko Navarro	Soulful House	https://open.spotify.com/track/5sey1nccmxW9A20v0EVIbf
+5	"All About The Culture - Simon Field Remix Edit"	Micky More & Andy Tee, Cevin Fisher, Simon Field	Soulful House	https://open.spotify.com/track/14ffaEaVv9kmo9Ey3JsSIJ
+6	"Stylish Class"	Harley&Muscle	Soulful House	https://open.spotify.com/track/4Jtm7HfLINnjlGjTCsq1NI
+7	"Life Goes On"	Arnold Jarvis	Soulful House	https://open.spotify.com/track/5QFEuZUrQFbVDFHLK9Bgsw
+8	"Ain't Ghostin"	Brian Power, Shirley Lewis, D ONLY 1	Soulful House	https://open.spotify.com/track/0eFyWI0GunACWZKnRayJ9a
+9	"Till You Come Back - Dj Christian B Original Mix Edit"	Groove Assassin, DJ Christian B	Soulful House	https://open.spotify.com/track/1v0L78nTBf0NpnnOdhN36R
+10	"No Pressure"	Fuminori Kagajo, Angela Johnson	Soulful House	https://open.spotify.com/track/71ySUfvs7WHaAfDGgKGABE
+11	"Night Fall - Radio Edit"	Tracy Hamlin, Soulista	Soulful House	https://open.spotify.com/track/1dDVSmQpi6NmRy0JXbLyN1
+12	"Into My Life (You Brought The Sunshine) - Louie Vega Roots Mix"	Elements Of Life, Lisa Fischer, Cindy Mizelle, Louie Vega	Soulful House	https://open.spotify.com/track/6FKvbJrHYHMj4gf9Sdlje3
+13	"Celebrate Myself"	Dawn Tallman	Soulful House	https://open.spotify.com/track/7ov3UcMVIfc7Yg94nVGBEz
+14	"Night Safari"	Masaki Morii, Mr. ID	Soulful House	https://open.spotify.com/track/4YTKrfLGtIEoC3zEsX0kWZ
+15	"The Day - Alaia & Gallo Remix"	Bobby D'Ambrosio, Michelle Weeks, Alaia & Gallo	Soulful House	https://open.spotify.com/track/1MRDjFxtzvKqOZ7djkyTy2
+16	"You Are The Answer - Radio Edit"	Beat Rivals, Andre Espeut	Soulful House	https://open.spotify.com/track/50lfJSjC7jse9imeyxpd3M
+17	"That Acid Track"	Andy Compton	Soulful House	https://open.spotify.com/track/3YjmvYNeKna2st5R3d5WzY
+18	"Spanish Joint - Instrumental"	Sean Ali, Munk Julious, Lewis Rocc	Soulful House	https://open.spotify.com/track/4HUU1NY7SsczGlNgJ70NDx
+19	"Wish - Frankie Feliciano Ricanstruction Vocal Mix"	Matthew Bandy, Josh Milan, Frankie Feliciano	Soulful House	https://open.spotify.com/track/42IDW44xRBucgRjQJU3R4q
+20	"Charlene - V. Underground Mix"	Earl W. Green, V.Underground	Soulful House	https://open.spotify.com/track/5rJ73wZrwxmaD6K9ZrQ3BJ
+21	"Hoye Mama"	Diephuis, Eastar	Soulful House	https://open.spotify.com/track/4lfnxj3Sl7DIEQz4Cy6a5W
+22	"Grateful"	Kenny Bobien	Soulful House	https://open.spotify.com/track/6jgS3uCkTBLjdep4kCwq8W
+23	"Loving is Easy"	MissFly, Mr. Eclectic	Soulful House	https://open.spotify.com/track/0pVOtugbNfU7Tlvn34T2cu
+24	"A Place In My Heart - F&B Soul Disco Blend Mix"	Aldo Bergamasco, Antonello Ferrari, Kim Mazelle	Soulful House	https://open.spotify.com/track/2QR4qH3mlmtDdOfg0yNgB7
+25	"Feels Like Home - The Layabouts Future Retro Vocal Mix"	Mdcl, Ovasoul7, The Layabouts	Soulful House	https://open.spotify.com/track/0oEFxvhfAMDP7oFqrhyYul
+26	"It’s Not Right But It’s Okay - Vocal Mix Edit"	Risk Assessment, Monica Blaire	Soulful House	https://open.spotify.com/track/5XbySzjzgl0qXMVX8ktjyQ
+27	"You Gotta Be - DJ Spen’s Gotta Be Housed Mix"	S.E.L, DJ Spen	Soulful House	https://open.spotify.com/track/7BqdUgxGkq6ARcY0QClVhp
+28	"Smile - DJ Oji's Vocal Mix"	Ed Ramsey, Dj Oji	Soulful House	https://open.spotify.com/track/3sq4hNx8I9j5Ju8MZtLQPi
+29	"Latin Vibes - Pt. 1"	Jihad Muhammad	Soulful House	https://open.spotify.com/track/6Nu7UyHrBNltvf0EQQZ9VN
+30	"Forever Deep"	BusyExplore, Dunn's SA	Organic House	https://open.spotify.com/track/0mSeCgxt8FcVqjVJsTw2wP
+31	"Take It Back - Intake Dub"	Legacy202	Organic House	https://open.spotify.com/track/55zaJbjKx5u5JNy64ktySq
+32	"HEALER OF DEEP SOULS"	GodT Cor Anglais® 27	Organic House	https://open.spotify.com/track/40p1W5Ab87TTtcVxqXwxVs
+33	"Good Days - Nostalgic Mix"	DJExpo Sa, ShortBass	Organic House	https://open.spotify.com/track/5JHhZLkhL3AFImdV32ghkn
+34	"Saint Mathew Cht. 1"	Gigg Cosco	Organic House	https://open.spotify.com/track/1n6Cl0AleH9BjRQ8swSBS6
+35	"Enchanted - Groove Mix"	Citizen Sthee	Organic House	https://open.spotify.com/track/2JKPNZDHV8VGy9Y7p31f60
+36	"Spades"	Kay, Deeper Phil	Organic House	https://open.spotify.com/track/7tj1GB1C0x5Ltnie6hcrHE
+37	"Phumelela"	Magz, C-Sharp, NATASHA MD	Organic House	https://open.spotify.com/track/6U6Mi7l63eDfM4E86IQ1ve
+38	"Different Level"	Phoenix sounds	Organic House	https://open.spotify.com/track/13fTqBTL26q8GNB2fLfD09
+39	"Amanzi"	Soul Keys, Isoull	Organic House	https://open.spotify.com/track/7kfDnM2mKNUiCEa7B81iwW
+40	"In Her Grace - Instrumental Mix"	Moish, Bess Cavendish, Sounds of Africa	Organic House	https://open.spotify.com/track/5DZZV8yF7FcuA5oeOdleNP
+41	"Holy Spirit"	ZuluMafia, C-Blak	Organic House	https://open.spotify.com/track/2uDPalQgSFYIF7NEhAnXVQ
+42	"Ngizok'shada (feat. Miss Ready, Teraphonique, Chilli Bite & Steve.Artchild)"	2Disruptive, Alex Avenues, ReaDaSoul, Miss Ready, TeraphoniQue, Chillibite, Steve.Artchild	Organic House	https://open.spotify.com/track/6PDO7hrdbVZiCEyN5L8Ueu
+43	"Bomi Bude"	TCT, Makhanj	Organic House	https://open.spotify.com/track/5xingSYsMnDLm6KbZdRP3P
+44	"Golden Age Of Audio - Original Mix"	Tar Ntsei, Nick SA	Organic House	https://open.spotify.com/track/17lq8QO60ec0I4QoGOc8U5
+45	"The Situation"	Elias Kazais	Organic House	https://open.spotify.com/track/076J38UfBDHT4poSnnBSOj
+46	"Hlanogedi"	ShortBass	Organic House	https://open.spotify.com/track/44c6tjVd4zQmRKqAphMl8z
+47	"M A S A I"	Peace Modise	Organic House	https://open.spotify.com/track/6e5KK8zcRXhfs2K7BhhgYh
+48	"Rather Die"	D.General, Malankane	Organic House	https://open.spotify.com/track/3lz7cBcQG2yAAX0MSaZWSd
+49	"Cherish forever"	L.ily, Teemza	Organic House	https://open.spotify.com/track/1YBU6EbFZWzvqd0dgYUSaz
+50	"Izinja - Original mix"	Dj Bakk3, Dvine Brothers, Buja, French August	Organic House	https://open.spotify.com/track/0CkBr32bBT3uxVR5Sufxql

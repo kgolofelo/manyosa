@@ -3,7 +3,8 @@
 
 Subcommands:
   check-quota              -> exit 0 if a cron-auto run should proceed, 1 otherwise.
-                              Prints a human-readable reason on stderr.
+                              Skips if >= 50 new songs already exist, daily quota is met,
+                              or last success was too recent. Prints reason on stderr.
   start <source>           -> insert a 'running' row, print the new id on stdout.
   finish <id> <status> [delta] [message]
                            -> mark the row as success/failed with finished_at.
@@ -37,9 +38,21 @@ def connect() -> sqlite3.Connection:
     return conn
 
 
+NEW_SONG_LIMIT = 50
+
+
 def cmd_check_quota() -> int:
     today = _utcnow().strftime("%Y-%m-%d")
     with connect() as c:
+        cur = c.execute("SELECT COUNT(*) FROM songs WHERE status='new'")
+        new_count = cur.fetchone()[0]
+        if new_count >= NEW_SONG_LIMIT:
+            print(
+                f"skipping: {new_count} new songs already (limit {NEW_SONG_LIMIT})",
+                file=sys.stderr,
+            )
+            return 1
+
         cur = c.execute(
             "SELECT COUNT(*) FROM discovery_runs "
             "WHERE status='success' AND date(started_at)=?",
