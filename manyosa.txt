@@ -964,3 +964,107 @@ Source: Every Noise genre maps — Sound of Microhouse, Sound of Tech House, Sou
 48	"Rather Die"	D.General, Malankane	Organic House	https://open.spotify.com/track/3lz7cBcQG2yAAX0MSaZWSd
 49	"Cherish forever"	L.ily, Teemza	Organic House	https://open.spotify.com/track/1YBU6EbFZWzvqd0dgYUSaz
 50	"Izinja - Original mix"	Dj Bakk3, Dvine Brothers, Buja, French August	Organic House	https://open.spotify.com/track/0CkBr32bBT3uxVR5Sufxql
+
+=== BATCH 23 - Auto-discovered (2026-06-08 17:00) ===
+1	"Black Child"	Deep75	Organic House	https://open.spotify.com/track/0dlcjnEclZhWM1CWlsWGcg
+2	"Kimi Nawe"	Caramelized Music, Zinia	Organic House	https://open.spotify.com/track/6SLyeXybFhW1p5xelDnjuJ
+3	"Amalobolo (3step revisit)"	Beekay Monalayzzar, DJ Jasy SA	Organic House	https://open.spotify.com/track/4GYU2IRW3zxOGB5DJOVbH8
+4	"Nocturnal Animal"	Tea White	Organic House	https://open.spotify.com/track/0rrxFcd5ib22uK0PU9S02z
+5	"Sunset Cruise"	DJ Hloni, InQfive	Organic House	https://open.spotify.com/track/1xCVtOsUq38NYU82GQmnlt
+6	"Between Souls"	DJ NuZz	Organic House	https://open.spotify.com/track/7r0DFMvlSvQHa3fiO1lhuL
+7	"Gone Girl (Drega Remix)"	Chloe Florence, Drega	Organic House	https://open.spotify.com/track/58xOyO53S8AVa6jNBfEaVl
+8	"No Context"	Kaynine Deep, Napsoul	Organic House	https://open.spotify.com/track/0vCWFDhcLwMS6KK0NVeiAG
+9	"Bring Me to Life - Original Gadget"	The Boss Duncan	Organic House	https://open.spotify.com/track/5Yki2RTyMWzCqrXRkKd8W0
+10	"Bambolwami - DJ NAHH & Mabhani Remix"	Eyama, Instant Touch SA, S.A.N.E, DJ NAHH, Mabhani	Organic House	https://open.spotify.com/track/7lc959Nk4VpBMAWF6vQKht
+11	"Unity"	RamsTeque, Mega BT, Citizen Sthee	Organic House	https://open.spotify.com/track/420jof4z72NlObyrANPnjx
+12	"Love Sensation - Main Mix"	Beat Soul	Organic House	https://open.spotify.com/track/5TL8etgX2k2OBUaOas16lv
+13	"Thick & Thin"	C-Moody	Organic House	https://open.spotify.com/track/2TgMIuKiIyo3DlHUAi8m8l
+14	"Crying baby"	MG Music SA	Organic House	https://open.spotify.com/track/1g3EXzrnbiS53npYdoGSXT
+15	"Kenya Chelete"	De nax	Organic House	https://open.spotify.com/track/28kIjrfnveI6vK3zuMWtnt
+16	"Arabic Groove"	Efkay Da Shiqwan, 8nine Muzique, NUF DeE	Organic House	https://open.spotify.com/track/7vawqjfK0ILzyQt1SJVVJA
+17	"God Never Fails"	Gron, Simone V	Organic House	https://open.spotify.com/track/3AxVzTXuWXJr8fjGMkoPxR
+18	"Lindele"	AyaProw, M.J, TBO, Eight08_icu, S.O.S.O	Organic House	https://open.spotify.com/track/4YBDPe5OkBKx9xOuUvLQ0s
+19	"Another World"	8nine Muzique, Dynamic Soul, Oddxperienc	Organic House	https://open.spotify.com/track/4TL8FV65mkJodWqvXXjDeH
+20	"Close to You"	Tebza De SouL, SpheraQ	Organic House	https://open.spotify.com/track/5BoKwlj0zVMVMsZAJCXfmO
+21	"Stellar"	Black Peace	Organic House	https://open.spotify.com/track/274dYo2xiSs11n6H2ixeF3
+22	"Indian Prayers - Nostalgic Sos Mix"	M.Patrick, The Godfathers Of Deep House SA	Organic House	https://open.spotify.com/track/2yxjtOrdMtq2Mfd1QP41Jb
+23	"Mine - Original mix"	Goba, Brandon Dhludhlu	Organic House	https://open.spotify.com/track/6SqVV3kTTn9y61tpPm6qGb
+24	"Utopia"	Dee Cee	Organic House	https://open.spotify.com/track/0KCITW3MXe2BNpjhg3zg7j
+25	"Dlala Wena"	The Groovist	Organic House	https://open.spotify.com/track/6q8J5APX05Du3ge882th0U
+26	"Common Grounds"	Peter	Organic House	https://open.spotify.com/track/4LWhNDGqrQaGGH7omAx9TF
+27	"Moove"	Simplekeyz	Organic House	https://open.spotify.com/track/1ebKWhnBlatrQVpJ0clLQ7
+28	"Celebration Song - Extended Version"	Mreeco105	Organic House	https://open.spotify.com/track/23PdeMzbWTojVTw1VWJ45X
+29	"Ukukhanya (feat. Starr Healer & Yarah Lerah)"	Disciples of House, Starr Healer, Yarah Lerah	Organic House	https://open.spotify.com/track/4aEzPYhEPPSUnSL1xlSInt
+30	"iThuba"	Sir Jay Lute, Sol Phenduka, ManQue, Touchy Soul	Organic House	https://open.spotify.com/track/7GJEc3iitv356nMjz3PVgE
+31	"Impumelelo (feat. Tracy, Springle & Leora)"	King P, Dash SA, Supreme, Tracy, Springle, Leora	Organic House	https://open.spotify.com/track/48N1OGZKKiQbfGQq2pAa1j
+32	"Hamba Nam'"	DJ Odyccy, Zando SA	Organic House	https://open.spotify.com/track/2MotgNUWCG25kb3xGTtwLw
+33	"Rise Above The Hate - Clyde Zeibs Instrumental Mix"	Goba, C-Lab, Komplexity, Clyde Zeibs	Organic House	https://open.spotify.com/track/785Xv3yBbgu81kbxPHaTSz
+34	"Ancient Chants"	DJ Stavo, Josh Major	Organic House	https://open.spotify.com/track/3zqnbN0i69V0CHTVfDNiJj
+35	"Lay It on Tech"	Blac Tears	Organic House	https://open.spotify.com/track/32L2SkKLLADGnsA4LZLqJn
+36	"In Motion - C-Moody Remix"	Lerato, MoreSoul, C-Moody	Organic House	https://open.spotify.com/track/614J8vvEnnCbW4kcJI3iI9
+37	"Delirium"	Chemars	Deep House	https://open.spotify.com/track/5v1RjZN0x5kYxrCTREizPL
+38	"Cheaters Never Win - Antonello Ferrari & Aldo Bergamasco Club Mix"	Antonello Ferrari, Aldo Bergamasco	Deep House	https://open.spotify.com/track/2qnCkcBzQjB7PxFvVI1Bqs
+39	"Renegade - Radio Edit"	Terry Dexter, Wez Whynt	Deep House	https://open.spotify.com/track/6lwl5QEaCIDA51KbwUXmZy
+40	"Feeling For U - DJ Spen Radio Edit"	L'amour Disco, Amanda Wilson, DJ Spen	Deep House	https://open.spotify.com/track/5EhzXN6aQndlUR878YWyCh
+41	"Lost & Found - Radio Edit"	Pat Bedeau, Rona Ray	Deep House	https://open.spotify.com/track/3wecHlxLVetTBFufXdX9ps
+42	"In My House - Edit"	Andrea Tomei	Deep House	https://open.spotify.com/track/5hsMcCPuRjzg1ldTuHBmpV
+43	"Embrace"	Save The Robots	Deep House	https://open.spotify.com/track/1ZkPGLNmuFiD9z65pgfVGS
+44	"Blend - Groove Assassin Extended Remix"	Masterbuilders, Groove Assassin	Deep House	https://open.spotify.com/track/47XmkrPhTdOI5utoV1TorD
+45	"Taste My Love"	Romain Villeroy	Deep House	https://open.spotify.com/track/0s7X48i97tLsTcB5FrE9Oj
+46	"Did You Pray Today? (feat. Annette Bowen) - Extended Mix"	Melvo Baptiste, Annette Bowen	Deep House	https://open.spotify.com/track/3BN3IrU4bEYtVbaerM2R79
+47	"Let the Lovin' Start - Dancefloor Mix"	Victor Haynes	Deep House	https://open.spotify.com/track/0etGMFgamwOLgitsaYYP82
+48	"You Know it"	N.W.N.	Deep House	https://open.spotify.com/track/6G929xj6f2gi7DhdvzzJP8
+49	"Lovin' U - Maurice Joshua House Mix"	Maurice Joshua, Meagan McNeal	Deep House	https://open.spotify.com/track/3n2Qe0sEYvrzcInv0fM0n7
+50	"You Ain't Ridin - Opolopo Remix"	Mothers Favorite Child, Morris Alan	Deep House	https://open.spotify.com/track/6mM91QUc9T5CR7tp4hHuqz
+
+=== BATCH 24 - Auto-discovered (2026-06-08 22:00) ===
+1	"Festival"	Distant People, Sulene Fleming	Deep House	https://open.spotify.com/track/3g91OV4XYMdSGkxa7JUaPc
+2	"Que Tal America - Dave Lee Extended Mix"	Dos Hombres Sonido, Dave 'Love' Lee	Deep House	https://open.spotify.com/track/0WLi3LaOgEFrzXQ6SgeD8v
+3	"I Can't Stop - Radio Edit"	Beat Rivals, Kathy Brown	Deep House	https://open.spotify.com/track/09yR4q26xP20tIKQK5xE5G
+4	"Shout Your Love - Edit"	House Freakers, Anduze	Deep House	https://open.spotify.com/track/6EuYhEi6iVaKIYYgESMdcy
+5	"Without Your Love - Teddy Douglas Love Break Remix"	Spencer Morales, Teddy Douglas	Deep House	https://open.spotify.com/track/1ZJJV6efaVKEfIYZH7R84e
+6	"Here Forever - Jonk & Spook Remix"	Chandler McFadden, Jonk & Spook	Deep House	https://open.spotify.com/track/5RsduuJTC7BzaLW4NTzlyD
+7	"When The Sun Goes Down - Tommy Glasses Remix"	Jorge Montiel, Juan Laya, Xantoné Blacq, Tommy Glasses	Deep House	https://open.spotify.com/track/38MM4qfcBVxgfzWExzgZNu
+8	"The Big Red"	Jaegerossa	Deep House	https://open.spotify.com/track/0EkJxRiJeUJ8OneTp9zzBz
+9	"Little Lovin"	Claus Casper, Freiboitar	Deep House	https://open.spotify.com/track/0FQWiusIOtynLFIEgMTcaB
+10	"My Desire - Miggedy's Full Dizko Slap"	Morttimer Snerd III, Steve 'Miggedy' Maestro	Deep House	https://open.spotify.com/track/5Dtw1PB73HPDtVtIfUc1Um
+11	"Time For Disco"	C. Da Afro	Deep House	https://open.spotify.com/track/5SfG7FHGNX5bIH2YE4yu3a
+12	"Rush"	Grant Nelson, Lil Suze	Deep House	https://open.spotify.com/track/77nls8dLY9q4nTBwkiYUbK
+13	"U Won't C Me - Stefan Braatz Panic Remix"	Mystic Bill, Stefan Braatz	Deep House	https://open.spotify.com/track/71eR16ME0OdlKqxEbxxRlY
+14	"All For You"	Jungstedt, Niclas Kings	Deep House	https://open.spotify.com/track/00RoTvSs7rW9Be1Z6LvilU
+15	"Magnifique"	Zetbee	Deep House	https://open.spotify.com/track/4xa0kSxTzn4g8MluLW2KwD
+16	"We Move"	Wez Whynt, Hannah Khemoh	Deep House	https://open.spotify.com/track/2fqbDg8XOoJBpFQjT8g7k1
+17	"Einhorn Poops"	Carlo	Deep House	https://open.spotify.com/track/0gYbPgxN3YbCOBYgdJzaa1
+18	"Loving You - Abel Remix"	Magic Number, Abel	Deep House	https://open.spotify.com/track/1T8RnoouJq6rNkdAIpr3nO
+19	"Pulling Up - Radio Edit"	Cafe 432, Hannah Khemoh	Deep House	https://open.spotify.com/track/42bo6oYnJwB4SD9Gwq7PF4
+20	"Celebration"	Eugenio Fico	Deep House	https://open.spotify.com/track/0OjJAuHV8gRQOsiAdDFJqS
+21	"Sax in the Air"	Punky Wash	Deep House	https://open.spotify.com/track/1OPglljUZaDPA3gV29X9Ln
+22	"In The Jungle"	The Move	Deep House	https://open.spotify.com/track/0dOWJGoGgKQDNYBSpOYJwV
+23	"Be Strong"	Manuel Kane	Deep House	https://open.spotify.com/track/03GnNvFd6HKxt8fRMCpv2f
+24	"Jungle's Vibin' - Edit"	Infrasoul	Deep House	https://open.spotify.com/track/19qQG5GV3Z3MNHQ2665wKA
+25	"Arabica - Radio Edit"	Perri (it)	Deep House	https://open.spotify.com/track/2lvPvNpYUGi7SLlgbWApkA
+26	"Astroglide"	Lars Behrenroth	Deep House	https://open.spotify.com/track/6yq6qiuGddvZ3Tof0VQFKX
+27	"Faith (feat. Annette Taylor) - Sebb Junior Remix"	Groove Addix, Annette Taylor, Sebb Junior	Deep House	https://open.spotify.com/track/6ctogt9LYiPGG8tCyx0DXb
+28	"Give It To Me"	Dafunkeetomato	Deep House	https://open.spotify.com/track/1lmNsslFwIV0x1luXtEsQr
+29	"Poizen - Nostalgic Mix"	The Godfathers Of Deep House SA, Flexy Da King	Funky House	https://open.spotify.com/track/5m16856chGZ4pHKLU2lrdB
+30	"Sifanelene (feat. Agzo, Lucky Keyz, Dinho & Optimistic Music ZA)"	Abidoza, Tumza D'Kota, Ag'zo, Lucky Keyz, Dinho, Optimistic Music ZA	Funky House	https://open.spotify.com/track/4Bi174sRzlLlC59HrQZ0od
+31	"Your Love"	Enosoul, George Lesley	Funky House	https://open.spotify.com/track/02wRfMmuWxKy1bvg4pjNmj
+32	"Met You - M.K Clive's Deep Remix"	Chronicles, Charmaine, M.K Clive	Funky House	https://open.spotify.com/track/4hdh0CbWYpE1I3iccXp8tn
+33	"Isandla Se Mfene - Voyage Mix"	KingTouch	Funky House	https://open.spotify.com/track/7MmQOujjRxI82k8NFIeH7b
+34	"Here Comes The Sun"	KoptjieSA	Funky House	https://open.spotify.com/track/5YdnGCFz1RQyW1nECxVxIY
+35	"[Chronicles - Met You]"	M.K Clive, Charmaine	Funky House	https://open.spotify.com/track/5UmDjd3E8H6WxttM1VOZYY
+36	"Iphutha Lam (feat. Zeenhle, Mpho Spizzy & Tshepo Keyz)"	LeeArt, Tycoon, Zeenhle, Mpho Spizzy, Tshepo Keyz	Funky House	https://open.spotify.com/track/0TtIfyYWK0tfR634575vl3
+37	"Ma Mi Mama - Freeform U Heirs Vox Mix"	Louie Vega, Elements Of Life, Anane	Funky House	https://open.spotify.com/track/7kYhGS4neaLe9JjmuVS8Bq
+38	"Together"	Jazzuelle, Thabo Tonick	Funky House	https://open.spotify.com/track/3f3snSOM6pFMmgVOJaMOZI
+39	"Glassy Sky"	DysFonik, Da Real Emkay, Ophie	Funky House	https://open.spotify.com/track/1WPM83AZpYtSZGdaOYsxbV
+40	"Moments Before - Underground Vibez"	STI T's Soul	Funky House	https://open.spotify.com/track/6kxT8oBma4HvbDlKqTMlYI
+41	"Smooth Operator"	Earful Soul, Tekniq	Funky House	https://open.spotify.com/track/34B4f5i8CXDAN5b7RTmpd4
+42	"Martin Luther King (Mixed)"	MDU aka TRP	Funky House	https://open.spotify.com/track/6YtgvJVG0kPyyEM41LRUk1
+43	"Moya Munye"	Omhle Diya, Aymos	Funky House	https://open.spotify.com/track/2IkvST96A40LpVXb485B0O
+44	"Love And Music"	Oddxperienc, Blaqlup, Bouzer	Funky House	https://open.spotify.com/track/5JqpjRadY97eefeS1DUjJ1
+45	"Tribute to Chronical Deep - Atmospheric Mix"	Roctonic SA, Home-Mad Djz	Funky House	https://open.spotify.com/track/3atuAh3Kz3idmHgGiGd3H6
+46	"Everything Better"	DJ Couza, French August	Funky House	https://open.spotify.com/track/44MNBiIPi9kvyMKk0F7zRy
+47	"Midnight Groove - Tech Mix"	InQfive	Funky House	https://open.spotify.com/track/1BHd8ThsA1ogHUuu7wcFow
+48	"More"	Lloyd BW, Kali Mija	Funky House	https://open.spotify.com/track/3tKj2EZJKAGMu3zBfhDBFO
+49	"By Your Side (feat. Sbani The Vocalist)"	Oscar Mbo, Sbani The Vocalist	Funky House	https://open.spotify.com/track/3roObxwK5ngwJiBIVGzvIT
+50	"Vuthela Lowo Mlilo - Da Gifto Remix"	Dj Menzelik, Desire, Russell Zuma, Da Gifto	Funky House	https://open.spotify.com/track/1oUfIToyOen92ZQ4JBMT73
