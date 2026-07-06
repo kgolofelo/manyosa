@@ -3,8 +3,11 @@
 
 Subcommands:
   check-quota              -> exit 0 if a cron-auto run should proceed, 1 otherwise.
-                              Skips if >= 50 new songs already exist, daily quota is met,
-                              or last success was too recent. Prints reason on stderr.
+                              Skips if >= 50 new songs already exist, the cron-auto daily
+                              quota is met, or the last cron-auto success was too recent.
+                              Prints reason on stderr.
+  record-skip <source> <message>
+                           -> insert a finished 'skipped' row (used by cron-auto gates).
   start <source>           -> insert a 'running' row, print the new id on stdout.
   finish <id> <status> [delta] [message]
                            -> mark the row as success/failed with finished_at.
@@ -55,7 +58,7 @@ def cmd_check_quota() -> int:
 
         cur = c.execute(
             "SELECT COUNT(*) FROM discovery_runs "
-            "WHERE status='success' AND date(started_at)=?",
+            "WHERE status='success' AND source='cron-auto' AND date(started_at)=?",
             (today,),
         )
         done_today = cur.fetchone()[0]
@@ -64,7 +67,8 @@ def cmd_check_quota() -> int:
             return 1
 
         cur = c.execute(
-            "SELECT MAX(finished_at) FROM discovery_runs WHERE status='success'"
+            "SELECT MAX(finished_at) FROM discovery_runs "
+            "WHERE status='success' AND source='cron-auto'"
         )
         last = cur.fetchone()[0]
         if last:
@@ -78,6 +82,18 @@ def cmd_check_quota() -> int:
                 )
                 return 1
     print(f"proceeding ({done_today}/{DAILY_TARGET} runs today)", file=sys.stderr)
+    return 0
+
+
+def cmd_record_skip(source: str, message: str) -> int:
+    ts = now()
+    with connect() as c:
+        c.execute(
+            "INSERT INTO discovery_runs "
+            "(source, status, started_at, finished_at, message, created_at, updated_at) "
+            "VALUES (?, 'skipped', ?, ?, ?, ?, ?)",
+            (source, ts, ts, message or None, ts, ts),
+        )
     return 0
 
 
@@ -120,6 +136,8 @@ def main(argv: list[str]) -> int:
     sub = argv[1]
     if sub == "check-quota":
         return cmd_check_quota()
+    if sub == "record-skip" and len(argv) == 4:
+        return cmd_record_skip(argv[2], argv[3])
     if sub == "start" and len(argv) == 3:
         return cmd_start(argv[2])
     if sub == "finish" and len(argv) >= 4:

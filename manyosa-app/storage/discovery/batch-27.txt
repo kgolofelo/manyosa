@@ -1,0 +1,52 @@
+
+=== BATCH 27 - Auto-discovered (2026-07-06 19:41) ===
+1	"Unique - N.Y,. Underground Mix"	Club 69	Vocal House	https://open.spotify.com/track/192rqXKDZlAvJtRAOrr6tQ
+2	"Sacrifice"	Kaskade, deadmau5, SOFI TUKKER, Kx5	Vocal House	https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3
+3	"Intoxicated - Radio Edit"	Martin Solveig, Good Times Ahead	Vocal House	https://open.spotify.com/track/2RhKxrhti1jd1Krzh968Cb
+4	"Live You All Over - Offer Nissim Remix"	Deborah Cooper	Vocal House	https://open.spotify.com/track/1azeXoseI222dVwxpmmzG9
+5	"Dreams - Vinyl Disciples Remix"	Vinyl Disciples	Vocal House	https://open.spotify.com/track/6OcOY7f2CSJfiu9nhcko50
+6	"Nobody's Supposed to Be Here"	Deborah Cox	Vocal House	https://open.spotify.com/track/4PBbgYOjKW0Urs0eppefpf
+7	"Groovejet (If This Ain't Love) [feat. Sophie Ellis-Bextor]"	Spiller, Sophie Ellis-Bextor	Vocal House	https://open.spotify.com/track/5ydeCNaWDmFbu4zl0roPAH
+8	"My Imagination - Hi-Intensity Club Mix"	Ceevox, Peter Rauhofer, DJ JRNY	Vocal House	https://open.spotify.com/track/7DMmhlGibJGwLr3pAazShp
+9	"Movin' in Circles"	Kimara Lovelace, RIDGE RACER Series, Bandai Namco Game Music	Vocal House	https://open.spotify.com/track/0BICRaBbvSuG03XYD7jBmC
+10	"Let Me Go... Release Me - Johnny Vicious Club Mix"	Veronica	Vocal House	https://open.spotify.com/track/2qwhabKKqmMCduoM4g968D
+11	"Big Love - David Penn Remix"	Pete Heller's Big Love, David Penn	Vocal House	https://open.spotify.com/track/0eQ1j5MBA9Ja7zvtB9uggC
+12	"It Just Won't Do - Radio Edit"	Tim Deluxe, Sam Obernik	Vocal House	https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9
+13	"Live Your Life - Radio Edit"	Erick Morillo, Eddie Thoneick, Shawnee Taylor	Vocal House	https://open.spotify.com/track/0jJTdDhwgSCe2qtQxmToy6
+14	"Lazy (feat. David Byrne)"	X-Press 2, David Byrne	Vocal House	https://open.spotify.com/track/1aHHLS0UHnRHGVlEvZrWB9
+15	"Fired Up!"	Funky Green Dogs	Vocal House	https://open.spotify.com/track/5mX7pu7sQyEvFkLUahdNVy
+16	"Shined On Me"	Praise Cats, Andrea Love	Vocal House	https://open.spotify.com/track/772MaccGF4ceLCeoJGbC5W
+17	"Reach for Me - TV Rock & Dirty South Remix"	Murk, Funky Green Dogs	Vocal House	https://open.spotify.com/track/3Jsh8YHSWKl2t6LrLQDinM
+18	"Your Body (feat. Michael Marshall) - Cat Dealers Radio Edit"	Tom Novy, Michael Marshall, Cat Dealers	Vocal House	https://open.spotify.com/track/4iRkPkZCkB1l9h7BBEg7Kc
+19	"Ain't Got No"	David Penn	Vocal House	https://open.spotify.com/track/2daBnzQcZuXeTPe1TL3VoH
+20	"Ecstasy (Take Your Shirts Off) (UFO Mix)"	Johnny Vicious, Lula	Vocal House	https://open.spotify.com/track/2Jfbo3vC6id7JwRr8lrNZO
+21	"Papa's Got a Brand New Pigbag - Radio Edit"	Thunderpuss	Vocal House	https://open.spotify.com/track/02ecQMESTuSF6evkQdRKpg
+22	"Skin - Junior Vasquez Anthem Radio Edit"	Charlotte	Vocal House	https://open.spotify.com/track/0moyHXl5sPBlZ5kIxhIpb4
+23	"Backfired - Dave Lee Club Mix"	MAW, INDIA, Dave 'Love' Lee	Vocal House	https://open.spotify.com/track/2RsSPUTNQ147dUCQyC4toz
+24	"All This Time (feat. Sylver Logan Sharpe) - Radio Edit"	Jonathan Peters, Sylver Logan Sharpe	Vocal House	https://open.spotify.com/track/2u3wqxm49tXVNj8AFEnRtG
+25	"Fade (feat. Kimblee) - Grant Nelson Big Room Remix"	Solu Music, KimBlee	Vocal House	https://open.spotify.com/track/2MrqsdUMUzC3a02oQUbkpQ
+26	"Make A Move On Me"	Joey Negro, Dave 'Love' Lee	Vocal House	https://open.spotify.com/track/4twa5BOerk6oQtCth5o7kj
+27	"Dive In The Pool (feat. Pepper Mashay) - Radio Edit"	Barry Harris, Pepper Mashay	Vocal House	https://open.spotify.com/track/31QFhYYYy57rIrU51CGc1q
+28	"The Bomb! (These Sound Fall into My Mind) - Radio Edit"	The Bucketheads	Vocal House	https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9
+29	"Destination Calabria - Radio Edit"	Alex Gaudino, Crystal Waters	Vocal House	https://open.spotify.com/track/3reoq3Kp45545OlqZBk93X
+30	"The Real Thing - Radio Edit"	Tony Di Bart	Vocal House	https://open.spotify.com/track/2wXR8YvHDtAo664c3W81e3
+31	"Canoa"	DJ Gregory, Gregor Salto	Vocal House	https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx
+32	"Movin' Up - Mind Trap Radio Edit"	DJ Mike Cruz, Inaya Day, China Ro	Vocal House	https://open.spotify.com/track/1bOTh9yB7b5OtrCydocef7
+33	"Rapture (feat.Nadia Ali)"	iio, Nadia Ali	Vocal House	https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7
+34	"Musical Freedom"	Soul Avengerz, Adeva	Vocal House	https://open.spotify.com/track/2zbtCrvZn8OLvb50Uv9L00
+35	"Surrender Me (Tony Moran & Warren Rigg Mix)"	Debby Holiday	Vocal House	https://open.spotify.com/track/62b6E01HZx5aLVTPzBbwEA
+36	"You See the Trouble with Me - We'll Be In Trouble Radio Edit"	Black Legend	Vocal House	https://open.spotify.com/track/6ybxuYMCIKJMBfCIEWLTlc
+37	"I Don't Want U - DezroK Radio Mix"	Widelife	Vocal House	https://open.spotify.com/track/6zCFzIgM7tNmaqZoCR2ujP
+38	"Relight My Fire"	Chris Cox, Trey Lorenz, Inaya Day	Vocal House	https://open.spotify.com/track/4fZLduORxjPaWbsPVm5Pnd
+39	"Here Comes That Sound"	Cevin Fisher, Harry Romero	Vocal House	https://open.spotify.com/track/4pFf4UZZWx2dp4yjhAx8Jc
+40	"Flame 08 - Offer Nissim Remix"	Erin Hamilton	Vocal House	https://open.spotify.com/track/0wjAEce6WMlHsuoM4Lzdcv
+41	"When You Gonna"	Illyus Barrientos	UK House	https://open.spotify.com/track/6pspENPo8Mikpddtas96PH
+42	"I Wanna Feel - Radio Edit"	Secondcity	UK House	https://open.spotify.com/track/77jaOS5YDCDGPto5Pomi4h
+43	"Box Clever"	Huxley	UK House	https://open.spotify.com/track/5hF4eJL3Q77PdvWObsFJsV
+44	"And 1"	Melé	UK House	https://open.spotify.com/track/3jY03u0KugM4iPu0nKbJnn
+45	"The Music Began To Play"	Mark Knight, Armand Van Helden	UK House	https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj
+46	"Last Minute Dreamer"	Monki	UK House	https://open.spotify.com/track/4YtNORiwwLcrcoDHJN0tdc
+47	"You'll Never Change"	Elliot Adamson	UK House	https://open.spotify.com/track/6F8cTHZWjyIyrrijuOpu4A
+48	"Preach (feat. Ron Carroll)"	Hot Since 82, Ron Carroll	UK House	https://open.spotify.com/track/20BgyDeW88NmQIT6LZbbNr
+49	"Ze Dance"	Alex Virgo	UK House	https://open.spotify.com/track/5xAHYTHPGbGFaNchmAMzq3
+50	"Closer - Edit"	Jaden Thompson	UK House	https://open.spotify.com/track/6PslLP8aOsBre5vzdXKEQr

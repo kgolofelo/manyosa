@@ -1068,3 +1068,263 @@ Source: Every Noise genre maps — Sound of Microhouse, Sound of Tech House, Sou
 48	"More"	Lloyd BW, Kali Mija	Funky House	https://open.spotify.com/track/3tKj2EZJKAGMu3zBfhDBFO
 49	"By Your Side (feat. Sbani The Vocalist)"	Oscar Mbo, Sbani The Vocalist	Funky House	https://open.spotify.com/track/3roObxwK5ngwJiBIVGzvIT
 50	"Vuthela Lowo Mlilo - Da Gifto Remix"	Dj Menzelik, Desire, Russell Zuma, Da Gifto	Funky House	https://open.spotify.com/track/1oUfIToyOen92ZQ4JBMT73
+
+=== BATCH 25 - Auto-discovered (2026-06-18 13:30) ===
+1	"Play With Fire"	Mr Milk Dee	Funky House	https://open.spotify.com/track/5KTj0oDF6CXNrW1wNsGkJB
+2	"Tension (feat. Lazarusman)"	Kiki Botonaki, Elias Kazais, Lazarusman	SA House	https://open.spotify.com/track/1f9Z5dvZnr7ypG5Ei0soFq
+3	"It's You - Alex Wann Remix"	FCL, Alex Wann	SA House	https://open.spotify.com/track/4gLGlik36Iy5yWS78NszV1
+4	"Cachaplà"	Bohemoon, MOSA KLUB	SA House	https://open.spotify.com/track/1tHf0hAs5Xkxzsa5b8RoLF
+5	"Mungana - Radio Edit"	LevyM, Piero Farho, Una Rams	SA House	https://open.spotify.com/track/1eNURXHOm20FMwHMB6AJGh
+6	"Let Me See You"	Kadosh, Severin Su	SA House	https://open.spotify.com/track/7xLYUeJqr9DbpskHCaL2ep
+7	"Moon Walking"	Umgido	SA House	https://open.spotify.com/track/0PWUKih2OJrDgsX0cUOaix
+8	"Needing You"	Haute Take, Ganimal	SA House	https://open.spotify.com/track/1AxQu4XrQcWeRbWIsAUBpH
+9	"Diarabi"	Matt Mus, Cedric Marian	SA House	https://open.spotify.com/track/2xnSS19yefvBIh49lUb3d8
+10	"The Last Queen"	Gallo.	SA House	https://open.spotify.com/track/5xwzrZEQEhOSpTpozfLiLG
+11	"Madi"	Aero Manyelo, Blaq Samurai	SA House	https://open.spotify.com/track/1NewzjB93jvqy1YEXlZBg6
+12	"At Least We Are Under The Same Moon"	Raul Vidal, David Mackay	SA House	https://open.spotify.com/track/5f7PgbLxKiBwykHUEgT6oN
+13	"Keep Trying"	Vomee	SA House	https://open.spotify.com/track/7af7GEaniRHz581xwbUKFO
+14	"Suave"	AVG	SA House	https://open.spotify.com/track/4kdIocxN7MCts8ATGiFQxz
+15	"Souareba"	Karno B	SA House	https://open.spotify.com/track/3dYFiv8JkigVK2N404aHhg
+16	"Changu"	Eli Fola, Cornelius SA, Idd Aziz	SA House	https://open.spotify.com/track/3fKS7o5drKlM7vPsm9lz3m
+17	"Mulher Gato"	Mulya	SA House	https://open.spotify.com/track/2khV3nfwNlW0Trv9gopFrV
+18	"Sensa"	Lilya Mandre, Zac Martel, Tommy Kimpton, Ayla	SA House	https://open.spotify.com/track/17MT6vv1WVqLFOkqJkd6Pf
+19	"Hip Hop Violin"	Konvex (FR), Selim Sivade, Baron (FR), Meloko, AZZUR	SA House	https://open.spotify.com/track/0uXijB1yXJpDdkajbu1Dki
+20	"Quítame El Sentío (Remix)"	MIXELLE, Ikerfoxx, Amoss	SA House	https://open.spotify.com/track/288KhqkZ2SWlQ2RNCmaQ31
+21	"I Think"	IIBRA, Abdé, LEMON DROPS	SA House	https://open.spotify.com/track/1kUbcWoD1VJ456dIsOC8rc
+22	"Chase The Sun - Mixed"	Aidin Caye	SA House	https://open.spotify.com/track/2Yl8CpSRZQnUBu1st9Bx5U
+23	"Feel the Rhythm - Radio Edit"	Maexx	SA House	https://open.spotify.com/track/4jvenjxIEgg04vjFFWCply
+24	"BAYNA"	GUESMY	SA House	https://open.spotify.com/track/6cLhzjuVWbSUASPAV3cdFZ
+25	"Gospel"	Diass	SA House	https://open.spotify.com/track/1jRiVHw8EJGCad5xJZ0waM
+26	"Wine - Remix"	Dawda, Aladdin	SA House	https://open.spotify.com/track/79tIPbDd29As6TAo0NLW0h
+27	"Ode to Agape"	Sisco Umlambo, Tekniq	SA House	https://open.spotify.com/track/5Wf9Cnj8GyQcplUwQYW7PH
+28	"Fortuna"	Trikk	SA House	https://open.spotify.com/track/3opxRoiuQuyDrkdnfTAPlH
+29	"No Time For Criticizing - Together"	Klement Bonelli	SA House	https://open.spotify.com/track/1mZOj5sT51FBK8HkjeEHWm
+30	"Yazoo - Radio Edit"	Wilgenis Vergara	SA House	https://open.spotify.com/track/3TL2ZHiCt35MAtE8Uln4dX
+31	"Winds Of The Dunes"	Loudr	SA House	https://open.spotify.com/track/2BEGYIiMUancgbg1dBQ8Zl
+32	"Ay Papi"	Dean Walker, Maahez	SA House	https://open.spotify.com/track/2sndfz0bA6DfnR8DqbRaTU
+33	"Flauta"	:DARREN	SA House	https://open.spotify.com/track/2LHyEfoTm0PnFP3x07LghW
+34	"ALEHO"	4Rain, Massianello, Anlly Marín	SA House	https://open.spotify.com/track/2OxC36XQzJWWjXH5iMzgZB
+35	"Hopa - Radio Edit"	Savage & SHē, Eran Hersh	SA House	https://open.spotify.com/track/6RIzvlykyJX40KoyfFvpTj
+36	"S'écouler"	Jeh, Kali Mija	SA House	https://open.spotify.com/track/63coMo9A223iVjPS2ODVo4
+37	"Send Me - Doug Gomez Remix"	Danyel Irsina, Lizwi, Doug Gomez	SA House	https://open.spotify.com/track/0ohYSVz0ASuPOJETQZdEmO
+38	"Do For Love"	VICTHOR	SA House	https://open.spotify.com/track/6eR1pbtDXwU2qhNyBvER2J
+39	"Tracey in My Room - Lovless Youth Remix"	Mark Maxwell, DÉ SAINT., Lovless Youth	SA House	https://open.spotify.com/track/1Abm9qPDlf0X0gmJyT2LXt
+40	"Sodade"	Pedro Cazanova, Zizi Vasconcelos	SA House	https://open.spotify.com/track/6DIUQQE1v7gBXpnQEacoSo
+41	"Bloom"	Ocean Flor, Aera, Jesse Trinidad	SA House	https://open.spotify.com/track/3VXMxOsCZj1rkmrvfaAgdY
+42	"Dança Do Sol"	Antho Decks, Oliver Gil	SA House	https://open.spotify.com/track/5QQxlLQYdAqXiDoAshOhaF
+43	"Muhiki"	Rhude	SA House	https://open.spotify.com/track/7804Ez14zbgWV3sQp4LDvl
+44	"Calm Down"	Yaans, Wisdom	SA House	https://open.spotify.com/track/01YX5H0hPUN1XTPNQohsPf
+45	"More Than Ever"	Flex Orlando	SA House	https://open.spotify.com/track/6Jc2ura4RP6gPD9rhiNZ74
+46	"Reverie"	Da Mike, Demayä	SA House	https://open.spotify.com/track/5MMEg1ZI1oK6nZHQMeT938
+47	"Te Vas"	Ted Bear	SA House	https://open.spotify.com/track/2VVWzfgexndyCMunSOJ6pw
+48	"Healing"	Becheranō	SA House	https://open.spotify.com/track/1EE1UFiIa0SKXaWmTEygKI
+49	"Laafou"	AMVN, SAFAR, Abdellah Stitou	SA House	https://open.spotify.com/track/1eV5jfwEewKpHvO1Ibwynw
+50	"Waya"	SHADU	SA House	https://open.spotify.com/track/49CCBQtG6prb4rwnNom2Vl
+
+=== BATCH 26 - Auto-discovered (2026-07-06 19:15) ===
+1	"Many Times"	Samer Soltan	SA House	https://open.spotify.com/track/4IGnwie9q6JCHiHog8VEgD
+2	"Not Control"	Lazare	SA House	https://open.spotify.com/track/3RaF9EkoeLFnVlitqNAcE2
+3	"La Casa"	Souave	SA House	https://open.spotify.com/track/6b0UBPyEOSEmSH24Hw4ovw
+4	"Las Coloradas"	Robbie Akbal, Kora (CA), Alice Rose	SA House	https://open.spotify.com/track/2noKoOwc9P8IdXhBOzURxu
+5	"Set You Free"	Anthony P. (CH), Ren Ocean	SA House	https://open.spotify.com/track/2wI8tP3EeIyUERIoDOnKHq
+6	"Maluxutshwe"	Echo Deep, Takue SBT, Lebzin, Sontshikazi	SA House	https://open.spotify.com/track/1ebBbGry3J9vOMqM33BsOf
+7	"Monalisa (Waka Waka)"	Kusher	SA House	https://open.spotify.com/track/7yTkQbL84oRYXiAYwuO0Jj
+8	"Sweet Disposition"	Juanma Sanchez, Sounds Of Sirin	SA House	https://open.spotify.com/track/2vp8zVFKJr2VgU9MJdE5d1
+9	"I Need You"	FiNE, Nomvula SA	SA House	https://open.spotify.com/track/38pYs49ZDhY59Sjo9E9DWO
+10	"RELAX"	Late Night Therapy	SA House	https://open.spotify.com/track/027bqg2K10cdCbvnjkHehA
+11	"Children Of Lir - Gorge Remix"	Green George, Gorge	SA House	https://open.spotify.com/track/24LltLxokSZrdYfdvjlHhj
+12	"Pretty Ladies"	MOVEE ON	SA House	https://open.spotify.com/track/6rmDGw5cypPGNYiiYZnM8A
+13	"Afterlove"	Alexey Romeo	SA House	https://open.spotify.com/track/1KgXsz5wiJtFeMTCTP5EUY
+14	"Gamma Project"	Cristian Viviano	SA House	https://open.spotify.com/track/0ZZRfn9Y7hy2eicKtSY3N0
+15	"Fallin"	LENny (IT), Afriindi, Blanka Mazimela	SA House	https://open.spotify.com/track/0pBqOZJ0E4HAjmjJf0mdSW
+16	"Keladi - Edit"	Vanco, Ahmed Sosso	SA House	https://open.spotify.com/track/7oIXKoPfUwsOVFcUcHWg22
+17	"Rotator"	Meedy	SA House	https://open.spotify.com/track/2jQYLNnudNZ9GCLQyK9ned
+18	"Easy To Please - Yet More Remix"	Latteo, Yet More, D'aria	SA House	https://open.spotify.com/track/4hgu3BqIkGT7SeVKiCGHJg
+19	"Mama Kosa"	atsou, Da Capo, Emmanuel Jal	SA House	https://open.spotify.com/track/605GMwOy2pPwTmR9usD1Pr
+20	"No Love - Radio Edit"	NAB (TN)	SA House	https://open.spotify.com/track/2gB1ALQcCKNCRkKdQDvnkz
+21	"Faded"	MANQO	SA House	https://open.spotify.com/track/3AJVbrUus2F5HZWHtd3pgO
+22	"Baba Wethu"	Mzux Maen, LeboTheGreat	SA House	https://open.spotify.com/track/6upE84icTfZIe2x5Ywtgdk
+23	"Wanna Go Back"	ADREO	SA House	https://open.spotify.com/track/0e8BRYoHfGNTBOBShiYhzL
+24	"CBO"	Dennis Louvra, Mosoo	SA House	https://open.spotify.com/track/32qqEgUmzwARS19pE6GXWZ
+25	"Mwana Vamambo"	NATYS	SA House	https://open.spotify.com/track/6uvB5MnG2p80yiwS38Jhkq
+26	"Carry Me Home"	Cem Gemalmaz, Omeria	SA House	https://open.spotify.com/track/3TkGh5H0NnuRvxgSNM3yfH
+27	"iGama Lakho"	Gumz, Atmos Blaq, Bukeka	SA House	https://open.spotify.com/track/41LbjiYizL2gdwnRBMSSSm
+28	"Nitelife - Armand Van Helden Retail Mix"	Kim English	Vocal House	https://open.spotify.com/track/2F5W5f8COoQKpoGqPcZ1EN
+29	"Home - Offer Nissim Part 1 Remix"	Suzanne Palmer	Vocal House	https://open.spotify.com/track/567ybr9TyCpGe7cAJK08Vf
+30	"Love On My Mind (feat. Amanda Wilson)"	Freemasons, Amanda Wilson	Vocal House	https://open.spotify.com/track/0k44TEACp8VYXsXCy8VHk6
+31	"This Joy - Rosabel 2016 Reworked Joy Radio"	Vernessa Mitchell, Rosabel, Ralphi Rosario, Abel Aguilera	Vocal House	https://open.spotify.com/track/2HTz4PBLFUnKHjQdVDlIsi
+32	"Naya"	Yinon Yahel, Mor Avrahami, Tzlil Danin	Vocal House	https://open.spotify.com/track/34nLn5uVw3a3b8pcyHDNx4
+33	"Back Together (feat. Ron Carroll) - Classic Mix"	Hardsoul, Ron Carroll	Vocal House	https://open.spotify.com/track/1PH8at6E0jy3rFPH66aH9m
+34	"Dirty Filthy - David Tort & Markem HoTL Remix"	Superchumbo, Celeda, David Tort, Markem	Vocal House	https://open.spotify.com/track/5ILmtojEmVi1lnFz0vEbC5
+35	"Turn Around (Hey What's Wrong With You)"	Phats & Small	Vocal House	https://open.spotify.com/track/60qbU5QgEnzBqUfXSUh0mc
+36	"No One's Gonna Change You"	Reina	Vocal House	https://open.spotify.com/track/6VZciflHXKBKMxPXnGEmag
+37	"Last Night A DJ Saved My Life - Haji & Emanuel Radio Mix"	Seamus Haji, KayJay, Haji & Emanuel	Vocal House	https://open.spotify.com/track/70tdEHOJJGaQD4iY8Gg0b1
+38	"So Many Times"	Gadjo, Alexandra Prince	Vocal House	https://open.spotify.com/track/6Sf1pkm2m5Pe2mh6USmg72
+39	"First Time"	Offer Nissim, Maya Simantov	Vocal House	https://open.spotify.com/track/3so8N76XV2CTDx8cz9Z6tj
+40	"Appreciate Me - Trip to Paradise Dub"	Amuka	Vocal House	https://open.spotify.com/track/5RyGq8qEezwlf24DHpb0jg
+41	"Pasilda - Knee Deep Mix"	Afro Medusa, Knee Deep	Vocal House	https://open.spotify.com/track/2BUL7sF7y5oBYUQarVCukR
+42	"This Joy (Razor-N-Guido Radio Mix)"	Junior Vasquez, Razor-N-Guido, Vernessa Mitchell	Vocal House	https://open.spotify.com/track/1tepzdbh9dDdNqdnjUIh8r
+43	"Horny '98 - Horny '98 Radio Edit"	Hot 'N' Juicy, Mousse T.	Vocal House	https://open.spotify.com/track/2udgnnMag7Iw4RMNnPoyy0
+44	"Boogie 2Nite - Seamus Haji Big Love Edit"	Booty Luv	Vocal House	https://open.spotify.com/track/3bk3zYhtBchef1oBsSMrtv
+45	"Don't Call Me Baby"	Madison Avenue	Vocal House	https://open.spotify.com/track/5GguB1QMdud2FWbs5VHAzB
+46	"Believe in Me"	Peter Rauhofer	Vocal House	https://open.spotify.com/track/1QO35KHWssmByjFRsj4IoX
+47	"The Weekend - Radio Edit"	Michael Gray	Vocal House	https://open.spotify.com/track/6KzkqZqhUBEsWYJJa2aBOd
+48	"Do It Again (Left Mix)"	Razor-N-Guido	Vocal House	https://open.spotify.com/track/7t3tJKX58TKt3vNc1IDou4
+49	"U Got Me"	ATFC	Vocal House	https://open.spotify.com/track/4gg4uUTRXXRUMFs8qO3C2g
+50	"Kama Yeah - Samm, MAXI MERAKI, Marlin Remix"	Copyright, Shovell, Samm, MAXI MERAKI, Marlin (BE)	Vocal House	https://open.spotify.com/track/7Ek2JuXwnHkJe56iXkTcOG
+
+=== BATCH 27 - Auto-discovered (2026-07-06 19:41) ===
+1	"Unique - N.Y,. Underground Mix"	Club 69	Vocal House	https://open.spotify.com/track/192rqXKDZlAvJtRAOrr6tQ
+2	"Sacrifice"	Kaskade, deadmau5, SOFI TUKKER, Kx5	Vocal House	https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3
+3	"Intoxicated - Radio Edit"	Martin Solveig, Good Times Ahead	Vocal House	https://open.spotify.com/track/2RhKxrhti1jd1Krzh968Cb
+4	"Live You All Over - Offer Nissim Remix"	Deborah Cooper	Vocal House	https://open.spotify.com/track/1azeXoseI222dVwxpmmzG9
+5	"Dreams - Vinyl Disciples Remix"	Vinyl Disciples	Vocal House	https://open.spotify.com/track/6OcOY7f2CSJfiu9nhcko50
+6	"Nobody's Supposed to Be Here"	Deborah Cox	Vocal House	https://open.spotify.com/track/4PBbgYOjKW0Urs0eppefpf
+7	"Groovejet (If This Ain't Love) [feat. Sophie Ellis-Bextor]"	Spiller, Sophie Ellis-Bextor	Vocal House	https://open.spotify.com/track/5ydeCNaWDmFbu4zl0roPAH
+8	"My Imagination - Hi-Intensity Club Mix"	Ceevox, Peter Rauhofer, DJ JRNY	Vocal House	https://open.spotify.com/track/7DMmhlGibJGwLr3pAazShp
+9	"Movin' in Circles"	Kimara Lovelace, RIDGE RACER Series, Bandai Namco Game Music	Vocal House	https://open.spotify.com/track/0BICRaBbvSuG03XYD7jBmC
+10	"Let Me Go... Release Me - Johnny Vicious Club Mix"	Veronica	Vocal House	https://open.spotify.com/track/2qwhabKKqmMCduoM4g968D
+11	"Big Love - David Penn Remix"	Pete Heller's Big Love, David Penn	Vocal House	https://open.spotify.com/track/0eQ1j5MBA9Ja7zvtB9uggC
+12	"It Just Won't Do - Radio Edit"	Tim Deluxe, Sam Obernik	Vocal House	https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9
+13	"Live Your Life - Radio Edit"	Erick Morillo, Eddie Thoneick, Shawnee Taylor	Vocal House	https://open.spotify.com/track/0jJTdDhwgSCe2qtQxmToy6
+14	"Lazy (feat. David Byrne)"	X-Press 2, David Byrne	Vocal House	https://open.spotify.com/track/1aHHLS0UHnRHGVlEvZrWB9
+15	"Fired Up!"	Funky Green Dogs	Vocal House	https://open.spotify.com/track/5mX7pu7sQyEvFkLUahdNVy
+16	"Shined On Me"	Praise Cats, Andrea Love	Vocal House	https://open.spotify.com/track/772MaccGF4ceLCeoJGbC5W
+17	"Reach for Me - TV Rock & Dirty South Remix"	Murk, Funky Green Dogs	Vocal House	https://open.spotify.com/track/3Jsh8YHSWKl2t6LrLQDinM
+18	"Your Body (feat. Michael Marshall) - Cat Dealers Radio Edit"	Tom Novy, Michael Marshall, Cat Dealers	Vocal House	https://open.spotify.com/track/4iRkPkZCkB1l9h7BBEg7Kc
+19	"Ain't Got No"	David Penn	Vocal House	https://open.spotify.com/track/2daBnzQcZuXeTPe1TL3VoH
+20	"Ecstasy (Take Your Shirts Off) (UFO Mix)"	Johnny Vicious, Lula	Vocal House	https://open.spotify.com/track/2Jfbo3vC6id7JwRr8lrNZO
+21	"Papa's Got a Brand New Pigbag - Radio Edit"	Thunderpuss	Vocal House	https://open.spotify.com/track/02ecQMESTuSF6evkQdRKpg
+22	"Skin - Junior Vasquez Anthem Radio Edit"	Charlotte	Vocal House	https://open.spotify.com/track/0moyHXl5sPBlZ5kIxhIpb4
+23	"Backfired - Dave Lee Club Mix"	MAW, INDIA, Dave 'Love' Lee	Vocal House	https://open.spotify.com/track/2RsSPUTNQ147dUCQyC4toz
+24	"All This Time (feat. Sylver Logan Sharpe) - Radio Edit"	Jonathan Peters, Sylver Logan Sharpe	Vocal House	https://open.spotify.com/track/2u3wqxm49tXVNj8AFEnRtG
+25	"Fade (feat. Kimblee) - Grant Nelson Big Room Remix"	Solu Music, KimBlee	Vocal House	https://open.spotify.com/track/2MrqsdUMUzC3a02oQUbkpQ
+26	"Make A Move On Me"	Joey Negro, Dave 'Love' Lee	Vocal House	https://open.spotify.com/track/4twa5BOerk6oQtCth5o7kj
+27	"Dive In The Pool (feat. Pepper Mashay) - Radio Edit"	Barry Harris, Pepper Mashay	Vocal House	https://open.spotify.com/track/31QFhYYYy57rIrU51CGc1q
+28	"The Bomb! (These Sound Fall into My Mind) - Radio Edit"	The Bucketheads	Vocal House	https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9
+29	"Destination Calabria - Radio Edit"	Alex Gaudino, Crystal Waters	Vocal House	https://open.spotify.com/track/3reoq3Kp45545OlqZBk93X
+30	"The Real Thing - Radio Edit"	Tony Di Bart	Vocal House	https://open.spotify.com/track/2wXR8YvHDtAo664c3W81e3
+31	"Canoa"	DJ Gregory, Gregor Salto	Vocal House	https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx
+32	"Movin' Up - Mind Trap Radio Edit"	DJ Mike Cruz, Inaya Day, China Ro	Vocal House	https://open.spotify.com/track/1bOTh9yB7b5OtrCydocef7
+33	"Rapture (feat.Nadia Ali)"	iio, Nadia Ali	Vocal House	https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7
+34	"Musical Freedom"	Soul Avengerz, Adeva	Vocal House	https://open.spotify.com/track/2zbtCrvZn8OLvb50Uv9L00
+35	"Surrender Me (Tony Moran & Warren Rigg Mix)"	Debby Holiday	Vocal House	https://open.spotify.com/track/62b6E01HZx5aLVTPzBbwEA
+36	"You See the Trouble with Me - We'll Be In Trouble Radio Edit"	Black Legend	Vocal House	https://open.spotify.com/track/6ybxuYMCIKJMBfCIEWLTlc
+37	"I Don't Want U - DezroK Radio Mix"	Widelife	Vocal House	https://open.spotify.com/track/6zCFzIgM7tNmaqZoCR2ujP
+38	"Relight My Fire"	Chris Cox, Trey Lorenz, Inaya Day	Vocal House	https://open.spotify.com/track/4fZLduORxjPaWbsPVm5Pnd
+39	"Here Comes That Sound"	Cevin Fisher, Harry Romero	Vocal House	https://open.spotify.com/track/4pFf4UZZWx2dp4yjhAx8Jc
+40	"Flame 08 - Offer Nissim Remix"	Erin Hamilton	Vocal House	https://open.spotify.com/track/0wjAEce6WMlHsuoM4Lzdcv
+41	"When You Gonna"	Illyus Barrientos	UK House	https://open.spotify.com/track/6pspENPo8Mikpddtas96PH
+42	"I Wanna Feel - Radio Edit"	Secondcity	UK House	https://open.spotify.com/track/77jaOS5YDCDGPto5Pomi4h
+43	"Box Clever"	Huxley	UK House	https://open.spotify.com/track/5hF4eJL3Q77PdvWObsFJsV
+44	"And 1"	Melé	UK House	https://open.spotify.com/track/3jY03u0KugM4iPu0nKbJnn
+45	"The Music Began To Play"	Mark Knight, Armand Van Helden	UK House	https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj
+46	"Last Minute Dreamer"	Monki	UK House	https://open.spotify.com/track/4YtNORiwwLcrcoDHJN0tdc
+47	"You'll Never Change"	Elliot Adamson	UK House	https://open.spotify.com/track/6F8cTHZWjyIyrrijuOpu4A
+48	"Preach (feat. Ron Carroll)"	Hot Since 82, Ron Carroll	UK House	https://open.spotify.com/track/20BgyDeW88NmQIT6LZbbNr
+49	"Ze Dance"	Alex Virgo	UK House	https://open.spotify.com/track/5xAHYTHPGbGFaNchmAMzq3
+50	"Closer - Edit"	Jaden Thompson	UK House	https://open.spotify.com/track/6PslLP8aOsBre5vzdXKEQr
+
+=== BATCH 28 - Auto-discovered (2026-07-06 22:09) ===
+1	"If You Want My Loving"	Prospa	UK House	https://open.spotify.com/track/4EdOpcLtbY6J7AK4rLhqSG
+2	"Saved By The Record (feat. Josh Barry)"	Sam Divine, Josh Barry	UK House	https://open.spotify.com/track/0KQhwMvQHO17faalnd3Mjv
+3	"So Hooked On Your Lovin - Mousse T.'s Disco Shizzle"	Selace, Mousse T.	UK House	https://open.spotify.com/track/1CmqwIhFc0FySL8HiPo0jU
+4	"Work It (feat. DJ Deeon)"	Dance System, DJ Deeon	UK House	https://open.spotify.com/track/5TrE7Acr1wFjZFZSpxSrFw
+5	"Alfa"	Crackazat	UK House	https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V
+6	"Seventies"	Theo Kottis	UK House	https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP
+7	"Let My Brain Go - Len Faki Remix [Edit]"	DJ Haus, Len Faki	UK House	https://open.spotify.com/track/2L8bF6rKaYWKgsVr4Rp3J7
+8	"Sometimes The Going Gets A Little Tough - Ferreck Dawn & Robosonic Remix"	Finn., Ferreck Dawn, Robosonic	UK House	https://open.spotify.com/track/65g8E63towucMc1ko0Z0QJ
+9	"Tony"	Austin Ato	UK House	https://open.spotify.com/track/5KalCBaGQtsOOl12K6spIe
+10	"Testify (feat. Crystal Waters) - Radio Edit"	Hifi Sean, Crystal Waters	UK House	https://open.spotify.com/track/2tPuz4Vur3S5TYayVNDG27
+11	"Hit It Off (feat. Teni Tinks) - Late Nite Tuff Guy Remix"	Qwestlife, Teni Tinks, Late Nite Tuff Guy	UK House	https://open.spotify.com/track/0lQQMDtln5srkv36LAOTNt
+12	"Always"	Waze & Odyssey, George Michael, Mary J. Blige, Tommy Theo	UK House	https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4
+13	"Alive"	Franky Wah, Vintage Culture	UK House	https://open.spotify.com/track/43yv23e1pejzlyvs5Fsa5w
+14	"Closer (feat. Chenai)"	Ben Hemsley, Chenai	UK House	https://open.spotify.com/track/3LmVmt1ovT79qH36xY34VF
+15	"Got 2 Be Loved"	Soul Reductions	UK House	https://open.spotify.com/track/2Rsn3b2wzflcjX0pXcZFdj
+16	"Looking at Your Pager"	KH	UK House	https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs
+17	"Sweet Devotion - Edit"	TSHA, Caroline Byrne	UK House	https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd
+18	"When Will the Day Come"	Bobby Analog	UK House	https://open.spotify.com/track/0RRpLZfFyxJAka1mynK6jx
+19	"Long Gone"	Al Zanders	UK House	https://open.spotify.com/track/62gvCFP2ENmOSFG35MVF1M
+20	"Work it Out - Vocal Mix Edit"	Scott Diaz, Letta	UK House	https://open.spotify.com/track/4fbdPY76l9jpmcCSceZm2h
+21	"Searching - Radio Edit"	Enzo Siragusa, Laville	UK House	https://open.spotify.com/track/34WxFNXuyooJuNSfx6X1Ol
+22	"The Attention Deficit Track - Edit"	Jackmaster, Skream	UK House	https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW
+23	"Organ Belta"	Jamie Roy	UK House	https://open.spotify.com/track/5Mu6QNEQrRjvnKyBSyElcW
+24	"Turn the Music Louder (Rumble) (feat. Tinie Tempah) - Radio Edit"	KDA, Katy B, Tinie Tempah	UK House	https://open.spotify.com/track/0YC3WfFZkZBpUeaHt4Eggk
+25	"Light You Up (feat. Queen Rose & Amy Douglas)"	Luke Solomon, Amy Douglas, Queen Rose	UK House	https://open.spotify.com/track/7zNcEQxhWvNPelMH9MtmuH
+26	"House Every Weekend - Radio Edit"	David Zowie	UK House	https://open.spotify.com/track/2rWisQk9hxSap9ZtTx45sv
+27	"Better Me (feat. Lily Mckenzie)"	Saffron Stone, Lily McKenzie	UK House	https://open.spotify.com/track/3aeqEyOCo9AaKboo37Wr8B
+28	"Never Ever Ever (feat. shiv)"	Girls of the Internet, shiv	UK House	https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk
+29	"Ginseng Strip 303"	MARK BLAIR	UK House	https://open.spotify.com/track/4yiJyiyh3sfncjJuHVzQ3q
+30	"We Are One (feat. Bobby Pruitt) - Jazz-N-Groove Hands Up Vocal"	Urban Blues Project, Bobby Pruitt, Jazz N Groove	UK House	https://open.spotify.com/track/3Ha7kQeu0eOIQQR5MBNqJR
+31	"My Way"	Will Saul, Joe Dukie	UK House	https://open.spotify.com/track/5dyZsgdawjklAUfIsN3EsQ
+32	"Big Love - Eat Me Edit"	Pete Heller	UK House	https://open.spotify.com/track/2w6YlpVeyHazO6YcvpGxIS
+33	"Do This Forever"	Lxury	UK House	https://open.spotify.com/track/7rGxWoUyNno5ztljshnN7o
+34	"Wonky Bassline Disco Banger"	Red Rack'Em	UK House	https://open.spotify.com/track/2SMQQX11RBFBnTkkZqrDfd
+35	"The Girl Is Mine"	99 Souls	UK House	https://open.spotify.com/track/2cNCaMkur4qF0lNwJWBf6b
+36	"The Assassinator"	thatmanmonkz	UK House	https://open.spotify.com/track/6BUZekOigFtyAQJDozQqVA
+37	"Transience"	Wayward	UK House	https://open.spotify.com/track/0rWfxCowxTVuh4gLNGDcme
+38	"96 - TR734"	Doorly, Davos	UK House	https://open.spotify.com/track/7KF2cvytp3j5hiMfdQS9vU
+39	"You Got Me Baby"	Lushington	UK House	https://open.spotify.com/track/2jhkydrD0iViifr6nWdoLh
+40	"Into The Sun"	Damian Lazarus, Jem Cooke	UK House	https://open.spotify.com/track/5xUomxrzkIr0MAP9YQur24
+41	"Don't Go - Gerd Janson Re-Work - Shorter Edit"	Julie McDermott, Gerd Janson	UK House	https://open.spotify.com/track/5E1si4zAa76zwPhwEHXFBU
+42	"Talk About"	Rain Radio, DJ Craig Gorman	UK House	https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr
+43	"Can We Pretend"	Trus'me, Amp Fiddler, Kenny 'Mac' Martin	UK House	https://open.spotify.com/track/4hWMnLonUAPbF0ZS5r05I1
+44	"Wanna"	Catchment	UK House	https://open.spotify.com/track/06Hag5syHBOeKlovHlOn0v
+45	"Ecstasy - Mixed"	Fabich, Jafunk, Pastel, Bambie	UK House	https://open.spotify.com/track/2PspwQLfDzLUOyaxQ7de5L
+46	"Principles"	Fear-E	UK House	https://open.spotify.com/track/0mS9LjKMxfcZcLdijdfQsg
+47	"Morning Light"	Soul Speech	UK House	https://open.spotify.com/track/1033WbMNcxZOxi6mxkZFcn
+48	"Teach Me"	Ros T	UK House	https://open.spotify.com/track/5fL0x7hKx4TkAqigolhPUp
+49	"Nothing but Love for You - Director's Cut Breathtaking Adventure"	The UK Shapeshifters, C-Dock	UK House	https://open.spotify.com/track/1Hci3I2VuBBaKEEfUGDuOp
+50	"Players"	Danny Howells	UK House	https://open.spotify.com/track/095AmcV7YYn0siqZ048vsC
+
+=== BATCH 29 - Auto-discovered (2026-07-06 22:12) ===
+1	"Play The Game"	Kenny Hawkes, Louise Carver	UK House	https://open.spotify.com/track/4OW4bwKyJGxK7C3YPu5YYI
+2	"The Healing - Tinlicker Edit [Mixed]"	James Zabiela, Tinlicker	UK House	https://open.spotify.com/track/6Y7BxtxD5HNjuk44nUgg1j
+3	"Feathers"	Andrew Weatherall	UK House	https://open.spotify.com/track/7fnIaCGIopLg4YA9uwb4FN
+4	"Sunshine - Tiger & Woods Remix"	Unit 2, Tiger & Woods	UK House	https://open.spotify.com/track/0bS7rbX7pw0OcFSGk7BCEO
+5	"This Is Real"	Charles Webster, Shara Nelson	UK House	https://open.spotify.com/track/6oKmVa06ZXIpOSid2kLNet
+6	"Feel The Music"	Eddie Richards	UK House	https://open.spotify.com/track/1ZgJns2dkQS22MmpOwqxPI
+7	"Hanging Up (On You)"	Smokin' Jack Hill, LXI	UK House	https://open.spotify.com/track/3i6ZeU0q0gwHJ3bd8aHrQO
+8	"Seeking Thrills"	Josh Hunter	UK House	https://open.spotify.com/track/65kEXhBeVBmT803alYVYJ0
+9	"Run Home (Radio Edit)"	ACAY	UK House	https://open.spotify.com/track/4SQ2aqllD14wGlwUaxdP3q
+10	"Mink & Shoes"	Psychemagik, Navid Izadi	UK House	https://open.spotify.com/track/7pmkVhLiiDiITNfnMD5N1C
+11	"Roach Fingers"	Jesse Bru	Jazz House	https://open.spotify.com/track/0TsXdSKxK3Snezeuw88RnO
+12	"Call Me Ishmael"	Madcat	Jazz House	https://open.spotify.com/track/2g5bJ0yu0d5GmH7VDHgdT6
+13	"Cool Bananas"	Tell	Jazz House	https://open.spotify.com/track/7FheJOrB8J0eyK0ebcBAlI
+14	"Kindness"	Retromigration, Nephews	Jazz House	https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN
+15	"Keep It Real"	Loure	Jazz House	https://open.spotify.com/track/4YpCTAZRpNmW1EHLVrq4ur
+16	"Teuf De Ouf"	Scruscru, Jehan	Jazz House	https://open.spotify.com/track/2hBVhIi4OIeRyZ0HK6oGcI
+17	"Should've Been the Place"	Ethyène	Jazz House	https://open.spotify.com/track/7Mr0uWfeC98YgTvjvPXOzg
+18	"Naima Blue"	Soul Wun	Jazz House	https://open.spotify.com/track/6W0fhqfHsrodXIuMGoGHia
+19	"Air Dodge"	Kx9000	Jazz House	https://open.spotify.com/track/1zIDWO9DEXwWfvXAXm64wb
+20	"Jsors le Coxis du Fémur"	Pierre Moritz	Jazz House	https://open.spotify.com/track/0Du9m6QON2C76LOau8bHw0
+21	"Matano Trumpet Jam"	Jad & The	Jazz House	https://open.spotify.com/track/0FXRcUaFhMIUGJ3oVkDB3e
+22	"Starting Tomorrow"	Carlosthings	Jazz House	https://open.spotify.com/track/4JzStXtzcpdpuTTcsE8Hrl
+23	"Saw You for the First Time"	Laurence Guy	Jazz House	https://open.spotify.com/track/44t34AtBWG4TKMF5Xc97kV
+24	"I'm Wishin'"	Junktion	Jazz House	https://open.spotify.com/track/38YGBgD6bztGWNMHWrxuGT
+25	"Cannot Let You Go"	Weast	Jazz House	https://open.spotify.com/track/1uYtTOfC6DuNf7GdxkHGkf
+26	"The Body Move"	Kapote	Jazz House	https://open.spotify.com/track/7Ejtrc5RR6DPVAQHpbhL7W
+27	"As Far As I Know"	Matthieu Faubourg	Jazz House	https://open.spotify.com/track/28OYoblTWtYTJNuXIJuyxq
+28	"Be Mine"	Luvless	Jazz House	https://open.spotify.com/track/2PfQjeHZ8muFh44hxKgoNS
+29	"008A1"	Apparel Wax	Jazz House	https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0
+30	"Silver"	Gavinco	Jazz House	https://open.spotify.com/track/7g8NvPQSXYY8DLujyvBMMc
+31	"Da Svidaniya"	Jeff The Fool	Jazz House	https://open.spotify.com/track/2sVhVmoaj5gsHQ3ZlageLv
+32	"Time For You & Me"	Mangabey	Jazz House	https://open.spotify.com/track/03F2gNXqpUtcnIoK6uKAeM
+33	"Beach Jazz"	Tom Jarmey, MarBlu	Jazz House	https://open.spotify.com/track/3PbtKwVUqIZPvbQZarAC0w
+34	"French Love Affair"	Paul Cut	Jazz House	https://open.spotify.com/track/7GqlBsIZgcIGPK938ckuRr
+35	"Our Smoother Part"	Le Hutin	Jazz House	https://open.spotify.com/track/4S8ixccYDPJJD4vPthHg5f
+36	"Mornings"	Georges	Jazz House	https://open.spotify.com/track/5T26aI4TQM8M1D7LFJEXLj
+37	"Dragosh Likes Congas"	Interstate	Jazz House	https://open.spotify.com/track/3eZE6Nu2AnPabiXMPx9RIA
+38	"Disco Rue - Larry Houl's Funky Street Mix"	Naux, Larry Houl	Jazz House	https://open.spotify.com/track/4o4naMhPIUmZuONXS3P76a
+39	"Air Dancer"	Jehan	Jazz House	https://open.spotify.com/track/6dzirxBnxDIgEJOvHm5yB2
+40	"Discotronic - Mixed"	Around7	Jazz House	https://open.spotify.com/track/6gvH8RnkiVmtRSh8DNqvbm
+41	"Nostalgic Feelings - Tensnake Remix"	Paul Rudder, Tensnake	Jazz House	https://open.spotify.com/track/2r4r4VB7IXSLBEJnv4Yx1k
+42	"Le Monstre du Lockdown"	Stupid Flash, Herr Krank, Vitess, Oden & Fatzo, Jeff The Fool, Marwan Sabb	Jazz House	https://open.spotify.com/track/6jT6jtD4wcOMiJBRWanKTc
+43	"Paris City Jazz"	Bellaire	Jazz House	https://open.spotify.com/track/2HTzzn4hP4PHlX2nLotWF4
+44	"Spring"	Dan Shake	Jazz House	https://open.spotify.com/track/6g509CbP2eQxxf6U9DMrU4
+45	"Feel My Thoughts - Bruh"	Byron the Aquarius	Jazz House	https://open.spotify.com/track/59S0MtYYJskLwLGV9fyZiq
+46	"Pose"	Joel Holmes	Jazz House	https://open.spotify.com/track/53UP3VVKTvOnrSruekZk5w
+47	"Ce bon vieux Jean Lassalle"	Vanderkraft	Jazz House	https://open.spotify.com/track/0KakYJ3LDA0WFWCl0PXmC7
+48	"Café cigarette"	Yambow	Jazz House	https://open.spotify.com/track/2FJ2ukpPWwKu9JzR4Ymx2x
+49	"Lock & Rock"	Lay-Far	Jazz House	https://open.spotify.com/track/4KivnJY1qqestyV8apF1lf
+50	"Players"	Melchior Sultana	Jazz House	https://open.spotify.com/track/1WcT8DZvGkZd3QtExffWzA

@@ -1,0 +1,52 @@
+
+=== BATCH 26 - Auto-discovered (2026-07-06 19:15) ===
+1	"Many Times"	Samer Soltan	SA House	https://open.spotify.com/track/4IGnwie9q6JCHiHog8VEgD
+2	"Not Control"	Lazare	SA House	https://open.spotify.com/track/3RaF9EkoeLFnVlitqNAcE2
+3	"La Casa"	Souave	SA House	https://open.spotify.com/track/6b0UBPyEOSEmSH24Hw4ovw
+4	"Las Coloradas"	Robbie Akbal, Kora (CA), Alice Rose	SA House	https://open.spotify.com/track/2noKoOwc9P8IdXhBOzURxu
+5	"Set You Free"	Anthony P. (CH), Ren Ocean	SA House	https://open.spotify.com/track/2wI8tP3EeIyUERIoDOnKHq
+6	"Maluxutshwe"	Echo Deep, Takue SBT, Lebzin, Sontshikazi	SA House	https://open.spotify.com/track/1ebBbGry3J9vOMqM33BsOf
+7	"Monalisa (Waka Waka)"	Kusher	SA House	https://open.spotify.com/track/7yTkQbL84oRYXiAYwuO0Jj
+8	"Sweet Disposition"	Juanma Sanchez, Sounds Of Sirin	SA House	https://open.spotify.com/track/2vp8zVFKJr2VgU9MJdE5d1
+9	"I Need You"	FiNE, Nomvula SA	SA House	https://open.spotify.com/track/38pYs49ZDhY59Sjo9E9DWO
+10	"RELAX"	Late Night Therapy	SA House	https://open.spotify.com/track/027bqg2K10cdCbvnjkHehA
+11	"Children Of Lir - Gorge Remix"	Green George, Gorge	SA House	https://open.spotify.com/track/24LltLxokSZrdYfdvjlHhj
+12	"Pretty Ladies"	MOVEE ON	SA House	https://open.spotify.com/track/6rmDGw5cypPGNYiiYZnM8A
+13	"Afterlove"	Alexey Romeo	SA House	https://open.spotify.com/track/1KgXsz5wiJtFeMTCTP5EUY
+14	"Gamma Project"	Cristian Viviano	SA House	https://open.spotify.com/track/0ZZRfn9Y7hy2eicKtSY3N0
+15	"Fallin"	LENny (IT), Afriindi, Blanka Mazimela	SA House	https://open.spotify.com/track/0pBqOZJ0E4HAjmjJf0mdSW
+16	"Keladi - Edit"	Vanco, Ahmed Sosso	SA House	https://open.spotify.com/track/7oIXKoPfUwsOVFcUcHWg22
+17	"Rotator"	Meedy	SA House	https://open.spotify.com/track/2jQYLNnudNZ9GCLQyK9ned
+18	"Easy To Please - Yet More Remix"	Latteo, Yet More, D'aria	SA House	https://open.spotify.com/track/4hgu3BqIkGT7SeVKiCGHJg
+19	"Mama Kosa"	atsou, Da Capo, Emmanuel Jal	SA House	https://open.spotify.com/track/605GMwOy2pPwTmR9usD1Pr
+20	"No Love - Radio Edit"	NAB (TN)	SA House	https://open.spotify.com/track/2gB1ALQcCKNCRkKdQDvnkz
+21	"Faded"	MANQO	SA House	https://open.spotify.com/track/3AJVbrUus2F5HZWHtd3pgO
+22	"Baba Wethu"	Mzux Maen, LeboTheGreat	SA House	https://open.spotify.com/track/6upE84icTfZIe2x5Ywtgdk
+23	"Wanna Go Back"	ADREO	SA House	https://open.spotify.com/track/0e8BRYoHfGNTBOBShiYhzL
+24	"CBO"	Dennis Louvra, Mosoo	SA House	https://open.spotify.com/track/32qqEgUmzwARS19pE6GXWZ
+25	"Mwana Vamambo"	NATYS	SA House	https://open.spotify.com/track/6uvB5MnG2p80yiwS38Jhkq
+26	"Carry Me Home"	Cem Gemalmaz, Omeria	SA House	https://open.spotify.com/track/3TkGh5H0NnuRvxgSNM3yfH
+27	"iGama Lakho"	Gumz, Atmos Blaq, Bukeka	SA House	https://open.spotify.com/track/41LbjiYizL2gdwnRBMSSSm
+28	"Nitelife - Armand Van Helden Retail Mix"	Kim English	Vocal House	https://open.spotify.com/track/2F5W5f8COoQKpoGqPcZ1EN
+29	"Home - Offer Nissim Part 1 Remix"	Suzanne Palmer	Vocal House	https://open.spotify.com/track/567ybr9TyCpGe7cAJK08Vf
+30	"Love On My Mind (feat. Amanda Wilson)"	Freemasons, Amanda Wilson	Vocal House	https://open.spotify.com/track/0k44TEACp8VYXsXCy8VHk6
+31	"This Joy - Rosabel 2016 Reworked Joy Radio"	Vernessa Mitchell, Rosabel, Ralphi Rosario, Abel Aguilera	Vocal House	https://open.spotify.com/track/2HTz4PBLFUnKHjQdVDlIsi
+32	"Naya"	Yinon Yahel, Mor Avrahami, Tzlil Danin	Vocal House	https://open.spotify.com/track/34nLn5uVw3a3b8pcyHDNx4
+33	"Back Together (feat. Ron Carroll) - Classic Mix"	Hardsoul, Ron Carroll	Vocal House	https://open.spotify.com/track/1PH8at6E0jy3rFPH66aH9m
+34	"Dirty Filthy - David Tort & Markem HoTL Remix"	Superchumbo, Celeda, David Tort, Markem	Vocal House	https://open.spotify.com/track/5ILmtojEmVi1lnFz0vEbC5
+35	"Turn Around (Hey What's Wrong With You)"	Phats & Small	Vocal House	https://open.spotify.com/track/60qbU5QgEnzBqUfXSUh0mc
+36	"No One's Gonna Change You"	Reina	Vocal House	https://open.spotify.com/track/6VZciflHXKBKMxPXnGEmag
+37	"Last Night A DJ Saved My Life - Haji & Emanuel Radio Mix"	Seamus Haji, KayJay, Haji & Emanuel	Vocal House	https://open.spotify.com/track/70tdEHOJJGaQD4iY8Gg0b1
+38	"So Many Times"	Gadjo, Alexandra Prince	Vocal House	https://open.spotify.com/track/6Sf1pkm2m5Pe2mh6USmg72
+39	"First Time"	Offer Nissim, Maya Simantov	Vocal House	https://open.spotify.com/track/3so8N76XV2CTDx8cz9Z6tj
+40	"Appreciate Me - Trip to Paradise Dub"	Amuka	Vocal House	https://open.spotify.com/track/5RyGq8qEezwlf24DHpb0jg
+41	"Pasilda - Knee Deep Mix"	Afro Medusa, Knee Deep	Vocal House	https://open.spotify.com/track/2BUL7sF7y5oBYUQarVCukR
+42	"This Joy (Razor-N-Guido Radio Mix)"	Junior Vasquez, Razor-N-Guido, Vernessa Mitchell	Vocal House	https://open.spotify.com/track/1tepzdbh9dDdNqdnjUIh8r
+43	"Horny '98 - Horny '98 Radio Edit"	Hot 'N' Juicy, Mousse T.	Vocal House	https://open.spotify.com/track/2udgnnMag7Iw4RMNnPoyy0
+44	"Boogie 2Nite - Seamus Haji Big Love Edit"	Booty Luv	Vocal House	https://open.spotify.com/track/3bk3zYhtBchef1oBsSMrtv
+45	"Don't Call Me Baby"	Madison Avenue	Vocal House	https://open.spotify.com/track/5GguB1QMdud2FWbs5VHAzB
+46	"Believe in Me"	Peter Rauhofer	Vocal House	https://open.spotify.com/track/1QO35KHWssmByjFRsj4IoX
+47	"The Weekend - Radio Edit"	Michael Gray	Vocal House	https://open.spotify.com/track/6KzkqZqhUBEsWYJJa2aBOd
+48	"Do It Again (Left Mix)"	Razor-N-Guido	Vocal House	https://open.spotify.com/track/7t3tJKX58TKt3vNc1IDou4
+49	"U Got Me"	ATFC	Vocal House	https://open.spotify.com/track/4gg4uUTRXXRUMFs8qO3C2g
+50	"Kama Yeah - Samm, MAXI MERAKI, Marlin Remix"	Copyright, Shovell, Samm, MAXI MERAKI, Marlin (BE)	Vocal House	https://open.spotify.com/track/7Ek2JuXwnHkJe56iXkTcOG

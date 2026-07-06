@@ -71,6 +71,7 @@
         .discover-status.running .dot { background: var(--accent); animation: pulse 1.2s ease-in-out infinite; }
         .discover-status.success .dot { background: var(--accent); }
         .discover-status.failed  .dot { background: #e85a5a; }
+        .discover-status.skipped .dot { background: var(--muted); }
         @keyframes pulse { 0%,100% { opacity: 0.4; } 50% { opacity: 1; } }
 
         footer { margin-top: 32px; text-align: center; color: var(--muted); font-size: 11px; }
@@ -214,6 +215,8 @@
     let tickTimer = null;
     let lastSnap = null;
     let lastSeenRunId = null;
+    let pendingDiscover = false;
+    let runIdAtQueue = 0;
 
     function fmtAgo(iso) {
         if (!iso) return 'never';
@@ -225,9 +228,23 @@
         return `${Math.round(secs/86400)}d ago`;
     }
 
+    function startPolling(intervalMs) {
+        if (pollTimer) clearInterval(pollTimer);
+        pollTimer = setInterval(() => fetchStatus(), intervalMs ?? 3000);
+        if (tickTimer) { clearInterval(tickTimer); tickTimer = null; }
+    }
+
+    function showDiscovering(label) {
+        statusEl.classList.remove('success', 'failed', 'skipped');
+        statusEl.classList.add('running');
+        btn.disabled = true;
+        btn.textContent = 'Discovering…';
+        statusText.textContent = label || 'Discovering…';
+    }
+
     function renderStatus(snap) {
         const latest = snap.latest;
-        statusEl.classList.remove('running', 'success', 'failed');
+        statusEl.classList.remove('running', 'success', 'failed', 'skipped');
         if (!latest) {
             statusText.textContent = `No runs yet — ${snap.today_success}/${snap.daily_target} today`;
             btn.disabled = false;
@@ -244,7 +261,8 @@
             btn.textContent = 'Find more songs';
             const delta = latest.new_count != null ? ` · +${latest.new_count} new` : '';
             const when = fmtAgo(latest.finished_at || latest.started_at);
-            statusText.textContent = `Last: ${latest.status} ${when}${delta} · ${snap.today_success}/${snap.daily_target} today`;
+            const note = latest.status === 'skipped' && latest.message ? ` — ${latest.message}` : '';
+            statusText.textContent = `Last: ${latest.status} ${when}${delta}${note} · ${snap.today_success}/${snap.daily_target} cron today`;
         }
     }
 
@@ -280,21 +298,31 @@
             .then(r => r.json())
             .then(snap => {
                 const latest = snap.latest;
-                const wasRunning = !!pollTimer;
+                const wasRunning = lastSnap?.latest?.status === 'running';
                 lastSnap = snap;
-                renderStatus(snap);
+
                 if (latest && latest.status === 'running') {
+                    pendingDiscover = false;
+                    renderStatus(snap);
                     lastSeenRunId = latest.id;
-                    if (!pollTimer) pollTimer = setInterval(() => fetchStatus(), 3000);
-                    // While running, the ticker isn't needed — stop it.
-                    if (tickTimer) { clearInterval(tickTimer); tickTimer = null; }
+                    startPolling(3000);
+                } else if (pendingDiscover) {
+                    if (latest && latest.id > runIdAtQueue) {
+                        pendingDiscover = false;
+                        renderStatus(snap);
+                        if (pollTimer) { clearInterval(pollTimer); pollTimer = null; }
+                        if (latest.status === 'success') refreshSongList();
+                        if (!tickTimer) tickTimer = setInterval(() => { if (lastSnap) renderStatus(lastSnap); }, 30000);
+                    } else {
+                        showDiscovering('Starting discovery run…');
+                        startPolling(1000);
+                    }
                 } else {
+                    renderStatus(snap);
                     if (pollTimer) { clearInterval(pollTimer); pollTimer = null; }
-                    // If we just transitioned out of 'running', refresh the song list.
                     if (wasRunning && latest && latest.status === 'success') {
                         refreshSongList();
                     }
-                    // Keep the relative-time display fresh without re-fetching.
                     if (!tickTimer) tickTimer = setInterval(() => { if (lastSnap) renderStatus(lastSnap); }, 30000);
                 }
             })
@@ -302,8 +330,7 @@
     }
 
     btn.addEventListener('click', function () {
-        btn.disabled = true;
-        btn.textContent = 'Starting…';
+        showDiscovering('Starting discovery run…');
         fetch('/discovery/run', {
             method: 'POST',
             headers: { 'X-CSRF-TOKEN': csrf, 'Accept': 'application/json' },
@@ -311,19 +338,34 @@
         })
         .then(r => r.json().then(body => ({ ok: r.ok, status: r.status, body })))
         .then(({ ok, status, body }) => {
-            if (!ok && status !== 409) console.error('Trigger failed', body);
-            // Either way, re-render with the snapshot the server returned.
-            lastSnap = body;
-            renderStatus(body);
-            if (body.latest && body.latest.status === 'running') {
-                lastSeenRunId = body.latest.id;
-                if (!pollTimer) pollTimer = setInterval(() => fetchStatus(), 3000);
+            if (!ok && status !== 409) {
+                console.error('Trigger failed', body);
+                lastSnap = body;
+                renderStatus(body);
+                return;
             }
+            lastSnap = body;
+            runIdAtQueue = body.latest?.id ?? 0;
+            const running = body.running || (body.latest && body.latest.status === 'running');
+            if (body.queued || running) {
+                pendingDiscover = !!body.queued && !running;
+                if (running) {
+                    pendingDiscover = false;
+                    renderStatus(body);
+                } else {
+                    showDiscovering('Starting discovery run…');
+                }
+                startPolling(body.queued ? 1000 : 3000);
+                return;
+            }
+            pendingDiscover = false;
+            renderStatus(body);
         })
         .catch(err => {
             console.error('Trigger failed', err);
             btn.disabled = false;
             btn.textContent = 'Find more songs';
+            if (lastSnap) renderStatus(lastSnap);
         });
     });
 

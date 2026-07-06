@@ -1,0 +1,52 @@
+
+=== BATCH 28 - Auto-discovered (2026-07-06 22:09) ===
+1	"If You Want My Loving"	Prospa	UK House	https://open.spotify.com/track/4EdOpcLtbY6J7AK4rLhqSG
+2	"Saved By The Record (feat. Josh Barry)"	Sam Divine, Josh Barry	UK House	https://open.spotify.com/track/0KQhwMvQHO17faalnd3Mjv
+3	"So Hooked On Your Lovin - Mousse T.'s Disco Shizzle"	Selace, Mousse T.	UK House	https://open.spotify.com/track/1CmqwIhFc0FySL8HiPo0jU
+4	"Work It (feat. DJ Deeon)"	Dance System, DJ Deeon	UK House	https://open.spotify.com/track/5TrE7Acr1wFjZFZSpxSrFw
+5	"Alfa"	Crackazat	UK House	https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V
+6	"Seventies"	Theo Kottis	UK House	https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP
+7	"Let My Brain Go - Len Faki Remix [Edit]"	DJ Haus, Len Faki	UK House	https://open.spotify.com/track/2L8bF6rKaYWKgsVr4Rp3J7
+8	"Sometimes The Going Gets A Little Tough - Ferreck Dawn & Robosonic Remix"	Finn., Ferreck Dawn, Robosonic	UK House	https://open.spotify.com/track/65g8E63towucMc1ko0Z0QJ
+9	"Tony"	Austin Ato	UK House	https://open.spotify.com/track/5KalCBaGQtsOOl12K6spIe
+10	"Testify (feat. Crystal Waters) - Radio Edit"	Hifi Sean, Crystal Waters	UK House	https://open.spotify.com/track/2tPuz4Vur3S5TYayVNDG27
+11	"Hit It Off (feat. Teni Tinks) - Late Nite Tuff Guy Remix"	Qwestlife, Teni Tinks, Late Nite Tuff Guy	UK House	https://open.spotify.com/track/0lQQMDtln5srkv36LAOTNt
+12	"Always"	Waze & Odyssey, George Michael, Mary J. Blige, Tommy Theo	UK House	https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4
+13	"Alive"	Franky Wah, Vintage Culture	UK House	https://open.spotify.com/track/43yv23e1pejzlyvs5Fsa5w
+14	"Closer (feat. Chenai)"	Ben Hemsley, Chenai	UK House	https://open.spotify.com/track/3LmVmt1ovT79qH36xY34VF
+15	"Got 2 Be Loved"	Soul Reductions	UK House	https://open.spotify.com/track/2Rsn3b2wzflcjX0pXcZFdj
+16	"Looking at Your Pager"	KH	UK House	https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs
+17	"Sweet Devotion - Edit"	TSHA, Caroline Byrne	UK House	https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd
+18	"When Will the Day Come"	Bobby Analog	UK House	https://open.spotify.com/track/0RRpLZfFyxJAka1mynK6jx
+19	"Long Gone"	Al Zanders	UK House	https://open.spotify.com/track/62gvCFP2ENmOSFG35MVF1M
+20	"Work it Out - Vocal Mix Edit"	Scott Diaz, Letta	UK House	https://open.spotify.com/track/4fbdPY76l9jpmcCSceZm2h
+21	"Searching - Radio Edit"	Enzo Siragusa, Laville	UK House	https://open.spotify.com/track/34WxFNXuyooJuNSfx6X1Ol
+22	"The Attention Deficit Track - Edit"	Jackmaster, Skream	UK House	https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW
+23	"Organ Belta"	Jamie Roy	UK House	https://open.spotify.com/track/5Mu6QNEQrRjvnKyBSyElcW
+24	"Turn the Music Louder (Rumble) (feat. Tinie Tempah) - Radio Edit"	KDA, Katy B, Tinie Tempah	UK House	https://open.spotify.com/track/0YC3WfFZkZBpUeaHt4Eggk
+25	"Light You Up (feat. Queen Rose & Amy Douglas)"	Luke Solomon, Amy Douglas, Queen Rose	UK House	https://open.spotify.com/track/7zNcEQxhWvNPelMH9MtmuH
+26	"House Every Weekend - Radio Edit"	David Zowie	UK House	https://open.spotify.com/track/2rWisQk9hxSap9ZtTx45sv
+27	"Better Me (feat. Lily Mckenzie)"	Saffron Stone, Lily McKenzie	UK House	https://open.spotify.com/track/3aeqEyOCo9AaKboo37Wr8B
+28	"Never Ever Ever (feat. shiv)"	Girls of the Internet, shiv	UK House	https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk
+29	"Ginseng Strip 303"	MARK BLAIR	UK House	https://open.spotify.com/track/4yiJyiyh3sfncjJuHVzQ3q
+30	"We Are One (feat. Bobby Pruitt) - Jazz-N-Groove Hands Up Vocal"	Urban Blues Project, Bobby Pruitt, Jazz N Groove	UK House	https://open.spotify.com/track/3Ha7kQeu0eOIQQR5MBNqJR
+31	"My Way"	Will Saul, Joe Dukie	UK House	https://open.spotify.com/track/5dyZsgdawjklAUfIsN3EsQ
+32	"Big Love - Eat Me Edit"	Pete Heller	UK House	https://open.spotify.com/track/2w6YlpVeyHazO6YcvpGxIS
+33	"Do This Forever"	Lxury	UK House	https://open.spotify.com/track/7rGxWoUyNno5ztljshnN7o
+34	"Wonky Bassline Disco Banger"	Red Rack'Em	UK House	https://open.spotify.com/track/2SMQQX11RBFBnTkkZqrDfd
+35	"The Girl Is Mine"	99 Souls	UK House	https://open.spotify.com/track/2cNCaMkur4qF0lNwJWBf6b
+36	"The Assassinator"	thatmanmonkz	UK House	https://open.spotify.com/track/6BUZekOigFtyAQJDozQqVA
+37	"Transience"	Wayward	UK House	https://open.spotify.com/track/0rWfxCowxTVuh4gLNGDcme
+38	"96 - TR734"	Doorly, Davos	UK House	https://open.spotify.com/track/7KF2cvytp3j5hiMfdQS9vU
+39	"You Got Me Baby"	Lushington	UK House	https://open.spotify.com/track/2jhkydrD0iViifr6nWdoLh
+40	"Into The Sun"	Damian Lazarus, Jem Cooke	UK House	https://open.spotify.com/track/5xUomxrzkIr0MAP9YQur24
+41	"Don't Go - Gerd Janson Re-Work - Shorter Edit"	Julie McDermott, Gerd Janson	UK House	https://open.spotify.com/track/5E1si4zAa76zwPhwEHXFBU
+42	"Talk About"	Rain Radio, DJ Craig Gorman	UK House	https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr
+43	"Can We Pretend"	Trus'me, Amp Fiddler, Kenny 'Mac' Martin	UK House	https://open.spotify.com/track/4hWMnLonUAPbF0ZS5r05I1
+44	"Wanna"	Catchment	UK House	https://open.spotify.com/track/06Hag5syHBOeKlovHlOn0v
+45	"Ecstasy - Mixed"	Fabich, Jafunk, Pastel, Bambie	UK House	https://open.spotify.com/track/2PspwQLfDzLUOyaxQ7de5L
+46	"Principles"	Fear-E	UK House	https://open.spotify.com/track/0mS9LjKMxfcZcLdijdfQsg
+47	"Morning Light"	Soul Speech	UK House	https://open.spotify.com/track/1033WbMNcxZOxi6mxkZFcn
+48	"Teach Me"	Ros T	UK House	https://open.spotify.com/track/5fL0x7hKx4TkAqigolhPUp
+49	"Nothing but Love for You - Director's Cut Breathtaking Adventure"	The UK Shapeshifters, C-Dock	UK House	https://open.spotify.com/track/1Hci3I2VuBBaKEEfUGDuOp
+50	"Players"	Danny Howells	UK House	https://open.spotify.com/track/095AmcV7YYn0siqZ048vsC

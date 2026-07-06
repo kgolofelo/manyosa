@@ -36,10 +36,11 @@ fi
 
 # ----- catch-up gate for cron-auto only -----------------------------------
 if [[ "${SOURCE}" == "cron-auto" ]]; then
-    if ! "${PY}" "${DBPY}" check-quota; then
-        log "(cron-auto) quota/spacing gate said skip"
+    skip_reason=$("${PY}" "${DBPY}" check-quota 2>&1) || {
+        log "(cron-auto) skipped: ${skip_reason}"
+        "${PY}" "${DBPY}" record-skip cron-auto "${skip_reason}"
         exit 0
-    fi
+    }
 fi
 
 # ----- record run start ---------------------------------------------------

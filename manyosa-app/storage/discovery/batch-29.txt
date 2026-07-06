@@ -1,0 +1,52 @@
+
+=== BATCH 29 - Auto-discovered (2026-07-06 22:12) ===
+1	"Play The Game"	Kenny Hawkes, Louise Carver	UK House	https://open.spotify.com/track/4OW4bwKyJGxK7C3YPu5YYI
+2	"The Healing - Tinlicker Edit [Mixed]"	James Zabiela, Tinlicker	UK House	https://open.spotify.com/track/6Y7BxtxD5HNjuk44nUgg1j
+3	"Feathers"	Andrew Weatherall	UK House	https://open.spotify.com/track/7fnIaCGIopLg4YA9uwb4FN
+4	"Sunshine - Tiger & Woods Remix"	Unit 2, Tiger & Woods	UK House	https://open.spotify.com/track/0bS7rbX7pw0OcFSGk7BCEO
+5	"This Is Real"	Charles Webster, Shara Nelson	UK House	https://open.spotify.com/track/6oKmVa06ZXIpOSid2kLNet
+6	"Feel The Music"	Eddie Richards	UK House	https://open.spotify.com/track/1ZgJns2dkQS22MmpOwqxPI
+7	"Hanging Up (On You)"	Smokin' Jack Hill, LXI	UK House	https://open.spotify.com/track/3i6ZeU0q0gwHJ3bd8aHrQO
+8	"Seeking Thrills"	Josh Hunter	UK House	https://open.spotify.com/track/65kEXhBeVBmT803alYVYJ0
+9	"Run Home (Radio Edit)"	ACAY	UK House	https://open.spotify.com/track/4SQ2aqllD14wGlwUaxdP3q
+10	"Mink & Shoes"	Psychemagik, Navid Izadi	UK House	https://open.spotify.com/track/7pmkVhLiiDiITNfnMD5N1C
+11	"Roach Fingers"	Jesse Bru	Jazz House	https://open.spotify.com/track/0TsXdSKxK3Snezeuw88RnO
+12	"Call Me Ishmael"	Madcat	Jazz House	https://open.spotify.com/track/2g5bJ0yu0d5GmH7VDHgdT6
+13	"Cool Bananas"	Tell	Jazz House	https://open.spotify.com/track/7FheJOrB8J0eyK0ebcBAlI
+14	"Kindness"	Retromigration, Nephews	Jazz House	https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN
+15	"Keep It Real"	Loure	Jazz House	https://open.spotify.com/track/4YpCTAZRpNmW1EHLVrq4ur
+16	"Teuf De Ouf"	Scruscru, Jehan	Jazz House	https://open.spotify.com/track/2hBVhIi4OIeRyZ0HK6oGcI
+17	"Should've Been the Place"	Ethyène	Jazz House	https://open.spotify.com/track/7Mr0uWfeC98YgTvjvPXOzg
+18	"Naima Blue"	Soul Wun	Jazz House	https://open.spotify.com/track/6W0fhqfHsrodXIuMGoGHia
+19	"Air Dodge"	Kx9000	Jazz House	https://open.spotify.com/track/1zIDWO9DEXwWfvXAXm64wb
+20	"Jsors le Coxis du Fémur"	Pierre Moritz	Jazz House	https://open.spotify.com/track/0Du9m6QON2C76LOau8bHw0
+21	"Matano Trumpet Jam"	Jad & The	Jazz House	https://open.spotify.com/track/0FXRcUaFhMIUGJ3oVkDB3e
+22	"Starting Tomorrow"	Carlosthings	Jazz House	https://open.spotify.com/track/4JzStXtzcpdpuTTcsE8Hrl
+23	"Saw You for the First Time"	Laurence Guy	Jazz House	https://open.spotify.com/track/44t34AtBWG4TKMF5Xc97kV
+24	"I'm Wishin'"	Junktion	Jazz House	https://open.spotify.com/track/38YGBgD6bztGWNMHWrxuGT
+25	"Cannot Let You Go"	Weast	Jazz House	https://open.spotify.com/track/1uYtTOfC6DuNf7GdxkHGkf
+26	"The Body Move"	Kapote	Jazz House	https://open.spotify.com/track/7Ejtrc5RR6DPVAQHpbhL7W
+27	"As Far As I Know"	Matthieu Faubourg	Jazz House	https://open.spotify.com/track/28OYoblTWtYTJNuXIJuyxq
+28	"Be Mine"	Luvless	Jazz House	https://open.spotify.com/track/2PfQjeHZ8muFh44hxKgoNS
+29	"008A1"	Apparel Wax	Jazz House	https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0
+30	"Silver"	Gavinco	Jazz House	https://open.spotify.com/track/7g8NvPQSXYY8DLujyvBMMc
+31	"Da Svidaniya"	Jeff The Fool	Jazz House	https://open.spotify.com/track/2sVhVmoaj5gsHQ3ZlageLv
+32	"Time For You & Me"	Mangabey	Jazz House	https://open.spotify.com/track/03F2gNXqpUtcnIoK6uKAeM
+33	"Beach Jazz"	Tom Jarmey, MarBlu	Jazz House	https://open.spotify.com/track/3PbtKwVUqIZPvbQZarAC0w
+34	"French Love Affair"	Paul Cut	Jazz House	https://open.spotify.com/track/7GqlBsIZgcIGPK938ckuRr
+35	"Our Smoother Part"	Le Hutin	Jazz House	https://open.spotify.com/track/4S8ixccYDPJJD4vPthHg5f
+36	"Mornings"	Georges	Jazz House	https://open.spotify.com/track/5T26aI4TQM8M1D7LFJEXLj
+37	"Dragosh Likes Congas"	Interstate	Jazz House	https://open.spotify.com/track/3eZE6Nu2AnPabiXMPx9RIA
+38	"Disco Rue - Larry Houl's Funky Street Mix"	Naux, Larry Houl	Jazz House	https://open.spotify.com/track/4o4naMhPIUmZuONXS3P76a
+39	"Air Dancer"	Jehan	Jazz House	https://open.spotify.com/track/6dzirxBnxDIgEJOvHm5yB2
+40	"Discotronic - Mixed"	Around7	Jazz House	https://open.spotify.com/track/6gvH8RnkiVmtRSh8DNqvbm
+41	"Nostalgic Feelings - Tensnake Remix"	Paul Rudder, Tensnake	Jazz House	https://open.spotify.com/track/2r4r4VB7IXSLBEJnv4Yx1k
+42	"Le Monstre du Lockdown"	Stupid Flash, Herr Krank, Vitess, Oden & Fatzo, Jeff The Fool, Marwan Sabb	Jazz House	https://open.spotify.com/track/6jT6jtD4wcOMiJBRWanKTc
+43	"Paris City Jazz"	Bellaire	Jazz House	https://open.spotify.com/track/2HTzzn4hP4PHlX2nLotWF4
+44	"Spring"	Dan Shake	Jazz House	https://open.spotify.com/track/6g509CbP2eQxxf6U9DMrU4
+45	"Feel My Thoughts - Bruh"	Byron the Aquarius	Jazz House	https://open.spotify.com/track/59S0MtYYJskLwLGV9fyZiq
+46	"Pose"	Joel Holmes	Jazz House	https://open.spotify.com/track/53UP3VVKTvOnrSruekZk5w
+47	"Ce bon vieux Jean Lassalle"	Vanderkraft	Jazz House	https://open.spotify.com/track/0KakYJ3LDA0WFWCl0PXmC7
+48	"Café cigarette"	Yambow	Jazz House	https://open.spotify.com/track/2FJ2ukpPWwKu9JzR4Ymx2x
+49	"Lock & Rock"	Lay-Far	Jazz House	https://open.spotify.com/track/4KivnJY1qqestyV8apF1lf
+50	"Players"	Melchior Sultana	Jazz House	https://open.spotify.com/track/1WcT8DZvGkZd3QtExffWzA

@@ -1,0 +1,52 @@
+
+=== BATCH 25 - Auto-discovered (2026-06-18 13:30) ===
+1	"Play With Fire"	Mr Milk Dee	Funky House	https://open.spotify.com/track/5KTj0oDF6CXNrW1wNsGkJB
+2	"Tension (feat. Lazarusman)"	Kiki Botonaki, Elias Kazais, Lazarusman	SA House	https://open.spotify.com/track/1f9Z5dvZnr7ypG5Ei0soFq
+3	"It's You - Alex Wann Remix"	FCL, Alex Wann	SA House	https://open.spotify.com/track/4gLGlik36Iy5yWS78NszV1
+4	"Cachaplà"	Bohemoon, MOSA KLUB	SA House	https://open.spotify.com/track/1tHf0hAs5Xkxzsa5b8RoLF
+5	"Mungana - Radio Edit"	LevyM, Piero Farho, Una Rams	SA House	https://open.spotify.com/track/1eNURXHOm20FMwHMB6AJGh
+6	"Let Me See You"	Kadosh, Severin Su	SA House	https://open.spotify.com/track/7xLYUeJqr9DbpskHCaL2ep
+7	"Moon Walking"	Umgido	SA House	https://open.spotify.com/track/0PWUKih2OJrDgsX0cUOaix
+8	"Needing You"	Haute Take, Ganimal	SA House	https://open.spotify.com/track/1AxQu4XrQcWeRbWIsAUBpH
+9	"Diarabi"	Matt Mus, Cedric Marian	SA House	https://open.spotify.com/track/2xnSS19yefvBIh49lUb3d8
+10	"The Last Queen"	Gallo.	SA House	https://open.spotify.com/track/5xwzrZEQEhOSpTpozfLiLG
+11	"Madi"	Aero Manyelo, Blaq Samurai	SA House	https://open.spotify.com/track/1NewzjB93jvqy1YEXlZBg6
+12	"At Least We Are Under The Same Moon"	Raul Vidal, David Mackay	SA House	https://open.spotify.com/track/5f7PgbLxKiBwykHUEgT6oN
+13	"Keep Trying"	Vomee	SA House	https://open.spotify.com/track/7af7GEaniRHz581xwbUKFO
+14	"Suave"	AVG	SA House	https://open.spotify.com/track/4kdIocxN7MCts8ATGiFQxz
+15	"Souareba"	Karno B	SA House	https://open.spotify.com/track/3dYFiv8JkigVK2N404aHhg
+16	"Changu"	Eli Fola, Cornelius SA, Idd Aziz	SA House	https://open.spotify.com/track/3fKS7o5drKlM7vPsm9lz3m
+17	"Mulher Gato"	Mulya	SA House	https://open.spotify.com/track/2khV3nfwNlW0Trv9gopFrV
+18	"Sensa"	Lilya Mandre, Zac Martel, Tommy Kimpton, Ayla	SA House	https://open.spotify.com/track/17MT6vv1WVqLFOkqJkd6Pf
+19	"Hip Hop Violin"	Konvex (FR), Selim Sivade, Baron (FR), Meloko, AZZUR	SA House	https://open.spotify.com/track/0uXijB1yXJpDdkajbu1Dki
+20	"Quítame El Sentío (Remix)"	MIXELLE, Ikerfoxx, Amoss	SA House	https://open.spotify.com/track/288KhqkZ2SWlQ2RNCmaQ31
+21	"I Think"	IIBRA, Abdé, LEMON DROPS	SA House	https://open.spotify.com/track/1kUbcWoD1VJ456dIsOC8rc
+22	"Chase The Sun - Mixed"	Aidin Caye	SA House	https://open.spotify.com/track/2Yl8CpSRZQnUBu1st9Bx5U
+23	"Feel the Rhythm - Radio Edit"	Maexx	SA House	https://open.spotify.com/track/4jvenjxIEgg04vjFFWCply
+24	"BAYNA"	GUESMY	SA House	https://open.spotify.com/track/6cLhzjuVWbSUASPAV3cdFZ
+25	"Gospel"	Diass	SA House	https://open.spotify.com/track/1jRiVHw8EJGCad5xJZ0waM
+26	"Wine - Remix"	Dawda, Aladdin	SA House	https://open.spotify.com/track/79tIPbDd29As6TAo0NLW0h
+27	"Ode to Agape"	Sisco Umlambo, Tekniq	SA House	https://open.spotify.com/track/5Wf9Cnj8GyQcplUwQYW7PH
+28	"Fortuna"	Trikk	SA House	https://open.spotify.com/track/3opxRoiuQuyDrkdnfTAPlH
+29	"No Time For Criticizing - Together"	Klement Bonelli	SA House	https://open.spotify.com/track/1mZOj5sT51FBK8HkjeEHWm
+30	"Yazoo - Radio Edit"	Wilgenis Vergara	SA House	https://open.spotify.com/track/3TL2ZHiCt35MAtE8Uln4dX
+31	"Winds Of The Dunes"	Loudr	SA House	https://open.spotify.com/track/2BEGYIiMUancgbg1dBQ8Zl
+32	"Ay Papi"	Dean Walker, Maahez	SA House	https://open.spotify.com/track/2sndfz0bA6DfnR8DqbRaTU
+33	"Flauta"	:DARREN	SA House	https://open.spotify.com/track/2LHyEfoTm0PnFP3x07LghW
+34	"ALEHO"	4Rain, Massianello, Anlly Marín	SA House	https://open.spotify.com/track/2OxC36XQzJWWjXH5iMzgZB
+35	"Hopa - Radio Edit"	Savage & SHē, Eran Hersh	SA House	https://open.spotify.com/track/6RIzvlykyJX40KoyfFvpTj
+36	"S'écouler"	Jeh, Kali Mija	SA House	https://open.spotify.com/track/63coMo9A223iVjPS2ODVo4
+37	"Send Me - Doug Gomez Remix"	Danyel Irsina, Lizwi, Doug Gomez	SA House	https://open.spotify.com/track/0ohYSVz0ASuPOJETQZdEmO
+38	"Do For Love"	VICTHOR	SA House	https://open.spotify.com/track/6eR1pbtDXwU2qhNyBvER2J
+39	"Tracey in My Room - Lovless Youth Remix"	Mark Maxwell, DÉ SAINT., Lovless Youth	SA House	https://open.spotify.com/track/1Abm9qPDlf0X0gmJyT2LXt
+40	"Sodade"	Pedro Cazanova, Zizi Vasconcelos	SA House	https://open.spotify.com/track/6DIUQQE1v7gBXpnQEacoSo
+41	"Bloom"	Ocean Flor, Aera, Jesse Trinidad	SA House	https://open.spotify.com/track/3VXMxOsCZj1rkmrvfaAgdY
+42	"Dança Do Sol"	Antho Decks, Oliver Gil	SA House	https://open.spotify.com/track/5QQxlLQYdAqXiDoAshOhaF
+43	"Muhiki"	Rhude	SA House	https://open.spotify.com/track/7804Ez14zbgWV3sQp4LDvl
+44	"Calm Down"	Yaans, Wisdom	SA House	https://open.spotify.com/track/01YX5H0hPUN1XTPNQohsPf
+45	"More Than Ever"	Flex Orlando	SA House	https://open.spotify.com/track/6Jc2ura4RP6gPD9rhiNZ74
+46	"Reverie"	Da Mike, Demayä	SA House	https://open.spotify.com/track/5MMEg1ZI1oK6nZHQMeT938
+47	"Te Vas"	Ted Bear	SA House	https://open.spotify.com/track/2VVWzfgexndyCMunSOJ6pw
+48	"Healing"	Becheranō	SA House	https://open.spotify.com/track/1EE1UFiIa0SKXaWmTEygKI
+49	"Laafou"	AMVN, SAFAR, Abdellah Stitou	SA House	https://open.spotify.com/track/1eV5jfwEewKpHvO1Ibwynw
+50	"Waya"	SHADU	SA House	https://open.spotify.com/track/49CCBQtG6prb4rwnNom2Vl

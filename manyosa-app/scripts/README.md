@@ -23,14 +23,26 @@ behind the Laravel app) topped up with fresh songs to review.
 
 ## Setup (one-off)
 
+PHP (for `php artisan songs:import`):
+
+```bash
+sudo apt install -y php-xml php-sqlite3
+```
+
+Python (for `discover.py` / Playwright):
+
 ```bash
 cd manyosa-app
-sudo apt install -y python3.13-venv          # if needed
-python3 -m venv scripts/.venv
-scripts/.venv/bin/pip install playwright
+sudo apt install -y python3-venv             # or python3.14-venv on newer Ubuntu
+python3 -m venv scripts/.venv                # use --without-pip if ensurepip missing
+scripts/.venv/bin/pip install -r scripts/requirements.txt
 scripts/.venv/bin/playwright install chromium
 chmod +x scripts/run.sh
 ```
+
+After an OS upgrade, recreate the venv if Python was bumped (e.g. 3.13 → 3.14):
+the old `.venv` will break with `ModuleNotFoundError: No module named 'playwright'`.
+Remove `scripts/.venv` and run the Python block above.
 
 ## Manual run
 
@@ -42,17 +54,17 @@ scripts/.venv/bin/python scripts/discover.py --headed   # watch the browser
 
 ## Cron
 
-Twice daily, 06:00 and 18:00:
+Every 30 minutes (with daily quota / spacing gates):
 
 ```cron
-0 6,18 * * * /home/kgolofelo/manyosa/manyosa-app/scripts/run.sh
+*/30 * * * * /home/kgolofelo/manyosa/manyosa-app/scripts/run.sh cron-auto
 ```
 
 Install with:
 
 ```bash
 ( crontab -l 2>/dev/null | grep -v 'manyosa-app/scripts/run.sh'
-  echo "0 6,18 * * * /home/kgolofelo/manyosa/manyosa-app/scripts/run.sh" ) | crontab -
+  echo "*/30 * * * * /home/kgolofelo/manyosa/manyosa-app/scripts/run.sh cron-auto" ) | crontab -
 ```
 
 Inspect:

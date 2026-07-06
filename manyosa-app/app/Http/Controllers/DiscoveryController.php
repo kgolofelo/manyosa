@@ -45,6 +45,7 @@ class DiscoveryController extends Controller
     {
         $latest = DiscoveryRun::latest('id')->first();
         $today  = DiscoveryRun::where('status', 'success')
+            ->where('source', 'cron-auto')
             ->whereDate('started_at', now()->toDateString())
             ->count();
 
