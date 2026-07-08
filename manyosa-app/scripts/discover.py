@@ -99,7 +99,13 @@ def fetch_playlist(page: Page, playlist_id: str) -> list[dict]:
         tid = uri.split(":")[2]
         title = (item.get("title") or "(unknown)").strip()
         artist = (item.get("subtitle") or "(unknown)").replace("\u00a0", " ").strip()
-        out.append({"id": tid, "title": title, "artist": artist})
+        duration_ms = item.get("duration")
+        out.append({
+            "id": tid,
+            "title": title,
+            "artist": artist,
+            "duration_ms": duration_ms if isinstance(duration_ms, int) else None,
+        })
     return out
 
 
@@ -163,6 +169,7 @@ def main() -> int:
     LOG_DIR.mkdir(parents=True, exist_ok=True)
     config = load_config()
     target = int(config.get("target_new_songs", 50))
+    min_duration_ms = int(config.get("min_duration_seconds", 300)) * 1000
 
     excluded = existing_track_ids()
     log(f"manyosa.txt holds {len(excluded)} track IDs")
@@ -188,6 +195,9 @@ def main() -> int:
             tracks = fetch_playlist(page, src["id"])
             for t in tracks[: int(config.get("max_tracks_per_source", 80))]:
                 if t["id"] in excluded or t["id"] in picks_by_id:
+                    continue
+                dur = t.get("duration_ms")
+                if dur is None or dur < min_duration_ms:
                     continue
                 picks_by_id[t["id"]] = {**t, "genre": src["genre"]}
                 if len(picks_by_id) >= target:

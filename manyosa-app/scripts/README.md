@@ -17,6 +17,8 @@ behind the Laravel app) topped up with fresh songs to review.
 5. Appends a new `=== BATCH N - Auto-discovered (timestamp) ===` block to
    `manyosa.txt` and runs `php artisan songs:import` so the Laravel app
    immediately sees the new songs.
+6. `filter_duration.py` closes any `new` songs shorter than
+   `min_duration_seconds` (default 300 = 5 minutes).
 
 `run.sh` is the cron-friendly wrapper. It logs to
 `storage/discovery/cron.log`.
@@ -84,3 +86,5 @@ tail -f manyosa-app/storage/discovery/cron.log
 - `target_new_songs` — how many new tracks per run (default 50).
 - `max_tracks_per_source` — cap how many tracks to consider from any single
   source playlist (default 80) so one mega-playlist can't monopolize a batch.
+- `min_duration_seconds` — only discover and keep songs at least this long
+  (default 300 = 5 minutes). Shorter `new` songs are auto-closed after import.

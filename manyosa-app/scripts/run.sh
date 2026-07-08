@@ -51,6 +51,7 @@ cd "${APP_DIR}"
 new_before=$("${PY}" "${DBPY}" songs-new-count)
 
 if "${PY}" "${APP_DIR}/scripts/discover.py"; then
+    "${PY}" "${APP_DIR}/scripts/filter_duration.py" || true
     new_after=$("${PY}" "${DBPY}" songs-new-count)
     delta=$(( new_after - new_before ))
     "${PY}" "${DBPY}" finish "${RUN_ID}" success "${delta}" "ok"

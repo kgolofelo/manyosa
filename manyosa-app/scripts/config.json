@@ -28,5 +28,6 @@
     {"id": "4RAw5T49Kgd7BdsFsWe4qS", "name": "The Sound of Latin House",                "genre": "Latin House"}
   ],
   "target_new_songs": 50,
-  "max_tracks_per_source": 80
+  "max_tracks_per_source": 80,
+  "min_duration_seconds": 300
 }
