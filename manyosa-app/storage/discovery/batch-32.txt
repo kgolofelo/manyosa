@@ -1,0 +1,52 @@
+
+=== BATCH 32 - Auto-discovered (2026-07-08 18:30) ===
+1	"Love Song 28"	Jullian Gomes, Robin Hannibal	SA House	https://open.spotify.com/track/1B9aTwGAtuoUNlX8eJ2qpe
+2	"Joy - Vocal Mix"	Nastee Nev	SA House	https://open.spotify.com/track/4MeadBG11bVIMceveUFhad
+3	"If We Try - Original Mix"	Echo Deep, MoreSoul	SA House	https://open.spotify.com/track/3h8rZRPIapb1Mea3r7z07p
+4	"Summer Daze - DukeSoul's Mellow Touch"	DukeSoul	SA House	https://open.spotify.com/track/2w4OZj6tVb886A071qSmYt
+5	"Falling In Love Again"	DJ Fortee, Akhona	SA House	https://open.spotify.com/track/7mkinwW8G28GtC0bzH8NSx
+6	"Takala"	Black Motion, Afrikan Roots, Buckz, MÖRDA	SA House	https://open.spotify.com/track/05V4AsCrdYDyZ9X3p52NDF
+7	"Don't Wanna Be (Your Friend)"	Euphonik, Mi Casa	SA House	https://open.spotify.com/track/1VN42HeOD624v0M92a4XvI
+8	"Boogie With Ex"	Exte C	SA House	https://open.spotify.com/track/7AyntyCQpBuNxKqTSdmsi6
+9	"L'owè L'owè"	DJ Qness, Dele Sosimi	SA House	https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx
+10	"Vibe"	Dvine Brothers, Kelvin Momo	SA House	https://open.spotify.com/track/0zV3PcTtPKdT4g0zAMhnmm
+11	"Criminal"	DJ Mshega, Lady Zamar	SA House	https://open.spotify.com/track/2ctu9ewlaonyn1JiJtAfoy
+12	"Happy Song - Original Mix"	Dr Duda, Euphonik	SA House	https://open.spotify.com/track/0uLxkH4RPZ1WlJ7A6bbusD
+13	"Neo"	Chronical Deep	SA House	https://open.spotify.com/track/4WLvOVhhpumbDPGpG4QD71
+14	"Get Over It"	Bucie	SA House	https://open.spotify.com/track/1Utz4zu6JCd8iyA77ueD3t
+15	"Groovy Ke Can"	Zito Mowa	SA House	https://open.spotify.com/track/0R95pwVH3IIFR6ncZA2Iub
+16	"Step & Clap"	Dj Vitoto, Mpho.Wav	SA House	https://open.spotify.com/track/1vXJLNokop0LTWMTzAtrjR
+17	"Wet Cinnamon"	Thorne Miller, Chris Sen, Ms.Kelle	SA House	https://open.spotify.com/track/28N1UXfApFCGs7q7j9tgDn
+18	"Mina Nawe"	Mpumi, Professor, DJ Active	SA House	https://open.spotify.com/track/3PjR63jqXRiBr7b68z8zPv
+19	"Call Out"	DJ Fisherman, NaakMusiQ, Dreamteam, Danger, Dj SK	SA House	https://open.spotify.com/track/69gfXhkvIhIl7vkVBERSJ7
+20	"Skontiri"	Malumz on Decks	SA House	https://open.spotify.com/track/4po57qphS5dHDitAV2JSML
+21	"Emazulwini"	Bob'Ezy, Pixie L	SA House	https://open.spotify.com/track/5zkSTJv3vhDkqow2aS6CqL
+22	"Broken Secrets"	Kat La Kat, Leeu	SA House	https://open.spotify.com/track/5PWlCZvJ1b36e4VKULNveK
+23	"Umuthi (The Cure)"	BlaQRhythm, Elo Mude	SA House	https://open.spotify.com/track/7CSBTqNRFaRo09Gwz6fkro
+24	"Ocean View"	Lulo Café	SA House	https://open.spotify.com/track/41Ntuwytc3GMEiT26bi4KY
+25	"Mdali"	DJ Zinhle, Basetsana	SA House	https://open.spotify.com/track/0Ht4qOa1PuogKjlEEOfIxW
+26	"I'm Lost Without You"	Stagz Jazz	SA House	https://open.spotify.com/track/6D6uRO10P3l3CKgpfYWKYn
+27	"See you later( Wonder )"	C.9ine, Cozmiq, SkinnyPHAT, P’Oliveira	SA House	https://open.spotify.com/track/1sse5NjYe7UdxVTzB0r1yT
+28	"Indlela"	Dr Malinga, Kwesta	SA House	https://open.spotify.com/track/3AUVbwnc6SYB4goZmiJRVx
+29	"Lets Play House - Nostalgic Mix"	The Godfathers Of Deep House SA	SA House	https://open.spotify.com/track/0PuD2RpSL2rkBz5qDghcaJ
+30	"Tumba La Casa"	Sancocho	Latin House	https://open.spotify.com/track/6uOthLRQMN4rYQ2x2VK2bU
+31	"Try Yazz"	Two Without Hats	Latin House	https://open.spotify.com/track/22XbNq1dFj7ASyx5f1anYC
+32	"Boricua - Original Mix"	DJ Lucerox	Latin House	https://open.spotify.com/track/0DzrEotxFMTwGkfWmGVnKU
+33	"Magic Carpet Ride - Extended"	Mighty Dub Katz	Latin House	https://open.spotify.com/track/0eEVNYdzmuZZPFzfTokhXv
+34	"Je Ka Jo - Demo Mix"	Joaquin "Joe" Claussell	Latin House	https://open.spotify.com/track/1IlYrlylgU4hsdnMNlyWES
+35	"El Mohan - Mario Ochoa Remix"	Ramon Bedoya, Mario Ochoa	Latin House	https://open.spotify.com/track/5fK8hn8IhhqOLQX5sAoVnC
+36	"Love & Happiness (Yemaya Y Ochùn) - Maw Dub Beats"	River Ocean, LA INDIA	Latin House	https://open.spotify.com/track/4kbIGzMDGIJ8Ppne1gxZbC
+37	"El Buho"	Alexander Zabbi	Latin House	https://open.spotify.com/track/0OoDBvuNDtBHaiA5tzAVg7
+38	"Smooth"	Javi Colina, Quoxx, Lowjess	Latin House	https://open.spotify.com/track/5tuW2kNC1SxKq4dCByhL7Z
+39	"Feeling Good"	Javi Colors, Dr. Alfred	Latin House	https://open.spotify.com/track/05bhKPmpsiVLzT0BdwbLpA
+40	"La Luna - KauraDj Remix"	Eli Brach, Kaura DJ	Latin House	https://open.spotify.com/track/1m7s0l4P7L7i82Gs1e7RoU
+41	"Dungusmartus"	Matthew Codek	Latin House	https://open.spotify.com/track/4f3E2muMlGF1DK2iFwMQUD
+42	"Celia Scat - Norty Cotto Club Mix"	Norty Cotto, DJ Stingray	Latin House	https://open.spotify.com/track/5Hk40G2zosmXNLJc3ZSF1y
+43	"Muevete Mama (Broder Mix)"	Afro-Cube	Latin House	https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK
+44	"Keep On (Pressin' On) - Didn't I Show You Luv?"	That Kid Chris	Latin House	https://open.spotify.com/track/2kd2xWywBcHThGzxFi5XSl
+45	"La Mezcla - Paul Kalkbrenner Remix"	Michel Cleis, Totó La Momposina, Paul Kalkbrenner	Latin House	https://open.spotify.com/track/3XETVG4YPmWS9Fk7q6aLlQ
+46	"Do You Wanna Dance - Club Dance"	Bad Boy Orchestra	Latin House	https://open.spotify.com/track/5hkGvCHxyI8toPURDALHlI
+47	"100% Pure Love (Extended Mix)"	Armand Pena, Crystal Waters	Latin House	https://open.spotify.com/track/1XoCItt7ZlKWzgqre0HEGu
+48	"Everything's All Right (Esa Nena) - Hard Vox Mix"	Arts Of Rhythm	Latin House	https://open.spotify.com/track/4YU4M7JlvwZBuCjb2bcYp2
+49	"I'm Gone - Original Mix"	Enrico Arghentini, Chus Soler, Ayesha	Latin House	https://open.spotify.com/track/5HLqRjPDSMrmZ2njVvJ7yT
+50	"La Rumba"	Los Compadres	Latin House	https://open.spotify.com/track/4A7lcBLwfNzbfxUHgF0hzy

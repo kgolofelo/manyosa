@@ -1,0 +1,52 @@
+
+=== BATCH 30 - Auto-discovered (2026-07-07 00:30) ===
+1	"You Like Jazz?"	Michael Diamond	Jazz House	https://open.spotify.com/track/2PhkfRWhKh7akEKTTLWvG4
+2	"Renaissance"	Honeydripper	Jazz House	https://open.spotify.com/track/1mqPLbDc8DCRlTuyF26ste
+3	"Present Perfect"	Sable Blanc	Jazz House	https://open.spotify.com/track/1zEXYf6K5JiaZk4bMC8th4
+4	"Come a Little Closer"	TEE MANGO	Jazz House	https://open.spotify.com/track/1b1CCARlbHEgnNiQ9XACWm
+5	"NYC"	Brooklyn Baby	Jazz House	https://open.spotify.com/track/4OInATuGjjHMF4fUUNDJEx
+6	"Sweet Sticky"	Theo Parrish	Jazz House	https://open.spotify.com/track/7wAPKByejF2gAMm9PoWkXN
+7	"Homespun"	Glenn Astro, Ajnascent	Jazz House	https://open.spotify.com/track/35Lh2iogJjy8ahnTRiQ7Ld
+8	"I Never Thought"	QUASAR	Jazz House	https://open.spotify.com/track/4CWJ6V6Y5XBjM2STX6z9a0
+9	"Deep - 7' Mix"	Space Ghost	Jazz House	https://open.spotify.com/track/6A9tMVmtUhjWewDbn7tcFE
+10	"Serious Intentions"	Secret Value Orchestra	Jazz House	https://open.spotify.com/track/0azfPvFIVBMEpFhtJvhwTI
+11	"Hollywood"	Damiano von Erckert, Georgia Anne Muldrow	Jazz House	https://open.spotify.com/track/1LGYmFN85ehcdzFBODTPYH
+12	"Swim"	Hugo Mari	Jazz House	https://open.spotify.com/track/7I1e5uMItJ9kiTWFyUayVs
+13	"Perfetta Cosi"	Sam Ruffillo	Jazz House	https://open.spotify.com/track/6k5dL3jGlbliaIQRqkAGcU
+14	"Traces"	Saine	Jazz House	https://open.spotify.com/track/3Ci7dkGBXotcCAoTzFQeI6
+15	"Dusty Jazz"	Sameed	Jazz House	https://open.spotify.com/track/3JpvBva0TwiWMVFebNqtTL
+16	"In the Mood"	4004	Jazz House	https://open.spotify.com/track/1m1o6f98HRpqhsAgKMHMqF
+17	"Hold You"	Aemone	Jazz House	https://open.spotify.com/track/48K735Rd3UQExzjXH004k1
+18	"Frenetic Dance Under the Moonlight"	Saint Paul	Jazz House	https://open.spotify.com/track/7y5kuCsF1Qb1B45OIDBdm3
+19	"Toka Blowout Mix"	Toka Project	Jazz House	https://open.spotify.com/track/2biiWyvFoCg2isA3iU34p7
+20	"Nu Beginning"	Alexny	Jazz House	https://open.spotify.com/track/7j4otL1sZYHRnsWotYlbqv
+21	"How It Feels"	Barry Can't Swim	Jazz House	https://open.spotify.com/track/3NZz7DWeVQesSOn6mO39F7
+22	"Feel the Beat - Partiboi69 Remix"	LB aka LABAT, Partiboi69	Jazz House	https://open.spotify.com/track/2wNEBBr52TumYRmtYH1ocC
+23	"Feel Your Soul"	David Marston, Brigitte Zozula, Frano	Jazz House	https://open.spotify.com/track/2CXjrph4GOOERwlmak9CyE
+24	"Buck Up"	Erik Ellmann	Jazz House	https://open.spotify.com/track/1S91E0SFlqAABqyr1uXmDF
+25	"Luck Both Ways, Dunham Place"	Hobie	Jazz House	https://open.spotify.com/track/14Fb4NxK10dVUCIEl601B6
+26	"Fridge Magnet - Radio Theme 1"	Uffe	Jazz House	https://open.spotify.com/track/6R61DbcGKKMuVEeyrkVOkH
+27	"Milestones (Miles Davis Tribute)"	Horatio Luna	Jazz House	https://open.spotify.com/track/0jtoDPpTNPWRJ8i3SMemD1
+28	"Funkin On"	Kisk, Maxim Buldakov	Jazz House	https://open.spotify.com/track/2biiuJ8J4EALuBW0itCzPV
+29	"Voltaire"	Horsemen	Jazz House	https://open.spotify.com/track/7Crv0MO1Va0adq2b5SMCUo
+30	"Jazzy"	Ghetto Groove	Jazz House	https://open.spotify.com/track/2yVPwcYGoI6velQzJH2CKc
+31	"Readymade"	Interface Palm	Jazz House	https://open.spotify.com/track/73JfpNkfpxwOi8LTg5P79M
+32	"Rhodes, 3AM"	Hokuto Sato	Jazz House	https://open.spotify.com/track/2RkW8H3tq7sVtqKNaL0iXn
+33	"Venezuela"	Tom Budin, Rave Radio	Deep Groove House	https://open.spotify.com/track/0ZnMzSoVfqDRzXgagCOlKZ
+34	"Darlin"	DubRocca	Deep Groove House	https://open.spotify.com/track/1I0cghAH8vqMdWjxKoBAJx
+35	"All I Need"	Dirty Freek	Deep Groove House	https://open.spotify.com/track/5aeIndQC3aom7k8Sr2g43b
+36	"Better Than This (feat. Emida)"	Kokiri, Emida	Deep Groove House	https://open.spotify.com/track/2pdqOLFBa0gkqAp9nbm0Jh
+37	"Losing You - Original Mix"	Deep Matter, AwoL	Deep Groove House	https://open.spotify.com/track/7KoNfxRESp1P6Fw93DmDD5
+38	"Better Times"	KC Lights, Låpsley	Deep Groove House	https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8
+39	"A History (feat. Julian Mitchell)"	Nicky Night Time, Dangerous Dan, Rhonda INTL., Julian Mitchell	Deep Groove House	https://open.spotify.com/track/6oU6dWGBlobPsBIb4mRbqX
+40	"Chicago"	Apres	Deep Groove House	https://open.spotify.com/track/1YGsHB6UTDKXYRvJjmsZm6
+41	"Shout Out Loud"	LO'99	Deep Groove House	https://open.spotify.com/track/7otkkXuwLdVPPWMuuCw0Hs
+42	"Inta Outta"	Sammy Porter	Deep Groove House	https://open.spotify.com/track/7pRaDNWbO6dvAuzZqzu4J3
+43	"I Don't Know - Club Mix"	Michael Mandal	Deep Groove House	https://open.spotify.com/track/0nlmNpWP1Foesh1JVi5cKL
+44	"Daydream (feat. Tara Louise) - Original Mix"	BITMORE, Tara Louise	Deep Groove House	https://open.spotify.com/track/6FsAzBjdRxuN6sMv0hBIK5
+45	"One Of A Kind - A Lister Remix"	LS2, Romany, A Lister	Deep Groove House	https://open.spotify.com/track/5yCgsyGH6xCW20jGVkVzsq
+46	"All This Before - Endor Remix"	Bordertown	Deep Groove House	https://open.spotify.com/track/5eXFyj1z7gbBt3pkO9nFwi
+47	"Trouble"	OFFAIAH	Deep Groove House	https://open.spotify.com/track/7BQRqhJtJoXB1pNCvf7VmZ
+48	"The Party (This Is How We Do It) [feat. Montell Jordan] - Radio Edit"	Joe Stone, Montell Jordan	Deep Groove House	https://open.spotify.com/track/7btFRLmYVWgCdXy6fx8c3H
+49	"Saving Up"	Dom Dolla	Deep Groove House	https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr
+50	"Go"	TCTS, Maroox	Deep Groove House	https://open.spotify.com/track/4m3ljlctmzWajEZPgxXOBb
