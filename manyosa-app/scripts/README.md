@@ -11,7 +11,7 @@ behind the Laravel app) topped up with fresh songs to review.
 2. Visits each of the 8 user playlists in `config.json#user_playlists` and
    adds those track IDs to the exclusion set.
 3. Walks `config.json#source_playlists` (Every Noise "Sound of …" playlists)
-   in order. For each playlist it parses the page's `__NEXT_DATA__` JSON and
+   in order. For each playlist it paginates Spotify's Pathfinder API and
    collects tracks not already in the exclusion set.
 4. Stops when `target_new_songs` (default 50) new tracks have been gathered.
 5. Appends a new `=== BATCH N - Auto-discovered (timestamp) ===` block to
@@ -84,7 +84,8 @@ tail -f manyosa-app/storage/discovery/cron.log
   mine. Each has `{id, name, genre}`; `genre` is what gets written to the
   new batch.
 - `target_new_songs` — how many new tracks per run (default 50).
-- `max_tracks_per_source` — cap how many tracks to consider from any single
-  source playlist (default 80) so one mega-playlist can't monopolize a batch.
+- `max_tracks_per_source` — max new tracks to take from any single source
+  playlist per run (default 80). The scraper walks the full playlist, not
+  just the first page.
 - `min_duration_seconds` — only discover and keep songs at least this long
   (default 300 = 5 minutes). Shorter `new` songs are auto-closed after import.

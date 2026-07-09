@@ -8,9 +8,10 @@ Loads the existing track IDs from manyosa.txt and the 8 user playlists
 gathered the target number of new tracks.  The new batch is appended to
 manyosa.txt and the SQLite DB is refreshed via `php artisan songs:import`.
 
-No Spotify API is used. Everything goes through a real browser (Playwright +
-Chromium) loading public open.spotify.com playlist URLs and reading the
-embedded `__NEXT_DATA__` JSON.
+No Spotify API is used. A headless Chromium session loads one public
+open.spotify.com playlist page to capture Spotify's internal Pathfinder
+query, then paginates through full playlist track lists (not just the
+first ~50 embed tracks).
 
 Run via scripts/run.sh (used by cron) or manually:
     scripts/.venv/bin/python scripts/discover.py
@@ -26,7 +27,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-from playwright.sync_api import Page, TimeoutError as PWTimeout, sync_playwright
+from playwright.sync_api import Page, sync_playwright
 
 ROOT          = Path(__file__).resolve().parent.parent
 TXT_PATH      = ROOT.parent / "manyosa.txt"
@@ -34,10 +35,17 @@ CONFIG_PATH   = ROOT / "scripts" / "config.json"
 LOG_DIR       = ROOT / "storage" / "discovery"
 TRACK_RE      = re.compile(r"open\.spotify\.com/track/([A-Za-z0-9]{22})")
 BATCH_RE      = re.compile(r"BATCH\s+(\d+)\b", re.IGNORECASE)
+PATHFINDER_URL = "https://api-partner.spotify.com/pathfinder/v2/query"
 USER_AGENT    = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 )
+_PAGE_FETCH_JS = """async ({url, headers, body}) => {
+    const h = {...headers};
+    delete h['content-length'];
+    const r = await fetch(url, {method: 'POST', headers: h, body: JSON.stringify(body)});
+    return await r.json();
+}"""
 
 
 def log(msg: str) -> None:
@@ -61,70 +69,137 @@ def next_batch_number() -> int:
     return (max(nums) if nums else 0) + 1
 
 
-def fetch_playlist(page: Page, playlist_id: str) -> list[dict]:
-    """Return a list of {id, title, artist} dicts for tracks in the playlist.
+class PathfinderSession:
+    """Reuse Spotify web Pathfinder credentials to paginate full playlists."""
 
-    Uses Spotify's public oEmbed-style page at /embed/playlist/<id>, which
-    server-renders the first ~100 tracks into a __NEXT_DATA__ JSON blob.
-    """
-    url = f"https://open.spotify.com/embed/playlist/{playlist_id}"
-    log(f"  → loading {playlist_id}")
-    try:
-        page.goto(url, wait_until="domcontentloaded", timeout=30_000)
-    except PWTimeout:
-        log(f"    timeout loading {playlist_id}")
-        return []
+    def __init__(self) -> None:
+        self.headers: dict | None = None
+        self.body_template: dict | None = None
 
-    try:
-        page.wait_for_selector("script#__NEXT_DATA__", state="attached", timeout=15_000)
-    except PWTimeout:
-        log(f"    no __NEXT_DATA__ for {playlist_id}")
-        return []
+    def bootstrap(self, page: Page, playlist_id: str) -> None:
+        captured: dict = {}
 
-    raw = page.eval_on_selector("script#__NEXT_DATA__", "el => el.textContent")
-    try:
-        data = json.loads(raw)
-    except json.JSONDecodeError:
-        log(f"    bad JSON for {playlist_id}")
-        return []
+        def on_request(req) -> None:
+            if "pathfinder/v2/query" not in req.url or req.method != "POST":
+                return
+            try:
+                body = json.loads(req.post_data or "")
+            except json.JSONDecodeError:
+                return
+            if body.get("operationName") == "fetchPlaylistContents":
+                captured["headers"] = req.headers
+                captured["body"] = body
 
-    track_list = _find_tracklist(data)
-    out: list[dict] = []
-    for item in track_list:
-        if not isinstance(item, dict):
-            continue
-        uri = item.get("uri") or ""
-        if not uri.startswith("spotify:track:"):
-            continue
-        tid = uri.split(":")[2]
-        title = (item.get("title") or "(unknown)").strip()
-        artist = (item.get("subtitle") or "(unknown)").replace("\u00a0", " ").strip()
-        duration_ms = item.get("duration")
-        out.append({
-            "id": tid,
-            "title": title,
-            "artist": artist,
-            "duration_ms": duration_ms if isinstance(duration_ms, int) else None,
-        })
-    return out
+        page.on("request", on_request)
+        try:
+            page.goto(
+                f"https://open.spotify.com/playlist/{playlist_id}",
+                wait_until="networkidle",
+                timeout=60_000,
+            )
+            page.wait_for_timeout(2_000)
+        finally:
+            page.remove_listener("request", on_request)
+
+        if not captured:
+            raise RuntimeError(f"failed to capture Pathfinder query for {playlist_id}")
+
+        self.headers = captured["headers"]
+        self.body_template = captured["body"]
+
+    def fetch_playlist(self, page: Page, playlist_id: str) -> list[dict]:
+        if not self.headers or not self.body_template:
+            raise RuntimeError("Pathfinder session not bootstrapped")
+
+        out: list[dict] = []
+        seen: set[str] = set()
+        offset = 0
+        limit = 50
+        total: int | None = None
+
+        while total is None or offset < total:
+            body = dict(self.body_template)
+            body["variables"] = dict(self.body_template["variables"])
+            body["variables"].update({
+                "uri": f"spotify:playlist:{playlist_id}",
+                "offset": offset,
+                "limit": limit,
+            })
+            try:
+                result = page.evaluate(
+                    _PAGE_FETCH_JS,
+                    {"url": PATHFINDER_URL, "headers": self.headers, "body": body},
+                )
+            except Exception as exc:
+                log(f"    pathfinder error at offset {offset} for {playlist_id}: {exc}")
+                break
+
+            content = (result.get("data") or {}).get("playlistV2", {}).get("content") or {}
+            if total is None:
+                total = int(content.get("totalCount") or 0)
+            items = content.get("items") or []
+            if not items:
+                break
+
+            for item in items:
+                track = _track_from_pathfinder_item(item)
+                if not track or track["id"] in seen:
+                    continue
+                seen.add(track["id"])
+                out.append(track)
+
+            offset += limit
+
+        return out
 
 
-def _find_tracklist(node):
-    """Locate the first list of track-shaped dicts inside the __NEXT_DATA__ tree."""
-    if isinstance(node, dict):
-        tl = node.get("trackList")
-        if isinstance(tl, list) and tl:
-            return tl
-        for v in node.values():
-            found = _find_tracklist(v)
-            if found:
-                return found
-    elif isinstance(node, list):
-        for v in node:
-            found = _find_tracklist(v)
-            if found:
-                return found
-    return []
+def _track_duration_ms(data: dict) -> int | None:
+    track_duration = data.get("trackDuration")
+    if isinstance(track_duration, dict):
+        ms = track_duration.get("totalMilliseconds")
+        if isinstance(ms, int):
+            return ms
+
+    duration = data.get("duration")
+    if isinstance(duration, dict):
+        ms = duration.get("totalMilliseconds")
+        if isinstance(ms, int):
+            return ms
+    if isinstance(duration, int):
+        return duration
+    return None
+
+
+def _track_from_pathfinder_item(item: dict) -> dict | None:
+    data = (item.get("itemV2") or item.get("itemV3") or {}).get("data") or {}
+    if data.get("__typename") != "Track":
+        return None
+
+    uri = data.get("uri") or ""
+    if not uri.startswith("spotify:track:"):
+        return None
+
+    artists = data.get("artists", {}).get("items") or []
+    artist = ", ".join(
+        (a.get("profile") or {}).get("name", "").strip()
+        for a in artists
+        if (a.get("profile") or {}).get("name")
+    ) or "(unknown)"
+
+    return {
+        "id": uri.split(":")[2],
+        "title": (data.get("name") or "(unknown)").strip(),
+        "artist": artist,
+        "duration_ms": _track_duration_ms(data),
+    }
+
+
+def fetch_playlist(page: Page, playlist_id: str, session: PathfinderSession) -> list[dict]:
+    """Return all tracks in a playlist via Spotify's Pathfinder API."""
+    log(f"  → fetching {playlist_id}")
+    tracks = session.fetch_playlist(page, playlist_id)
+    log(f"    {len(tracks)} tracks")
+    return tracks
 
 
 def build_batch_text(batch_num: int, picks: list[dict]) -> str:
@@ -176,14 +251,25 @@ def main() -> int:
 
     picks_by_id: dict[str, dict] = {}
 
+    max_new_per_source = int(config.get("max_tracks_per_source", 80))
+
     with sync_playwright() as pw:
         browser = pw.chromium.launch(headless=not args.headed)
         ctx = browser.new_context(user_agent=USER_AGENT, locale="en-US")
         page = ctx.new_page()
+        session = PathfinderSession()
+
+        bootstrap_id = (
+            config["user_playlists"][0]
+            if config.get("user_playlists")
+            else config["source_playlists"][0]["id"]
+        )
+        log(f"bootstrapping Spotify session via playlist {bootstrap_id}")
+        session.bootstrap(page, bootstrap_id)
 
         log("phase 1: scrape user playlists for additional exclusions")
         for pid in config["user_playlists"]:
-            for t in fetch_playlist(page, pid):
+            for t in fetch_playlist(page, pid, session):
                 excluded.add(t["id"])
         log(f"exclusion set after user playlists: {len(excluded)}")
 
@@ -192,15 +278,17 @@ def main() -> int:
             if len(picks_by_id) >= target:
                 break
             log(f"source: {src['name']} ({src['genre']})")
-            tracks = fetch_playlist(page, src["id"])
-            for t in tracks[: int(config.get("max_tracks_per_source", 80))]:
+            tracks = fetch_playlist(page, src["id"], session)
+            source_picks = 0
+            for t in tracks:
                 if t["id"] in excluded or t["id"] in picks_by_id:
                     continue
                 dur = t.get("duration_ms")
                 if dur is None or dur < min_duration_ms:
                     continue
                 picks_by_id[t["id"]] = {**t, "genre": src["genre"]}
-                if len(picks_by_id) >= target:
+                source_picks += 1
+                if source_picks >= max_new_per_source or len(picks_by_id) >= target:
                     break
             log(f"  cumulative new picks: {len(picks_by_id)}")
 
